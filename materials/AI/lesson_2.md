@@ -19,7 +19,7 @@ location: "Debrecen, Hungary"
 
 ### Gondolkodjunk közösen
 
-<video width="320" height="240" controls><source src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" type="video/mp4"></video>
+<video controls><source src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" type="video/mp4"></video>
 
 ### Állapottér reprezntáció
 
@@ -32,7 +32,7 @@ location: "Debrecen, Hungary"
 #### Állapotok halmaza
 
 - A ⊆ H1xH2xH3
-- A = {<a1, a2, a3> | <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1+a2+a3 = 5}
+- A = {<a1, a2, a3>, <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1+a2+a3 = 5}
 - 12 lehetséges állapot
 
 #### Kezdő állapot:
@@ -42,12 +42,12 @@ location: "Debrecen, Hungary"
 #### Célállapotok:
 
 - C = {< 4, 1, 0 > , < 4, 0, 1 >}
-- C = {<a1, a2, a3 >  | <a1, a2, a3> ∈ A ∧ a1 = 4}
+- C = {<a1, a2, a3 >, <a1, a2, a3> ∈ A ∧ a1 = 4}
 
 #### Operátorok:
 
 - O = {o1,2, o1,3, o2,1, o2,3, o3,1, o3,2} = {oi,j | i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j} 
-- Dom(oi,j)={<a1, a2, a3>  | <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj < max(Hj)}, ahol oi,j ∈ O
+- Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj < max(Hj)}, ahol oi,j ∈ O
 - oi,j(<a1, a2, a3>) = <b1, b2, b3>)
 - m = min(ai, max(Hj) – aj)
 - bk, ahol b=1,2,3
