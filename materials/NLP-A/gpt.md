@@ -2,7 +2,7 @@
 title: "Generative pre-trained transformer (GPT)"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/gpt
+permalink: /materials/NLP-A/gpt
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

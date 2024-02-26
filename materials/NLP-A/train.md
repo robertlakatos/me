@@ -2,7 +2,7 @@
 title: "Train"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/train
+permalink: /materials/NLP-A/train
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

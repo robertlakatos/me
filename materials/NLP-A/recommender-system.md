@@ -2,7 +2,7 @@
 title: "NLP based recommender-system"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/recommender-system
+permalink: /materials/NLP-A/recommender-system
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

@@ -2,7 +2,7 @@
 title: "Pipeline"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/pipeline
+permalink: /materials/NLP-A/pipeline
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

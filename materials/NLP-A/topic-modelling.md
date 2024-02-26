@@ -2,7 +2,7 @@
 title: "Topic Modelling"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/topic-modelling
+permalink: /materials/NLP-A/topic-modelling
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

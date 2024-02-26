@@ -14,39 +14,39 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Labor Codes
 
-### I.    [Python Basics](../NLP-A/python)
+### I.    [Python Basics](../materials/NLP-A/python)
 
-### I.    [Numpy and Matplotlib](./NLP-A-M/numpy-and-matplotlib)
+### I.    [Numpy and Matplotlib](./materials/NLP-A-M/numpy-and-matplotlib)
 
-### I.    [Pandas Intro](../NLP-A/pandas)
+### I.    [Pandas Intro](../materials/NLP-A/pandas)
 
-### II.   [Pipeline](../NLP-A/pipeline)
+### II.   [Pipeline](../materials/NLP-A/pipeline)
 
-### III.  [Train](../NLP-A/train)
+### III.  [Train](../materials/NLP-A/train)
 
-### IV.   [Tokenization](../NLP-A/tokenization)
+### IV.   [Tokenization](../materials/NLP-A/tokenization)
 
-### V.    [Embedding](../NLP-A/embedding)
+### V.    [Embedding](../materials/NLP-A/embedding)
 
-### VI.   [Pos Embedding](../NLP-A/pos-embedding)
+### VI.   [Pos Embedding](../materials/NLP-A/pos-embedding)
 
-### VII.  [Attention I.](../NLP-A/attention-I)
+### VII.  [Attention I.](../materials/NLP-A/attention-I)
 
-### VIII. [Attention II.](../NLP-A/attention-II)
+### VIII. [Attention II.](../materials/NLP-A/attention-II)
 
-### IX.   [Feed Foward Layer](../NLP-A/feed-foward)
+### IX.   [Feed Foward Layer](../materials/NLP-A/feed-foward)
 
-### X.    [Training in Transformer Architecture](../NLP-A/train-transformer)
+### X.    [Training in Transformer Architecture](../materials/NLP-A/train-transformer)
 
-### XI.   [Generative Pre-trained Transformer (GPT)](../NLP-A/gpt)
+### XI.   [Generative Pre-trained Transformer (GPT)](../materials/NLP-A/gpt)
 
-### XII.  [Recommender System](../NLP-A/recommedner-system)
+### XII.  [Recommender System](../materials/NLP-A/recommedner-system)
 
-### XIII. [Topic Modelling](../NLP-A/topic-modelling)
+### XIII. [Topic Modelling](../materials/NLP-A/topic-modelling)
 
-### XIV. [Multimodal](../NLP-A/multimodal)
+### XIV. [Multimodal](../materials/NLP-A/multimodal)
 
-### XIV. [Generativ AI - Chat modell](../NLP-A/gaichat)
+### XIV. [Generativ AI - Chat modell](../materials/NLP-A/gaichat)
 
 # Labor Information
 

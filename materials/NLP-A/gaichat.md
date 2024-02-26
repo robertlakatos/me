@@ -2,7 +2,7 @@
 title: "Generative AI - Chat model"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/gaichat
+permalink: /materials/NLP-A/gaichat
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

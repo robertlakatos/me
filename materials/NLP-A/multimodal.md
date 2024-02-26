@@ -2,7 +2,7 @@
 title: "Multimodal use cases"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/multimodal
+permalink: /materials/NLP-A/multimodal
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

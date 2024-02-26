@@ -2,7 +2,7 @@
 title: "Embedding"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/embedding
+permalink: /materials/NLP-A/embedding
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

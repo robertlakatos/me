@@ -2,7 +2,7 @@
 title: "Pandas Intro (short)"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/pandas
+permalink: /materials/NLP-A/pandas
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

@@ -2,7 +2,7 @@
 title: "Attention II."
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/attention-II
+permalink: /materials/NLP-A/attention-II
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"

@@ -2,7 +2,7 @@
 title: "Tokenization"
 collection: teaching
 type: "M.Sc course"
-permalink: /NLP-A/tokenization
+permalink: /materials/NLP-A/tokenization
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024
 location: "Debrecen, Hungary"
