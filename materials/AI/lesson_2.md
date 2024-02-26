@@ -1,15 +1,62 @@
 ---
-title: "1. Gyakrolat"
+title: "2. Gyakrolat"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/AI/lesson_1
+permalink: /materials/AI/lesson_2
 venue: "University of Debrecen, Department of Data Science and Visualization"
 location: "Debrecen, Hungary"
 ---
 
-## Probléma
+## Ismétlés
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/problem.png" alt="Problem">
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
+
+## 3 Korsó
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/3korso.png" alt="3korso">
+
+### Gondolkodjunk közösen
+
+<video controls src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" />
+
+### Állapottér reprezntáció
+
+#### Jellemzők
+
+- H1 = {0, 1, 2, 3, 4, 5}, 
+- H2 = {0, 1, 2, 3}, 
+- H3 = {0, 1, 2}
+
+#### Állapotok halmaza
+
+- A ⊆ H1xH2xH3
+- A = {<a1, a2, a3> | <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1+a2+a3 = 5}
+- 12 lehetséges állapot
+
+#### Kezdő állapot:
+
+- a0=<5, 0, 0>
+
+#### Célállapotok:
+
+- C = {< 4, 1, 0 > , < 4, 0, 1 >}
+- C = {<a1, a2, a3 >  | <a1, a2, a3> ∈ A ∧ a1 = 4}
+
+#### Operátorok:
+
+- O = {o1,2, o1,3, o2,1, o2,3, o3,1, o3,2} = {oi,j | i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j} 
+- Dom(oi,j)={<a1, a2, a3>  | <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj < max(Hj)}, ahol oi,j ∈ O
+- oi,j(<a1, a2, a3>) = <b1, b2, b3>)
+- m = min(ai, max(Hj) – aj)
+- bk, ahol b=1,2,3
+    - ak + m, ha k = j
+    - ak - m, ha k = i
+    - ak, egyébként
+
+
+### Programozzunk
 
 ```python
 class Problem:
@@ -61,22 +108,6 @@ class Problem:
         """Optimalizálási problémák esetén minden állapotnak van értéke. 
         A hegymászó és más hasonló algoritmusok megpróbálják maximalizálni ezt az értéket."""
         raise NotImplementedError
-```
-
-```python
-from libs.problem import Problem
-
-problem = Problem((5,0,0), [(4,1,0),(4,0,1)])
-problem.initial, problem.goal
-```
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
-
-```python
-from libs.problem import Problem
-
-problem = Problem((5,0,0), [(4,1,0),(4,0,1)])
-problem.initial, problem.goal
 ```
 
 ```python
@@ -143,23 +174,148 @@ class Node:
 ```
 
 ```python
-from libs.node import Node
+class Cup3(Problem):
+    def actions(self, state):
+        """Operátorok definiálása"""
+        acts = []
+        five, three, two = state
+        if five > 0 and three < 3:
+            acts.append("5-->3")
+        if five > 0 and two < 2:
+            acts.append("5-->2")
+        if three > 0 and five < 5:
+            acts.append("3-->5")
+        if three > 0 and two < 2:
+            acts.append("3-->2")
+        if two > 0 and five < 5:
+            acts.append("2-->5")
+        if two > 0 and three < 3:
+            acts.append("2-->3")
+        return acts
+
+    def result(self, state, action):
+        """Operátorok hatásának definiálása"""
+        five, three, two = state
+        if action == "5-->3":
+            m = min(five, 3-three)
+            return (five-m, three+m, two)
+        if action == "5-->2":
+            m = min(five, 2-two)
+            return (five-m, three, two+m)
+        if action == "3-->5":
+            m = min(three, 5-five)
+            return (five+m, three-m, two)
+        if action == "3-->2":
+            m = min(three, 2-two)
+            return (five, three-m, two+m)
+        if action == "2-->5":
+            m = min(two, 5-five)
+            return (five+m, three, two-m)
+        if action == "2-->3":
+            m = min(two, 3-three)
+            return (five, three+m, two-m)
 ```
 
 ```python
-# __repr__
-state2 = Node(state=2, parent=state1)
-# print(state2)
-state2
+from libs.cup3 import Cup3
+
+c = Cup3((5,0,0), [(4,1,0),(4,0,1)])
+```
+
+#### Próba-hiba módszer
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/trial_error.png" alt="Próba-hiba">
+
+```python
+def trial_error(problem):
+    """
+    Próba hiba módszer
+    """
+
+    # kezdő állapot
+    state = Node(problem.initial)
+
+    # végtelen ciklus definiálása
+    while True:
+        # Ha a probléma megoldva akkor leállítjuk a végtelen ciklust
+        if problem.goal_test(state.state):
+            print('Got it')
+            return state
+
+        # Az alkalmazható operátorok segítsével 
+        # gyártsuk le az összes lehetséges utódot 
+        succesors=state.expand(problem)
+
+        # Ha nincs új állapot (utód)
+        if len(succesors)==0:
+            return 'Unsolvable'
+
+        # random választunk egy újat a legyártott utódok közül
+        state=succesors[np.random.randint(0,len(succesors))]
+        print(state.state)
 ```
 
 ```python
-# __eq__
-print(state1 is object)
+print(trial_error(c).solution())
+```
+
+#### Hegymászó módszer
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/hill_climbing.png" alt="Hegymászó">
+
+```python
+def hill_climbing(problem, heuristic):
+    # kezdő állapot
+    state = Node(problem.initial)
+
+    # végtelen ciklus definiálása
+    while True:
+        # Ha a probléma megoldva akkor leállítjuk a végtelen ciklust
+        if problem.goal_test(state.state):
+            return state
+
+        # Az alkalmazható operátorok segítsével 
+        # gyártsuk le az összes lehetséges utódot 
+        succesors=state.expand(problem)
+
+        # keresünk egy jobb állapotott a heurisztikának megfelelően
+        test_succesors=[]
+        for s_test in succesors:
+            if heuristic(state.state)>=heuristic(s_test.state):
+                test_succesors.append(s_test)
+
+        # Ha nincs jobb állapot
+        if len(test_succesors)==0:
+            return 'Unsolvable'
+
+        # ha több azonosan jó van akkor random választunk egyet
+        state=test_succesors[np.random.randint(0,len(test_succesors))]
+        print(state.state)
 ```
 
 ```python
-# __hash__
-state1 = Node(1)
-hash(state1)
+# A heurisztika lényeg az hogy ha minél több üres korsót találunk 
+# annál távolabb vagyunk a megoldástól
+def heuristic_calc_empty_jar(State):
+    if State==(4,0,1) or State == (4,1,0):
+        return 0
+    c=0
+    for i in State:
+        if i == 0:
+            c+=1
+    return c+1
+
+print(hill_climbing(c, heuristic_calc_empty_jar).solution())
+```
+
+```python
+for i in range(10):
+    print(hill_climbing(c, heuristic_calc_empty_jar).solution())
+```
+
+```python
+def heuristic_zero(State):
+    return 0
+
+print(hill_climbing(c, heuristic_zero).solution())
 ```
