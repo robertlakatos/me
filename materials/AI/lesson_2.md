@@ -19,7 +19,7 @@ location: "Debrecen, Hungary"
 
 ### Gondolkodjunk közösen
 
-<video controls src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" />
+<video controls src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" >
 
 ### Állapottér reprezntáció
 
@@ -113,10 +113,14 @@ class Problem:
 ```python
 class Node:
     """Csomópont a kereső fában. 
-       Tartalmaz egy mutatót a szülőre (a csomópontra, amelynek ez az utódja) és a csomópont aktuális állapotára. 
+       Tartalmaz egy mutatót a szülőre (a csomópontra, amelynek ez az utódja) és a 
+       csomópont aktuális állapotára. 
        Egy állapotot két útvonalon érünk el, akkor két azonos állapotú csomópont van. 
-       Tartalmazza azt a műveletet is, amely ebbe az állapotba juttatott minket, valamint a csomópont eléréséhez szükséges teljes path_cost (más néven g) értéket.
-       Más függvények hozzáadhatnak egy f és h értéket; lásd a best_first_graph_search és az astar_search leírását az f és h értékek kezelésének magyarázatához."""
+       Tartalmazza azt a műveletet is, amely ebbe az állapotba juttatott minket, 
+       valamint a csomópont eléréséhez szükséges teljes path_cost (más néven g) értéket.
+       Más függvények hozzáadhatnak egy f és h értéket; 
+       lásd a best_first_graph_search és az astar_search leírását az 
+       f és h értékek kezelésének magyarázatához."""
 
     def __init__(self, state, parent=None, action=None, path_cost=0):
         """Node osztály konstruktora."""
