@@ -14,6 +14,8 @@ location: "Debrecen, Hungary"
 
 ![valami]("../../images/bio-photo.jpg")
 
+<img src="https://robertlakatos.github.io/me/materials/AI/images/problem.png" alt="Problem">
+
 ```python
 class Problem:
     """A formális problémát leíró absztrakt osztálya.
