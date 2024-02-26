@@ -19,7 +19,7 @@ location: "Debrecen, Hungary"
 
 ### Gondolkodjunk közösen
 
-<video controls src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" >
+<video width="320" height="240" controls><source src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" type="video/mp4"></video>
 
 ### Állapottér reprezntáció
 
