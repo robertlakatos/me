@@ -7,47 +7,9 @@ venue: "University of Debrecen, Department of Data Science and Visualization"
 location: "Debrecen, Hungary"
 ---
 
-Within the framework of the subject, students will learn about the basics of natural language text processing (NLP). In addition, they also gain practical experience while solving various tasks. Main topics: logistic regression, naive Bayes model, PCA, n-gram models, Word2Vec, classical and recurrent neural networks. Furthermore, during the completion of the subject, students can gain insight into current, modern neural architectures. During the semester, students will also have the opportunity to test and train these architectures on real data using cloud-based services (Google Collab).
+Within the framework of the subject, students will learn about the basics of natural language text processing (NLP). In addition, they also gain practical experience while solving various tasks. Main topics: logistic regression, naive Bayes model, PCA, n-gram models, Word2Vec, classical and recurrent neural networks. Furthermore, during the completion of the subject, students can gain insight into current, modern neural architectures. During the semester, students will also have the opportunity to test and train these architectures on real data using cloud-based services [(Google Collab)](https://colab.google/).
 
 ======
-
-## Labor Codes
-
-### I.    [Python Basics](../materials/NLP-A/python)
-
-### I.    [Numpy and Matplotlib](./materials/NLP-A-M/numpy-and-matplotlib)
-
-### I.    [Pandas Intro](../materials/NLP-A/pandas)
-
-### II.   [Pipeline](../materials/NLP-A/pipeline)
-
-### III.  [Train](../materials/NLP-A/train)
-
-### IV.   [Tokenization](../materials/NLP-A/tokenization)
-
-### V.    [Embedding](../materials/NLP-A/embedding)
-
-### VI.   [Pos Embedding](../materials/NLP-A/pos-embedding)
-
-### VII.  [Attention I.](../materials/NLP-A/attention-I)
-
-### VIII. [Attention II.](../materials/NLP-A/attention-II)
-
-### IX.   [Feed Foward Layer](../materials/NLP-A/feed-foward)
-
-### X.    [Training in Transformer Architecture](../materials/NLP-A/train-transformer)
-
-### XI.   [Generative Pre-trained Transformer (GPT)](../materials/NLP-A/gpt)
-
-### XII.  [Recommender System](../materials/NLP-A/recommedner-system)
-
-### XIII. [Topic Modelling](../materials/NLP-A/topic-modelling)
-
-### XIV. [Multimodal](../materials/NLP-A/multimodal)
-
-### XIV. [Generativ AI - Chat modell](../materials/NLP-A/gaichat)
-
-# Labor Information
 
 ## Requirements
 
@@ -60,11 +22,35 @@ Within the framework of the subject, students will learn about the basics of nat
      - At the end of the video, the application must be shown in action. (for 1-2 minutes)
 - The team members do not receive a uniform ticket, but get the ticket in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: 07.12.2023
+- Submission deadline: ****
 
-<!-- ## Competencies
+## Lecture
 
-Upon successful completion of the subject, students will be able to implement various NLP architectures in real environments. In addition, they can acquire the knowledge necessary to successfully complete the first two courses of deeplarning.ai's Natural Language Processing Specialization, as well as get closer to obtaining the Microsoft "Exam AI-900: Microsoft Azure AI Fundamentals" certificate. -->
+- I.    Introduction [PPT](../materials/NLP-A/Lectures/L01_anlp.ppt), [PDF](../materials/NLP-A/Lectures/L01_anlp.pdf)
+
+## Labor
+
+- I.    [Python Basics](../materials/NLP-A/python)
+- I.    [Numpy and Matplotlib](./materials/NLP-A-M/numpy-and-matplotlib)
+- I.    [Pandas Intro](../materials/NLP-A/pandas)
+- II.   [Pipeline](../materials/NLP-A/pipeline)
+- III.  [Train](../materials/NLP-A/train)
+- IV.   [Tokenization](../materials/NLP-A/tokenization)
+- V.    [Embedding](../materials/NLP-A/embedding)
+- VI.   [Pos Embedding](../materials/NLP-A/pos-embedding)
+- VII.  [Attention I.](../materials/NLP-A/attention-I)
+- VIII. [Attention II.](../materials/NLP-A/attention-II)
+- IX.   [Feed Foward Layer](../materials/NLP-A/feed-foward)
+- X.    [Training in Transformer Architecture](../materials/NLP-A/train-transformer)
+- XI.   [Generative Pre-trained Transformer (GPT)](../materials/NLP-A/gpt)
+- XII.  [Recommender System](../materials/NLP-A/recommedner-system)
+- XIII. [Topic Modelling](../materials/NLP-A/topic-modelling)
+- XIV.  [Multimodal](../materials/NLP-A/multimodal)
+- XIV.  [Generativ AI - Chat modell](../materials/NLP-A/gaichat)
+
+## Submitted
+
+- [2023 Autumn](../materials/NLP-A/Submitted/2023-2)
 
 ## Usefull Links
 
