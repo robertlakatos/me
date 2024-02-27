@@ -63,7 +63,7 @@ Stemming and lemmatization are techniques used to reduce words to their base or 
 
 <b>Stemming</b> | <b>Lemmatization</b>
 Stemming is a process that stems or removes last few characters from a word, often leading to incorrect meanings and spelling. | Lemmatization considers the context and converts the word to its meaningful base form, which is called Lemma.
-For instance, stemming the word <i>Caring</i> would return <i>Car</i>. | For instance, lemmatizing the word <i>Caring</i>. would return <i>Care</i>..
+For instance, stemming the word <i>Caring</i> would return <i>Car</i>. | For instance, lemmatizing the word <i>Caring</i>. would return <i>Care</i>.
 Stemming is used in case of large dataset where performance is an issue. | Lemmatization is computationally expensive since it involves look-up tables and what not.
 
 ###  Handling Numerical Data: 
@@ -140,7 +140,9 @@ Here's how Byte-Pair Encoding works in the context of text processing:
 2. <b>Iterative Merging:</b> BPE iteratively merges the most frequent pair of consecutive tokens (bytes or characters) into a new token. The frequency of token pairs is typically measured based on the frequency of their occurrences in the training corpus.
 3. <b>Building Vocabulary:</b> As tokens are merged, a vocabulary of subword units is built, where each subword unit represents a sequence of characters. The merging process continues until a predefined vocabulary size is reached or until a certain number of iterations are completed.
 
-<iframe width="1250" height="703" src="https://www.youtube.com/watch?v=HEikzVL-lZU" title="inlp bead 2023 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HEikzVL-lZU" title="Byte Pair Encoding Tokenization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br />
 
 Byte-Pair Encoding has several advantages in NLP:
 
@@ -169,13 +171,13 @@ WordPiece tokenization iteratively merges the most frequent pair of consecutive 
 
 WordPiece tokenization has been widely adopted in various NLP applications, especially in transformer-based models like BERT, where it has demonstrated significant improvements in performance on a wide range of NLP tasks, including question answering, text classification, and language understanding.
 
-<iframe width="1250" height="703" src="https://www.youtube.com/watch?v=qpv6ms_t_1A" title="inlp bead 2023 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qpv6ms_t_1A" title="WordPiece Tokenization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Unigram
 
 Unlike word-level tokenization, which treats each word as a separate token, unigram tokenization operates at the character level, where each character in a word is considered a token.
 
-<iframe width="1250" height="703" src="https://www.youtube.com/watch?v=TGZfZVuF9Yc" title="inlp bead 2023 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/TGZfZVuF9Yc" title="Unigram Tokenization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### SentencePiece
 
