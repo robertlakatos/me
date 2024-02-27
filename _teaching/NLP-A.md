@@ -33,7 +33,7 @@ Within the framework of the subject, students will learn about the basics of nat
 ## Labor
 
 - I.    [Python Basics](../materials/NLP-A/python)
-- I.    [Numpy and Matplotlib](./materials/NLP-A-M/numpy-and-matplotlib)
+- I.    [Numpy and Matplotlib](./materials/NLP-A/numpy-and-matplotlib)
 - I.    [Pandas Intro](../materials/NLP-A/pandas)
 - II.   [Pipeline](../materials/NLP-A/pipeline)
 - III.  [Train](../materials/NLP-A/train)
