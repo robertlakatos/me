@@ -64,7 +64,6 @@ class Problem:
 ```
 
 ```python
-from libs.problem import Problem
 
 problem = Problem((5,0,0), [(4,1,0),(4,0,1)])
 problem.initial, problem.goal
@@ -73,7 +72,6 @@ problem.initial, problem.goal
 <img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
 
 ```python
-from libs.problem import Problem
 
 problem = Problem((5,0,0), [(4,1,0),(4,0,1)])
 problem.initial, problem.goal
@@ -144,10 +142,6 @@ class Node:
             path_back.append(node)
             node = node.parent
         return list(reversed(path_back))
-```
-
-```python
-from libs.node import Node
 ```
 
 ```python

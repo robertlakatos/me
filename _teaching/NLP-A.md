@@ -26,7 +26,9 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Lecture
 
-- I.    Introduction [PPT](../materials/NLP-A/Lectures/L01_anlp.ppt), [PDF](../materials/NLP-A/Lectures/L01_anlp.pdf)
+- I.    Introduction [PDF](../materials/NLP-A/lectures/L01_anlp.pdf)
+- II.   [Tokenization](../materials/NLP-A/lectures/lesson_2)
+- III.  [Text representation I.](../materials/NLP-A/lectures/lesson_3)
 
 ## Labor
 
@@ -50,7 +52,7 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Submitted
 
-- [2023 Autumn](../materials/NLP-A/Submitted/2023-2)
+- [2023 Autumn](../materials/NLP-A/submitted/2023-2)
 
 ## Usefull Links
 
