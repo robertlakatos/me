@@ -4,7 +4,7 @@ collection: subjects
 type: "B.Sc course"
 permalink: /teaching/NLP-I
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 204-02-27
+date: 2024-02-27
 location: "Debrecen, Hungary"
 ---
 
