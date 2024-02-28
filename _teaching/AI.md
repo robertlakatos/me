@@ -4,6 +4,7 @@ collection: subjects
 type: "B.Sc course"
 permalink: /teaching/AI
 venue: "Department of Data Science and Visualization, Faculty of Informatics, University of Debrecen"
+date: 2024-02-27
 location: "Debrecen, Hungary"
 ---
 
