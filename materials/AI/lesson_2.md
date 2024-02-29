@@ -48,7 +48,7 @@ location: "Debrecen, Hungary"
 
 - O = {o1,2, o1,3, o2,1, o2,3, o3,1, o3,2} = {oi,j , i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j} 
 - Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj < max(Hj)}, ahol oi,j ∈ O
-- oi,j(<a1, a2, a3>) = <b1, b2, b3>)
+- oi,j(<a1, a2, a3>) = (<b1, b2, b3>)
 - m = min(ai, max(Hj) – aj)
 - bk, ahol k=1,2,3
     - ak + m, ha k = j
@@ -221,8 +221,6 @@ class Cup3(Problem):
 ```
 
 ```python
-from libs.cup3 import Cup3
-
 c = Cup3((5,0,0), [(4,1,0),(4,0,1)])
 ```
 
