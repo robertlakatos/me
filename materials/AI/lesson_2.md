@@ -50,7 +50,7 @@ location: "Debrecen, Hungary"
 - Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj < max(Hj)}, ahol oi,j ∈ O
 - oi,j(<a1, a2, a3>) = <b1, b2, b3>)
 - m = min(ai, max(Hj) – aj)
-- bk, ahol b=1,2,3
+- bk, ahol k=1,2,3
     - ak + m, ha k = j
     - ak - m, ha k = i
     - ak, egyébként
