@@ -27,7 +27,7 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Lecture
 
-- I.    Introduction [PDF](../materials/NLP-A/lectures/L01_anlp.pdf)
+- I.    Introduction [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L01_anlp.pdf)
 - II.   [Tokenization](../materials/NLP-A/lectures/lesson_2)
 - III.  [Text representation I.](../materials/NLP-A/lectures/lesson_3)
 
