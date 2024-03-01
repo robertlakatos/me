@@ -4,6 +4,7 @@ collection: teaching
 type: "M.Sc course"
 permalink: /materials/AI/lesson_1
 venue: "University of Debrecen, Department of Data Science and Visualization"
+date: 2024-02-26
 location: "Debrecen, Hungary"
 ---
 

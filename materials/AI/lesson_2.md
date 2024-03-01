@@ -4,6 +4,7 @@ collection: teaching
 type: "M.Sc course"
 permalink: /materials/AI/lesson_2
 venue: "University of Debrecen, Department of Data Science and Visualization"
+date: 2024-02-26
 location: "Debrecen, Hungary"
 ---
 
@@ -37,17 +38,17 @@ location: "Debrecen, Hungary"
 
 #### Kezdő állapot:
 
-- a0=<5, 0, 0>
+- a0 = <5, 0, 0>
 
 #### Célállapotok:
 
-- C = {< 4, 1, 0 > , < 4, 0, 1 >}
-- C = {<a1, a2, a3 >, <a1, a2, a3> ∈ A ∧ a1 = 4}
+- C = {<4, 1, 0> , <4, 0, 1>}
+- C = {<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ a1 = 4}
 
 #### Operátorok:
 
 - O = {o1,2, o1,3, o2,1, o2,3, o3,1, o3,2} = {oi,j , i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j} 
-- Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj < max(Hj)}, ahol oi,j ∈ O
+- Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj <max(Hj), ahol oi,j ∈ O
 - oi,j(<a1, a2, a3>) = (<b1, b2, b3>)
 - m = min(ai, max(Hj) – aj)
 - bk, ahol k=1,2,3
