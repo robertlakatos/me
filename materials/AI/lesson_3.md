@@ -33,7 +33,7 @@ location: "Debrecen, Hungary"
 ### Állapotok halmaza
 
 - A ⊆ H1 x H2 x H3
-- A = {<a1, a2 , a3 > | <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1∪a2∪a3={1, 2, 3} ∧ a1∩a2≠0 ∧ a2∩a3≠0 }
+- A = {<a1, a2 , a3 >, <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1∪a2∪a3={1, 2, 3} ∧ a1∩a2≠0 ∧ a2∩a3≠0 }
 - 27 lehetséges állapot
 
 ### Kezdő állapot
@@ -46,8 +46,8 @@ location: "Debrecen, Hungary"
 
 ### Operátorok
 
-- O = {oi,j,k | i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j ∧ k ∈{1,2,3}} (18 lehetséges operátor)
-- Dom(oi,j,k )={<a1, a2, a3>  | <a1, a2, a3> ∈ A ∧ k=min(ai ∪{∞}) ∧ k<min(aj ∪{∞}) }
+- O = {oi,j,k, i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j ∧ k ∈{1,2,3}} (18 lehetséges operátor)
+- Dom(oi,j,k )={<a1, a2, a3> , <a1, a2, a3> ∈ A ∧ k=min(ai ∪{∞}) ∧ k<min(aj ∪{∞}) }
 - oi,j,k(<a1, a2, a3>) = <b1, b2, b3>
 - Bn, ahol n=1,2,3
     - an ∪ {k}, ha n = j
