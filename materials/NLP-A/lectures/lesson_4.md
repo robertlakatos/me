@@ -32,19 +32,19 @@ GloVe essentially seeks to turn individual words into vectors that represent the
 
 How to work?
 
-1. Creating a co-occurrence matrix: First, we create a so-called co-occurrence matrix from a large text corpus. co-occurrence matrix, which records which words occur together and how often in the text.
+- Creating a co-occurrence matrix: First, we create a so-called co-occurrence matrix from a large text corpus. co-occurrence matrix, which records which words occur together and how often in the text.
 
 <img src="https://robertlakatos.github.io/me/materials/NLP-A/images/co_matrix.png" alt="co_matrix">
 
-2. Dimension size reduction. (Singular Value Decomposition of co-occurrence matrix X)
+- Dimension size reduction. (Singular Value Decomposition of co-occurrence matrix X)
 
 <img src="https://robertlakatos.github.io/me/materials/NLP-A/images/svd.png" alt="svd">
 
-3. Structure Optimization: The goal is to create word vectors that allow the best description of the corpus statistics. During the optimization process, GloVe weights the frequency of each word and the relationships between them.
+- Structure Optimization: The goal is to create word vectors that allow the best description of the corpus statistics. During the optimization process, GloVe weights the frequency of each word and the relationships between them.
 
 <img src="https://robertlakatos.github.io/me/materials/NLP-A/images/glove_opt.png" alt="glove_opt">
 
-4. Computation of word vectors: GloVe finally generates vectors that it assigns to words in the corpus. These vectors express semantic relations and structures between words.
+- Computation of word vectors: GloVe finally generates vectors that it assigns to words in the corpus. These vectors express semantic relations and structures between words.
     - Related to general evaluation in NLP: Intrinsic vs. extrinsic
     - Intrinsic:
         - Evaluation on a specific/intermediate subtask

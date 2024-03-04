@@ -1,10 +1,10 @@
 ---
-title: "2. Gyakrolat"
+title: "5. Gyakrolat"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/AI/lesson_3
+permalink: /materials/AI/lesson_5
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-02-26
+date: 2024-03-04
 location: "Debrecen, Hungary"
 ---
 
