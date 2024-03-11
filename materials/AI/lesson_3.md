@@ -1,7 +1,7 @@
 ---
 title: "3. Gyakrolat"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/AI/lesson_3
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-03-04
@@ -11,50 +11,6 @@ location: "Debrecen, Hungary"
 ## Ismétlés
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/problem.png" alt="Problem">
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/trial_error.png" alt="Próba-hiba">
-
-## 3 Hanói tornyai
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/hanoi.png" alt="hanoi">
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/hanoi_megoldas.png" alt="hanoi_megoldas">
-
-## Állapottér reprezntáció
-
-### Jellemzők
-
-- H1 = {0, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
-- H2 = {0, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
-- H3 = {0, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
-
-### Állapotok halmaza
-
-- A ⊆ H1 x H2 x H3
-- A = {<a1, a2 , a3 >, <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1∪a2∪a3={1, 2, 3} ∧ a1∩a2≠0 ∧ a2∩a3≠0 }
-- 27 lehetséges állapot
-
-### Kezdő állapot
-
-- a0 = <{1,2,3}, 0, 0>
-
-### Célállapotok
-
-- C = {<0, 0, {1, 2, 3}>}
-
-### Operátorok
-
-- O = {oi,j,k, i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j ∧ k ∈{1,2,3}} (18 lehetséges operátor)
-- Dom(oi,j,k )={<a1, a2, a3> , <a1, a2, a3> ∈ A ∧ k=min(ai ∪{∞}) ∧ k<min(aj ∪{∞}) }
-- oi,j,k(<a1, a2, a3>) = <b1, b2, b3>
-- Bn, ahol n=1,2,3
-    - an ∪ {k}, ha n = j
-    - an \ {k}, ha n = i
-    - an, egyébként
-
-### Implementáció
 
 ```python
 class Problem:
@@ -107,6 +63,10 @@ class Problem:
         A hegymászó és más hasonló algoritmusok megpróbálják maximalizálni ezt az értéket."""
         raise NotImplementedError
 ```
+
+### Gráf
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
 
 ```python
 class Node:
@@ -175,7 +135,13 @@ class Node:
         return list(reversed(path_back))
 ```
 
+### Keresők
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/trial_error.png" alt="Próba-hiba">
+
 ```python
+import numpy as np
+
 def trial_error(problem):
     """
     Próba hiba módszer
@@ -204,6 +170,48 @@ def trial_error(problem):
         print(state.state)
 ```
 
+<img src="https://robertlakatos.github.io/me/materials/AI/images/hill_climbing.png" alt="Hegymászó módszer">
+
+## 3 Hanói tornyai
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/hanoi.png" alt="hanoi">
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/hanoi_megoldas.png" alt="hanoi_megoldas">
+
+## Állapottér reprezntáció
+
+### Jellemzők
+
+- H1 = {0, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
+- H2 = {0, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
+- H3 = {0, {1}, {2}, {3}, {1, 2}, {1, 3}, {2, 3}, {1, 2, 3}}
+
+### Állapotok halmaza
+
+- A ⊆ H1 x H2 x H3
+- A = {<a1, a2 , a3 >, <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1∪a2∪a3={1, 2, 3} ∧ a1∩a2≠0 ∧ a2∩a3≠0 }
+- 27 lehetséges állapot
+
+### Kezdő állapot
+
+- a0 = <{1,2,3}, 0, 0>
+
+### Célállapotok
+
+- C = {<0, 0, {1, 2, 3}>}
+
+### Operátorok
+
+- O = {oi,j,k, i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j ∧ k ∈{1,2,3}} (18 lehetséges operátor)
+- Dom(oi,j,k )={<a1, a2, a3> , <a1, a2, a3> ∈ A ∧ k=min(ai ∪{∞}) ∧ k<min(aj ∪{∞})}
+- oi,j,k(<a1, a2, a3>) = <b1, b2, b3>
+- Bn, ahol n=1,2,3
+    - an ∪ {k}, ha n = j
+    - an \ {k}, ha n = i
+    - an, egyébként
+
+### Implementáció
+
 ```python
 from collections import namedtuple
  
@@ -214,6 +222,8 @@ print("Index is :", S[1])
 ```
 
 ```python
+State=namedtuple("State", ["disk","char"])
+
 class Hanoi(Problem):
     def __init__(self, n):
         # n darab korongunk van
@@ -264,8 +274,6 @@ class Hanoi(Problem):
         # Előtte és utánna lévő korongok helyeinek összefűzése
         return state[0:disk] + char + state[disk + 1:]
 ```
-
-### Teszt
 
 ```python
 h = Hanoi(3)

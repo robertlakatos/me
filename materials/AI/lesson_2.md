@@ -1,7 +1,7 @@
 ---
 title: "2. Gyakrolat"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/AI/lesson_2
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-26
@@ -11,53 +11,6 @@ location: "Debrecen, Hungary"
 ## Ismétlés
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/problem.png" alt="Problem">
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
-
-## 3 Korsó
-
-<img src="https://robertlakatos.github.io/me/materials/AI/images/3korso.png" alt="3korso">
-
-### Gondolkodjunk közösen
-
-<video controls><source src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" type="video/mp4"></video>
-
-### Állapottér reprezntáció
-
-#### Jellemzők
-
-- H1 = {0, 1, 2, 3, 4, 5}, 
-- H2 = {0, 1, 2, 3}, 
-- H3 = {0, 1, 2}
-
-#### Állapotok halmaza
-
-- A ⊆ H1xH2xH3
-- A = {<a1, a2, a3>, <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1+a2+a3 = 5}
-- 12 lehetséges állapot
-
-#### Kezdő állapot:
-
-- a0 = <5, 0, 0>
-
-#### Célállapotok:
-
-- C = {<4, 1, 0> , <4, 0, 1>}
-- C = {<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ a1 = 4}
-
-#### Operátorok:
-
-- O = {o1,2, o1,3, o2,1, o2,3, o3,1, o3,2} = {oi,j , i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j} 
-- Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj <max(Hj), ahol oi,j ∈ O
-- oi,j(<a1, a2, a3>) = (<b1, b2, b3>)
-- m = min(ai, max(Hj) – aj)
-- bk, ahol k=1,2,3
-    - ak + m, ha k = j
-    - ak - m, ha k = i
-    - ak, egyébként
-
-
-### Programozzunk
 
 ```python
 class Problem:
@@ -110,6 +63,8 @@ class Problem:
         A hegymászó és más hasonló algoritmusok megpróbálják maximalizálni ezt az értéket."""
         raise NotImplementedError
 ```
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
 
 ```python
 class Node:
@@ -177,6 +132,51 @@ class Node:
             node = node.parent
         return list(reversed(path_back))
 ```
+
+## 3 Korsó
+
+<img src="https://robertlakatos.github.io/me/materials/AI/images/3korso.png" alt="3korso">
+
+### Gondolkodjunk közösen
+
+<video controls><source src="https://robertlakatos.github.io/me/materials/AI/videos/3korso.mp4" type="video/mp4"></video>
+
+### Állapottér reprezntáció
+
+#### Jellemzők
+
+- H1 = {0, 1, 2, 3, 4, 5}, 
+- H2 = {0, 1, 2, 3}, 
+- H3 = {0, 1, 2}
+
+#### Állapotok halmaza
+
+- A ⊆ H1xH2xH3
+- A = {<a1, a2, a3>, <a1, a2, a3> ∈ H1 x H2 x H3 ∧ a1+a2+a3 = 5}
+- 12 lehetséges állapot
+
+#### Kezdő állapot:
+
+- a0 = <5, 0, 0>
+
+#### Célállapotok:
+
+- C = {<4, 1, 0> , <4, 0, 1>}
+- C = {<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ a1 = 4}
+
+#### Operátorok:
+
+- O = {o1,2, o1,3, o2,1, o2,3, o3,1, o3,2} = {oi,j , i ∈{1,2,3} ∧ j ∈{1,2,3} ∧ i ≠j} 
+- Dom(oi,j)={<a1, a2, a3>, <a1, a2, a3> ∈ A ∧ ai > 0 ∧ aj <max(Hj), ahol oi,j ∈ O
+- oi,j(<a1, a2, a3>) = (<b1, b2, b3>)
+- m = min(ai, max(Hj) – aj)
+- bk, ahol k=1,2,3
+    - ak + m, ha k = j
+    - ak - m, ha k = i
+    - ak, egyébként
+
+
+### Programozzunk
 
 ```python
 class Cup3(Problem):

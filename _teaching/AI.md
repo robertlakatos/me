@@ -17,7 +17,7 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 1. hét	[Állapottér reprezentáció, Problem és Node osztály implelemtálása](../materials/AI/lesson_1)
 2. hét  [Hagyományos rejtvények - 3 korsó probléma](../materials/AI/lesson_2)
 3. hét	[Hagyományos rejtvények - Hanói tornyai](../materials/AI/lesson_3)
-4. hét	Hagyományos rejtvények - Nem informált algoritmusok
+4. hét	[Hagyományos rejtvények - Nem informált algoritmusok](../materials/AI/lesson_4)
 5. hét	Hagyományos rejtvények - 8 királynő, informált algoritmusok - A*
 6. hét	Kényszerkielégítéses feladatok
 7. hét	Lépésajánló min-max módszer, alfa béta vágás

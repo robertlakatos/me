@@ -1,7 +1,7 @@
 ---
 title: "1. Gyakrolat"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/AI/lesson_1
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-26
