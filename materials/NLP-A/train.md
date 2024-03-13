@@ -100,6 +100,45 @@ model = AutoModelForSequenceClassification.from_pretrained(
 Ábra 2: Pontosság és precizitás. Forrás: [oncologymedicalphysics](https://oncologymedicalphysics.com/wp-content/uploads/2021/04/Precision-vs-Accuracy-OMP.png).
 
 ```python
+from sklearn.metrics import f1_score
+from sklearn.metrics import recall_score
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import precision_score
+
+y_true = [1, 1, 1, 1, 1, 1, 1, 1, 1, 0]
+y_pred = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+```
+
+```python
+from sklearn.metrics import confusion_matrix
+
+TP, FP, FN, TN = confusion_matrix(y_true, y_pred, labels=[0, 1]).ravel()
+
+# True Positive (TP) : The prediction was positive and the real sample was also positive.
+print("True Positive (TP):", TP)
+# True Negative (TN) : The prediction was negative and the real sample was also negative.
+print("True Negative (TN):", TN)
+# False Positive (FP) : The prediction was positive and the real sample was also negative.
+print("False Positive (FP):", FP)
+# False Negative (FN) : The prediction was negative and the real sample was also positive.
+print("False Negative (FN):", FN)
+```
+
+```python
+# Recall (R) = TP / (TP + FN)
+print(recall_score(y_true, y_pred))
+
+# Precizitás (P) = TP / (TP + FP)
+print(precision_score(y_true, y_pred))
+
+# Accuracy (A) = (TP + TN) / (TP + TN + FP + FN) - Correct classificaton / all classifications
+print(accuracy_score(y_true, y_pred))
+
+# F1 = 2 * P * R / (P + R)
+print(f1_score(y_true, y_pred))
+```
+
+```python
 import numpy as np
 import evaluate
 
