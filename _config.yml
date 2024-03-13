@@ -210,6 +210,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  supervising:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -236,6 +239,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _supervising
+  - scope:
+      path: ""
+      type: supervising
     values:
       layout: single
       author_profile: true

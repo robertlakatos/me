@@ -1,11 +1,8 @@
 ---
+layout: archive
 title: "Supervised Theses"
-collection: teaching
-type: "B.Sc course"
-permalink: /teaching/supervised-theses
-venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-03-13
-location: "Debrecen, Hungary"
+permalink: /supervising/
+author_profile: true
 ---
 
 ## [Mesterséges Intelligencia alkalmazása az ESport területén](https://dea.lib.unideb.hu/items/0bbb4577-cd4d-4c34-9176-53656b179c5a)
