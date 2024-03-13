@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Natural Language Text Processing"
-collection: subjects
+collection: teaching
 type: "B.Sc course"
 permalink: /teaching/NLP-I
 venue: "University of Debrecen, Department of Data Science and Visualization"

@@ -1,6 +1,6 @@
 ---
 title: "The Basics of Artificial Intelligence"
-collection: subjects
+collection: teaching
 type: "B.Sc course"
 permalink: /teaching/AI
 venue: "Department of Data Science and Visualization, Faculty of Informatics, University of Debrecen"

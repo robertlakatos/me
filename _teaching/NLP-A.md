@@ -1,6 +1,6 @@
 ---
 title: "Advanced Natural Language Processing"
-collection: subjects
+collection: teaching
 type: "M.Sc course"
 permalink: /teaching/NLP-A
 venue: "University of Debrecen, Department of Data Science and Visualization"
