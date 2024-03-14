@@ -262,11 +262,11 @@ Példák nem infromált keresési stratégiákra:
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/PuFJSaXGlgI" title="Depth and Breadth-First Search Visualization using a Maze, Python and OpenCV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="https://robertlakatos.github.io/me/materials/AI/images/bfs.gif" alt="bfs">
+<img src="https://robertlakatos.github.io/me/materials/AI/images/bfs.gif" width="640" alt="bfs">
 
 #### FIFO
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fifo_queue.png/300px-Fifo_queue.png" alt="fifo">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fifo_queue.png/300px-Fifo_queue.png" width="640" alt="fifo">
 
 ```python
 # FIFO -> Azt vesszük ki elsőnek amiket beleraktunk
@@ -321,9 +321,9 @@ breadth_first_tree_search(c).solution()
 
 ### Mélységi keresés
 
-<img src="https://robertlakatos.github.io/me/materials/AI/images/dfs.gif" alt="dfs">
+<img src="https://robertlakatos.github.io/me/materials/AI/images/dfs.gif" width="640" alt="dfs">
 
-<img src="https://robertlakatos.github.io/me/materials/AI/images/tree_d.gif" alt="Tree d">
+<img src="https://robertlakatos.github.io/me/materials/AI/images/tree_d.gif" width="640" alt="Tree d">
 
 #### Verem
 
