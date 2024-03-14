@@ -193,6 +193,8 @@ class Cup3(Problem):
 <img src="https://robertlakatos.github.io/me/materials/AI/images/hanoi.png" alt="hanoi">
 
 ```python
+from collections import namedtuple
+
 State=namedtuple("State", ["disk","char"])
 
 class Hanoi(Problem):
@@ -323,7 +325,7 @@ breadth_first_tree_search(c).solution()
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/dfs.gif" width="640" alt="dfs">
 
-<img src="https://robertlakatos.github.io/me/materials/AI/images/tree_d.gif" width="640" alt="Tree d">
+<img src="https://robertlakatos.github.io/me/materials/AI/images/tree_d.png" width="640" alt="Tree d">
 
 #### Verem
 
@@ -385,5 +387,5 @@ c = Cup3((5,0,0), [(4,1,0),(4,0,1)])
 print(c.initial, c.goal)
 
 # Szélességi keresés futtatása
-breadth_first_tree_search(c).solution()
+depth_first_graph_search(c).solution()
 ```
