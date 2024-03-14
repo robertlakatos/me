@@ -135,7 +135,11 @@ class Node:
 
 ### Keresők
 
+#### Próba-hiba
+
 <img src="https://robertlakatos.github.io/me/materials/AI/images/trial_error.png" alt="Próba-hiba">
+
+#### Hegymászó módszer
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/hill_climbing.png" alt="Hegymászó módszer">
 
@@ -258,9 +262,11 @@ Példák nem infromált keresési stratégiákra:
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/PuFJSaXGlgI" title="Depth and Breadth-First Search Visualization using a Maze, Python and OpenCV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<img src="https://robertlakatos.github.io/me/materials/AI/images/bfs.gif" alt="Hegymászó módszer">
+<img src="https://robertlakatos.github.io/me/materials/AI/images/bfs.gif" alt="bfs">
 
 #### FIFO
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Fifo_queue.png/300px-Fifo_queue.png" alt="fifo">
 
 ```python
 # FIFO -> Azt vesszük ki elsőnek amiket beleraktunk
@@ -315,9 +321,15 @@ breadth_first_tree_search(c).solution()
 
 ### Mélységi keresés
 
-<img src="https://robertlakatos.github.io/me/materials/AI/images/dfs.gif" alt="Hegymászó módszer">
+<img src="https://robertlakatos.github.io/me/materials/AI/images/dfs.gif" alt="dfs">
+
+#### Hurok
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/tree_d.gif" alt="Tree d">
+
+#### Verem
+
+<img src="https://cdn.programiz.com/sites/tutorial2program/files/stack.png" alt="stack">
 
 ```python
 # Verem
