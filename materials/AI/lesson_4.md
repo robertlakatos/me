@@ -323,8 +323,6 @@ breadth_first_tree_search(c).solution()
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/dfs.gif" alt="dfs">
 
-#### Hurok
-
 <img src="https://robertlakatos.github.io/me/materials/AI/images/tree_d.gif" alt="Tree d">
 
 #### Verem
