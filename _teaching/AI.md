@@ -14,17 +14,16 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ## Labor
 
-1. hét	[Állapottér reprezentáció, Problem és Node osztály implelemtálása](../materials/AI/lesson_1)
-2. hét  [Hagyományos rejtvények - 3 korsó probléma](../materials/AI/lesson_2)
-3. hét	[Hagyományos rejtvények - Hanói tornyai](../materials/AI/lesson_3)
-4. hét	[Hagyományos rejtvények - Nem informált algoritmusok](../materials/AI/lesson_4)
-5. hét	Hagyományos rejtvények - 8 királynő, informált algoritmusok - A*
-6. hét	Kényszerkielégítéses feladatok
-7. hét	Lépésajánló min-max módszer, alfa béta vágás
-8. hét	Szünet
-9. hét	Naiv Bayes osztályozó
-10. hét	Neurális hálók
-11. hét	Megerősítéses tanulás I.
-12. hét	Megerősítéses tanulás II.
-13. hét	Jegymegajánló (Zárthelyi/Elővizsga) dolgozat
-14. hét	Pót Jegymegajánló (Zárthelyi/Elővizsga) dolgozat
+I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](../materials/AI/lesson_1)
+II.   [Hagyományos rejtvények - 3 korsó probléma](../materials/AI/lesson_2)
+III.  [Hagyományos rejtvények - Hanói tornyai](../materials/AI/lesson_3)
+IV.   [Hagyományos rejtvények - Nem informált algoritmusok](../materials/AI/lesson_4)
+V.    [Hagyományos rejtvények - 8 királynő, informált algoritmusok - A*](../materials/AI/lesson_5)
+VI.   [Kényszerkielégítéses feladatok]()
+VII.  [Lépésajánló min-max módszer, alfa béta vágás]()
+VIII. [Naiv Bayes osztályozó]()
+IX.   [Neurális hálók]()
+X.    [Megerősítéses tanulás I.]()
+XI.   [Megerősítéses tanulás II.]()
+XII.  [Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]()
+XIII. [Pót Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]()

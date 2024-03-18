@@ -19,6 +19,7 @@ location: "Debrecen, Hungary"
 
 ```python
 !pip install transformers
+!pip install datasets
 ```
 
 ## Karakter alapú tokenizáció
@@ -80,20 +81,15 @@ pre_tokenizer.pre_tokenize_str("Hello! How are you? I'm fine, thank you.")
 Az egyik legnépszerűbb alszó tokenizációs algoritmus. A Byte-Pair-Encoding úgy működik, hogy karakterekkel kezdődik, miközben a leggyakrabban láthatókat egyesíti, így új tokeneket hoz létre. Ezután iteratívan dolgozik, hogy új tokeneket építsen a korpuszban látható leggyakoribb párokból. A BPE olyan szavakat tud felépíteni, amelyeket soha nem látott több részszó token használatával, ezért kisebb szókincsre van szüksége, és kisebb az esélye annak, hogy „unk” (ismeretlen) tokenjei vannak.
 
 ```python
-import io
-import requests
-import zipfile
+from datasets import load_dataset
 
-url = "https://s3.amazonaws.com/research.metamind.io/wikitext/wikitext-103-raw-v1.zip"
-r = requests.get(url, stream =True)
-check = zipfile.is_zipfile(io.BytesIO(r.content))
+dataset = load_dataset("wikitext", "wikitext-103-raw-v1")
+dataset
+```
 
-while not check:
-    r = requests.get(url, stream =True)
-    check = zipfile.is_zipfile(io.BytesIO(r.content))
-else:
-    z = zipfile.ZipFile(io.BytesIO(r.content))
-    z.extractall()
+```python
+corpus = dataset["train"]["text"] + dataset["test"]["text"] + dataset["validation"]["text"]
+len(corpus)
 ```
 
 ### Speciális tokenek
@@ -125,9 +121,7 @@ tokenizer.pre_tokenizer = Whitespace()
 ```
 
 ```python
-files = [f"wikitext-103-raw/wiki.{split}.raw" for split in ["test", "train", "valid"]]
-
-tokenizer.train(files, trainer)
+tokenizer.train_from_iterator(corpus, trainer)
 ```
 
 ```python
@@ -224,6 +218,8 @@ Ugyanúgy mint a BPE-nél csak használjuk a WordPiece libet
 
 ```python
 from tokenizers.models import WordPiece
+
+# To Do
 ```
 
 ## Unigram
@@ -231,4 +227,6 @@ Az Unigram egy részszó tokenizációs algoritmus is, és úgy működik, hogy 
 
 ```python
 from tokenizers.models import Unigram
+
+# To Do
 ```

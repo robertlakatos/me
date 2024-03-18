@@ -1,5 +1,5 @@
 ---
-title: "NLP based recommender-system"
+title: "NLP based Recommender System"
 collection: teaching
 type: "M.Sc course"
 permalink: /materials/NLP-A/recommender-system

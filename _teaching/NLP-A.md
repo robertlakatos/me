@@ -32,6 +32,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - III.  [Text representation I.](../materials/NLP-A/lectures/lesson_3)
 - IV.   [Text representation II.](../materials/NLP-A/lectures/lesson_4)
 - V.    Large language models [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L05_anlp.pdf)
+- VI.   Transformer model [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L06_anlp.pdf)
 
 ## Labor
 
@@ -48,7 +49,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - IX.   [Feed Foward Layer](../materials/NLP-A/feed-foward)
 - X.    [Training in Transformer Architecture](../materials/NLP-A/train-transformer)
 - XI.   [Generative Pre-trained Transformer (GPT)](../materials/NLP-A/gpt)
-- XII.  [Recommender System](../materials/NLP-A/recommedner-system)
+- XII.  [Recommender System](../materials/NLP-A/recommender-system)
 - XIII. [Topic Modelling](../materials/NLP-A/topic-modelling)
 - XIV.  [Multimodal](../materials/NLP-A/multimodal)
 - XIV.  [Generativ AI - Chat modell](../materials/NLP-A/gaichat)
