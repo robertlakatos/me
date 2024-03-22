@@ -1,5 +1,5 @@
 ---
-title: "4. Gyakrolat"
+title: "4. Gyakorlat"
 collection: teaching
 type: "B.Sc course"
 permalink: /materials/AI/lesson_4
