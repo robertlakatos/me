@@ -33,6 +33,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - IV.   [Text representation II.](../materials/NLP-A/lectures/lesson_4)
 - V.    Large language models [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L05_anlp.pdf)
 - VI.   Transformer model [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L06_anlp.pdf)
+- VII.   Transformer model [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L07_anlp.pdf)
 
 ## Labor
 
