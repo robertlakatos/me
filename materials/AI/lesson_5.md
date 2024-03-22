@@ -28,6 +28,7 @@ location: "Debrecen, Hungary"
 ```python
     # To Do
 ```
+
 ### Keresők
 
 #### Próba-hiba
