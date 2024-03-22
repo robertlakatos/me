@@ -90,8 +90,38 @@ Bináris kényszerkielégítési feladat
 ```
 
 ```python
-    from libs.decision import backtracking
+    import numpy as np
 
+    def backtracking(graph, graf_colors, v, colors, h=None):
+        """A graph_coloring_util függvény rekurzívan meghívja önmagát minden csúcsra és megpróbálja kiválasztani a színeket. 
+        Ha egy adott szín nem biztonságos (azaz ha már használják egy szomszédos csúcson), akkor kipróbál egy másik színt. 
+        Ha egyik szín sem biztonságos, akkor visszalép és megpróbálja újraszínezni az előző csúcsot."""
+        
+        # Megvizsgáljuk hogy melyik elemnél vagyzunk
+        # ha 'v' == a gráf hosszával akkor készen vagyunk
+        if v == len(graph):
+            return True
+        
+        # Próbáljuk végig a szineket
+        for c in range(colors):
+            # Ha kiszinezhető a 'v' csúcs a 'c' színnel
+            if h(graph, graf_colors, v, c):            
+                
+                # színezzük ki a 'v' csúcsot 'c' színnel
+                graf_colors[v] = c
+
+                # szinezzük ki a következő csúcsot
+                if backtracking(graph, graf_colors, v + 1, colors, h):
+                    return True
+                
+                # ha nem sikerül visszalépünk és az aktuálisan
+                # kiszinezett csúcsot '-1'-re azaz szín nélkülire állítjuk
+                graf_colors[v] = -1
+
+    return False
+```
+
+```python
     # Mennyi színnel színezzünk
     colors = 3
     # Legyen -1 a szintelen
@@ -129,8 +159,29 @@ Bináris kényszerkielégítési feladat
 ```
 
 ```python
-    from libs.decision import backtracking_c
+    def backtracking_c(graph, colors, v, graf_colors, h=None):
+        """függvény egy rekurzív függvény, ami megpróbálja megtalálni a gráf színezését c színnel. 
+        A függvény végig megy a gráf összes csúcsán és minden csúcsot megpróbál befesteni az c szín 
+        valamelyikével. Ha a gráf összes csúcsát befestette és az élkonzisztencia teljesül"""
 
+        # Ha feldolgoztuk az összes csúcsot
+        if v == len(graph):
+            # Ha igaz akkor mindenhol tudtunk szinezni
+            if h(graph, graf_colors):
+                return True
+            # Ha hamis akkor nem oldható meg a probléma
+            else: 
+                return False
+
+        # Rekurzívan bejárjuk a gráfot
+        for j in range(0, colors):
+            graf_colors[v] = j
+            if backtracking_c(graph, colors, v + 1, graf_colors, h):
+                return True
+            graf_colors[v] = -1
+```
+
+```python
     colors = 4
     graf_colors = [-1] * len(graph)
     backtracking_c(graph, colors, 0, graf_colors, is_consistent)
