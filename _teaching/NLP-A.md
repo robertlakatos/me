@@ -27,13 +27,22 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Lecture
 
-- I.    Introduction [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L01_anlp.pdf)
+- I.    [Aperitive](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L01_anlp.pdf)
 - II.   [Tokenization](../materials/NLP-A/lectures/lesson_2)
 - III.  [Text representation I.](../materials/NLP-A/lectures/lesson_3)
 - IV.   [Text representation II.](../materials/NLP-A/lectures/lesson_4)
-- V.    Large language models [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L05_anlp.pdf)
-- VI.   Transformer model [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L06_anlp.pdf)
-- VII.   Transformer model [PDF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L07_anlp.pdf)
+- V.    [Large language models](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L05_anlp.pdf)
+- VI.   [Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L06_anlp.pdf)
+- VII.  [Pretrain (BERT, GPT)](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L07_anlp.pdf)
+- VIII. [Instruction Finetuning, and RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L09_anlp.pdf)
+- IX.   [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L09_anlp.pdf)
+- X.    [Question Answering](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L10_anlp.pdf)
+- XI.   [Security & Privacy of LLMs](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L11_anlp.pdf)
+- XII.  [Evaluation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L12_anlp.pdf)
+- XIII. [Natural Language to Code Generation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L13_anlp.pdf)
+- XIV.  [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L14_anlp.pdf)
+- XV.   [Hardware-aware Algorithms for Sequence Modeling](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L15_anlp.pdf)
+- XVI.  [Open problems and discussion](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L16_anlp.pdf)
 
 ## Labor
 

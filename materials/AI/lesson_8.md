@@ -257,4 +257,5 @@ törvényt szőtt a mult szövőszéke<br>
 s láttam, a törvény szövedéke<br>
 mindíg fölfeslik valahol."<br>
 
-<video controls><source src="https://www.youtube.com/watch?v=0uF9W2jlCns&t=169s" type="video/mp4"></video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0uF9W2jlCns?si=gUxPMCHdY4P1oIy_&amp;start=169" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
