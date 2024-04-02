@@ -21,7 +21,7 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - V.    [Hagyományos rejtvények - 8 királynő, informált algoritmusok - A*](../materials/AI/lesson_5)
 - VI.   [Kényszerkielégítéses feladatok](../materials/AI/lesson_6)
 - VII.  [Lépésajánló min-max módszer, alfa béta vágás](../materials/AI/lesson_7)
-- VIII. [Naiv Bayes osztályozó]()
+- VIII. [Naiv Bayes osztályozó](../materials/AI/lesson_8)
 - IX.   [Neurális hálók]()
 - X.    [Megerősítéses tanulás I.]()
 - XI.   [Megerősítéses tanulás II.]()
