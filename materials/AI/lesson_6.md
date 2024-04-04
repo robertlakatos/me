@@ -21,6 +21,16 @@ Mi a különbség egy általános fakeresési valamint egy kényszer-kielégít�
     - Az állapotot Di tartományból származó Xi változókkal definiáljuk
     - A célteszt kényszerek halmaza, mely mindegyike a változók egy részhalmazát és megfelelő értékeket tartalmazzák
 
+### Típusai
+
+- Változórendezés
+    - A legkevesebb fennmaradó érték heurisztika (MRV)
+    - Fokszám heurisztik
+- Értékrendezés: Legkevésbé–korlátozó–érték heurisztika
+- Előrenéző ellenőrzés
+- A kényszerek terjesztése
+- <br>Élkonzisztencia</br>
+
 <img src="https://robertlakatos.github.io/me/materials/AI/images/australia.png" alt="Australia">
 
 Milyen adatokkal lehet megadni egy kényszer-kielégítési feladatot?
@@ -140,8 +150,15 @@ Bináris kényszerkielégítési feladat
 
 ### Élkonzisztencia ellenőrzés
 
-- Ha az X változó egy értékét töröljük, akkor X szomszédait újra kell vizsgálni
-- az élkonzisztencia gyorsabban felfedezi a hibákat, mint az előrenéző ellenőrzés
+- Az él a kényszergráf irányított éleit jelenti.
+- az X -ből Y -ba mutató él akkor konzisztens, ha X minden x értékéhez található egy xszel konzisztens y értéke Y -nak.
+    - Egy él konzisztenssé tehető az olyan értékek törlésével, amelyhez nem létezik a végpontnak megengedett értéke.
+    - Az élkonzisztencia ellenőrzés lehetővé teszi, hogy korábban észrevegyük az egyszerű előrenéző ellenőrzés által fel nem fedett inkonzisztenciát.
+    - Alkalmazható előfeldolgozó lépésként a keresés megkezdése előtt.
+    - A keresési folyamat minden egyes hozzárendelését követő terjesztési lépésként (az élkonzisztencia fenntartásának algoritmusa).
+    - Mindkét előző esetben addig kell ismételve alkalmazni a folyamatot, amíg nem marad inkonzisztencia.
+    - Ugyanis a törléssel a változóhoz mutató éleknél új inkonzisztencia jöhet létre.
+    - Ha az X változó egy értékét töröljük, akkor X szomszédait újra kell vizsgálni
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/australia_csp.png" alt="Australia Graf">
 
