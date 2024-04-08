@@ -22,8 +22,8 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - VI.   [Kényszerkielégítéses feladatok](../materials/AI/lesson_6)
 - VII.  [Lépésajánló min-max módszer, alfa béta vágás](../materials/AI/lesson_7)
 - VIII. [Naiv Bayes osztályozó](../materials/AI/lesson_8)
-- IX.   [Neurális hálók]()
-- X.    [Megerősítéses tanulás I.]()
-- XI.   [Megerősítéses tanulás II.]()
-- XII.  [Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]()
-- XIII. [Pót Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]()
+- IX.   [Neurális hálók](../materials/AI/lesson_9)
+- X.    [Megerősítéses tanulás I.](../materials/AI/lesson_10)
+- XI.   [Megerősítéses tanulás II.](../materials/AI/lesson_10)
+- XII.  [Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]
+- XIII. [Pót Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]
