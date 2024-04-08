@@ -2,7 +2,7 @@
 title: "Feed-Foward Layer. Dense Neural Network in the Trasnformer"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/NLP-A/feed-foward
+permalink: /materials/NLP-A/labor/feed-foward
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-27
 location: "Debrecen, Hungary"

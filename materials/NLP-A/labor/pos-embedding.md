@@ -2,7 +2,7 @@
 title: "Position Embedding"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/NLP-A/pos-embedding
+permalink: /materials/NLP-A/labor/pos-embedding
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-27
 location: "Debrecen, Hungary"

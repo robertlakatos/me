@@ -2,7 +2,7 @@
 title: "How to traing the Transformer"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/NLP-A/train-transformer
+permalink: /materials/NLP-A/labor/train-transformer
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-27
 location: "Debrecen, Hungary"
