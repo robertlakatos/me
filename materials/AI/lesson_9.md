@@ -11,47 +11,35 @@ location: "Debrecen, Hungary"
 ## Adathalmaz
 
 ```python
-from sklearn.datasets import fetch_openml
-mnist = fetch_openml(name="mnist_784")
+from sklearn.datasets import load_iris
+iris = load_iris()
 ```
 
 ```python
-print(mnist.keys())
+print(iris.keys())
 ```
 
 ```python
-data = mnist.data
-labels = mnist.target
+data = iris.data
+labels = iris.target
 ```
 
 ```python
-# 70000 darab 784 (28x28) jellemzővel leírható kép
-data.shape
+data.shape, labels.shape
 ```
 
 ```python
-data
+labels
 ```
 
 ```python
-import matplotlib.pyplot as plt
+from sklearn.utils import shuffle
 
-def viz(test_img, test_label, size=(28, 28)):
-    plt.imshow(test_img.reshape(size[0], size[1]), cmap="Greys")
-    plt.axis('off')
-    plt.title(str(test_label))
-    plt.show()
+data, labels = shuffle(data, labels, random_state=42)
 ```
 
 ```python
-import numpy as np
-
-choice = np.random.choice(np.arange(data.shape[0]+1))
-# Teszt kép kiválasztása
-test_img = data.iloc[choice].values
-# Teszt label kiválasztása
-test_label = mnist.target.iloc[choice]
-viz(test_img, test_label)
+labels
 ```
 
 ### Normalizáció
@@ -86,18 +74,18 @@ train_test_split_no
 
 ```python
 X_train = n_data[:train_test_split_no]
-y_train = labels[:train_test_split_no].values.astype(int)
-y_train = one_hot_encode(y_train, 10)
+y_train = labels[:train_test_split_no].astype(int)
+y_train = one_hot_encode(y_train, 3)
 
-X_train.shape, y_train
+X_train.shape, y_train.shape
 ```
 
 ```python
 X_test = n_data[train_test_split_no:]
-y_test = labels[train_test_split_no:].values.astype(int)
-y_test = one_hot_encode(y_test, 10)
+y_test = labels[train_test_split_no:].astype(int)
+y_test = one_hot_encode(y_test, 3)
 
-X_test.shape
+X_test.shape, y_test.shape
 ```
 
 ## Hogyan tudjuk elképzelni?
@@ -131,12 +119,16 @@ X_test.shape
 ## Egyszerű neurális hálózat pythonban
 
 ```python
+set(labels)
+```
+
+```python
 import tensorflow as tf
 
 model = tf.keras.Sequential([
     tf.keras.layers.Input((X_train.shape[1])),
     tf.keras.layers.Dense(128, activation="relu"),
-    tf.keras.layers.Dense(10, activation="softmax")
+    tf.keras.layers.Dense(3, activation="softmax")
     ]
 )
 ```
@@ -178,7 +170,7 @@ model(x)
 ### Tanulás
 
 ```python
-model.fit(X_train, y_train, epochs=5, batch_size=32)
+model.fit(X_train, y_train, epochs=50, batch_size=32)
 ```
 
 ### Kiértékelés
@@ -190,5 +182,5 @@ model.evaluate(X_test, y_test)
 ```python
 choice = np.random.choice(np.arange(X_test.shape[0]+1))
 p = model.predict(np.array([X_test[choice]]))
-viz(X_test[choice], np.argmax(p))
+choice, np.argmax(p), np.argmax(y_test[choice])
 ```

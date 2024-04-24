@@ -12,6 +12,27 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ======
 
+## Elő vizsga Feladat típusok
+
+A vizsgán maximum 10-pont szerezhető:
+
+### 2024.05.06.
+
+### Jegyek
+
+- 0-5 pont = 1
+- 6 pont = 2
+- 7 pont = 3
+- 8 pont = 4
+- 9-10 pont  = 5
+
+### Kérdés típusok:
+    1. Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása. (2 pont)
+    2. Keresok egy hiányos keresőt kell kiegészíteni: Trial error, hegymászó, mélységi, szélleségi, backtrack stb... (2 pont)
+    3. Neuralis halozatok: Egy egyszerű adathalmazra kell felépíteni a NN modellt Keras-ban. (2 pont)
+    4. Reinforcement learning: Q fgv vagy tábla formálisan meg van adva és azt kell implementálni (learn és act függvények implementálása). (2 pont)
+    5. Elméleti kérdés a gyakorlati anyag témáiból: Állapottér-reprezentáció, nem informált algoritmusok, informált algorutmusok, Kényszerkielégtés, Lépésajánlás, Naiv Bayes, Neurális hálók, Megerősítéses tanulás. (2 pont)
+
 ## Labor
 
 - I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](../materials/AI/lesson_1)
