@@ -16,7 +16,7 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 A vizsgán maximum 10-pont szerezhető:
 
-### 2024.05.06.
+### 2024.05.16.
 
 ### Jegyek
 

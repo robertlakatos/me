@@ -78,7 +78,8 @@ Az utolsó állapot. Mindig a feladattol függ. A cél teljesítésének végér
 2. Az ügynök kiválasztja a műveletet a legmagasabb értékű (max) Q-táblázatra való hivatkozással VAGY véletlenszerűen (epsilon, ε)
 3. Frissítse a q-értékeket
 
-## Pong
+## Pong (pong.py)
+### Hozzunk létre egy pong.py-fájlt
 
 <img src="https://robertlakatos.github.io/me/materials/AI/images/pong.png" alt="pong">
 
@@ -89,6 +90,8 @@ from tqdm import tqdm
 ```
 
 ```python
+# Globális Paraméterek
+
 # Színek
 BLACK = (0,0,0)
 WHITE = (255,255,255)
@@ -147,6 +150,36 @@ ball_y = 1
 ball_change_x = 1
 ball_change_y = 1
 ball_size_to_sides = 1
+
+# A dictionary-t arra fogjuk használni, 
+# hogy nyomon követhessük azokat az állapotokat, 
+# amelyekkel eddig találkoztunk
+state_to_id = {}
+
+# A lehetséges állapotok száma összesen
+num_states = SPACE_SIZE[0] * SPACE_SIZE[1] * SPACE_SIZE[0] * SPACE_SIZE[1] * 2 * 2
+
+# Képernyő méret
+screen = 0
+
+# Agent
+agent = None
+```
+
+```python
+RED
+```
+
+```python
+SIGN_PLAYER
+```
+
+```python
+SPACE_SIZE, ZOOM_SIZE
+```
+
+```python
+ACTIONS
 ```
 
 ```python
@@ -350,19 +383,7 @@ def play_episodes(n_episodes=10_000, max_epsilon=1.0, min_epsilon=0.05, decay_ra
 ```
 
 ```python
-pong.RED
-```
-
-```python
-pong.SIGN_PLAYER
-```
-
-```python
-pong.SPACE_SIZE, pong.ZOOM_SIZE
-```
-
-```python
-pong.ACTIONS
+import pong
 ```
 
 ```python
@@ -372,6 +393,9 @@ pong.init_pong()
 ```python
 pong.screen
 ```
+
+## QLearningAgent (qla.py)
+### Hozzunk létre egy qla.py-fájlt
 
 ```python
 import random
@@ -407,6 +431,8 @@ class QLearningAgent:
 ```
 
 ```python
+from qla import QLearningAgent
+
 pong.agent = QLearningAgent(n_states=pong.num_states, n_actions=3, learning_rate=1.0)
 pong.agent
 ```
@@ -449,7 +475,8 @@ with open("state_to_id.pkl", "wb") as f:
     pickle.dump(pong.state_to_id, f)
 ```
 
-### To test.py
+## Tesztelés
+### Hozzunk létre egy test.py-fájlt
 
 ```python
 import libs.pong as pong
