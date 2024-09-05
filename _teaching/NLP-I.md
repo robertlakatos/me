@@ -27,10 +27,10 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Labor
 
-- N.    [Python Basics](../materials/NLP-A/labor/N-python)
-- N.    [Numpy and Matplotlib](../materials/NLP-A/labor/N-numpy-and-matplotlib)
-- N.    [Pandas Intro](../materials/NLP-A/labor/N-pandas)
-- I.    [Text cleaning](../materials/NLP-A/labor/I-text-cleaning)
+- N.    [Python Basics](../materials/NLP-I/labor/N-python)
+- N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
+- N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
+- I.    [Text cleaning](../materials/NLP-I/labor/I-text-cleaning)
 - II.   [Tokenization]()
 - III.  [Vektorization]()
 - IV.   [Supervised, Unsupervised, Semi-supervised]()

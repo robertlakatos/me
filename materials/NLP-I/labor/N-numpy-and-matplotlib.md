@@ -272,4 +272,3 @@ print("C shape:", C.shape)
 print("D:\n", D)
 print("D shape:", D.shape)
 ```
-```
