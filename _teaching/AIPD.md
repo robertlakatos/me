@@ -2,7 +2,7 @@
 title: "Artificial Intelligence in planning and decisionmaking"
 collection: teaching
 type: "B.Sc course"
-permalink: /teaching/AIPD
+permalink: teaching/AIPD
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-05
 location: "Debrecen, Hungary"
