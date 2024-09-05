@@ -5,10 +5,33 @@ permalink: /supervising/
 author_profile: true
 ---
 
+A szakdolgozatok megtekintéséhez hozzáférés szükséges a Debreceni Egyetem Elektronikus Archívum (DEA) rendszeréhez! (To view theses, you need access to the Electronic Archive (DEA) system of the University of Debrecen.)
+
+## [Dokumentáció feldolgozása GPT alapú modellel](https://dea.lib.unideb.hu/items/478f3338-b3cf-4ab4-b957-7c6c2ed9a46c)
+
+- Author: Loós András Péter
+- Created: 2024-04-16
+
+A szakdolgozat célja az LLM-ek, azaz nagy nyelvi modellek szerepének és jelentőségének bemutatása a dokumentációk feldolgozásában. A dolgozat áttekinti a nyelvi modellek működési elvét, valamint a lokálisan futtatható nyelvi modellek működését. Emellett részletesen foglalkozok az adatvédelmi aggályokkal, és bemutatja a PrivateGPT-t, mint biztonságos és hatékony eszközt dokumentációk feldolgozáshoz. A teszteredmények alapján összehasonlítja különböző modellek teljesítményét különböző dokumentációk esetén, mint például technikai, jogi, vagy orvosi szövegek. Végül következtetéseket és ajánlásokat fogalmaz meg jövőbeli kutatások és fejlesztések szempontjából.
+
+## [Mesterséges Intelligencia tesztelése képgenerálás segítségével](https://dea.lib.unideb.hu/items/622ac120-6638-4ef3-ae28-0ce03f1416a8)
+
+- Author: Gellén Rebeka
+- Created: 2024-04-16
+	
+Szakdolgozatom központi eleme egy képgenerálási folyamat, amely saját rajzaim mellett más alkotók munkáin tanul. Az adathalmaz eloszlását fokozatosan változtatom, míg csupán 5%-át teszik ki a saját képeim. Célzott utasításokkal, úgynevezett promptokkal, tesztelem a számítógépet, hogy különböző eloszlásoknál vissza tudja-e adni az elvárásaimnak megfelelő képet. A végső kérdés az, hogy marad-e egyáltalán befolyása az én képeimnek a tanulás után, ha az adathalmazban elenyésző arányban szerepelnek. Dolgozatom ezen teszten vezet végig. Annak előkíszületeit, a végeredményhez elvezető utat és lépéseket taglalja. Lezárás képpen megválaszolom a felmerült kérdéseket a keletkezett képek elemzésével.
+
+## [Piaci trendek meghatározása a gépi tanulás nlp módszereivel](https://dea.lib.unideb.hu/items/23571cd2-8f79-436c-996b-925ce996ce09)
+
+- Author: Kalló György Dávid
+- Created: 2024-04-09
+
+A dolgozatomban piaci, gazdasági hírek elemzését és feldolgozását választottam. Ezek a hírek mozgatják napjaink pénzügyi világát, ezért megértésük és elemzésük sokat segíthet nem csak a szakembereknek, de a témában kevésbé jártasaknak is. A Twittert választottam forrásnak, ahonnan négy híroldal üzeneteiből állítottam össze adathalmazokat. Arra kerestem a választ, hogy milyen mértékben képesek árfolyammozgásokat generálni a hírek. Ehhez az NLP nyújtotta hangulatelemző modelleket használtam. Az adathalmazokat elemeztem és megtisztítottam az előfeldolgozás különböző lépései során. Ezután a hangulatelemző modellek eredményeit elemeztem és összevetettem egymással. Végül az eredményeket különböző árfolyamokkal hasonlítottam össze és megállapítottam a konklúziómat.
+
 ## [Mesterséges Intelligencia alkalmazása az ESport területén](https://dea.lib.unideb.hu/items/0bbb4577-cd4d-4c34-9176-53656b179c5a)
 
 - Author: Zagyva Ákos Bence
-- Created: 	2023-11-23
+- Created: 2023-11-23
 
 A dolgozatom témája a mesterséges intelligencia felhasználása valamint alkalmazása az esport területén. A dolgozatban feltárom az alkalmazási területeit a mesterséges intelligenciának az esportban, valamint egy példán keresztül be is mutatom azt. Egy szimulátor szoftverben egy mesterséges intelligencia ágens valamint a hozzá tartozó környezet és függelékek összessége kerül bemutatásra, implementálásra. A dolgozathoz tartozó kód pythonban íródott, mely főbb elemei bemutatásra kerülnek. Bemutatásra kerülnek az általam alkalmazott technológiák a megerősítéses tanulással kapcsolatban. Bemutatásra kerülnek a feltanított ágens által elért eredmények, valamint a fejlesztéssel járó buktatók és nehézségek is említésre kerülnek.
 
