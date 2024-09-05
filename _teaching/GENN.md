@@ -2,7 +2,7 @@
 title: "Generative Networks"
 collection: teaching
 type: "B.Sc course"
-permalink: /teaching/NLP-I
+permalink: /teaching/GENN
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-04
 location: "Debrecen, Hungary"
