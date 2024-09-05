@@ -2,7 +2,7 @@
 title: "Introduction to Natural Language Text Processing"
 collection: teaching
 type: "B.Sc course"
-permalink: /teaching/NLP-I
+permalink: teaching/NLP-I
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-05
 location: "Debrecen, Hungary"
@@ -14,14 +14,15 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Requirements
 
-- Fewer absences than allowed. Active participation in classes.
-- Organizing into teams (2-4 people) or working individually.
+- Attendance sheet: Fewer absences than allowed. Active participation in classes.
 - Creating a working application and presenting it in the form of a video using the solutions and models learned in class.
      - It must be uploaded to Github and shared.
      - Maximum length of video is 5-10 minutes.
      - In the video, each creator must present their own contribution. (for 3-8 minutes)
      - At the end of the video, the application must be shown in action. (for 1-2 minutes)
-- The team members do not receive a uniform ticket, but get the ticket in proportion to the task they have completed in the project.
+- Organizing into teams (2-4 people) or working individually.
+- If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
+- It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
 - Submission deadline: ****
 
