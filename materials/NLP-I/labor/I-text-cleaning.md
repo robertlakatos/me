@@ -67,7 +67,8 @@ English: Removing Special Characters: Removing special characters such as @, #, 
 Hungary: A szöveg szavakra vagy mondatokra való bontása (tokenek), amely az első lépés a szöveg strukturálásában.
 
 English: Breaking the text into words or sentences (tokens), which is the first step in structuring the text.
-HTML címkék eltávolítása (Removing HTML Tags):
+
+## HTML címkék eltávolítása (Removing HTML Tags):
 
 Hungary: Webes szövegek esetén a HTML tag-ek eltávolítása, amelyek nem tartoznak a tényleges szöveghez.
 
