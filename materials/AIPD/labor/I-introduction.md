@@ -87,36 +87,36 @@ Egy online kiskereskedelmi vállalat szeretné növelni az eladásait a követke
 
 | Customer_ID | Age | Gender | Location | Total_Purchase (HUF) | Purchase_Frequency | Average_Purchase_Value(HUF) | Marketing_Response | Preferred_Channel | Customer_Loyalty_Score |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0 | 1001 | 25 | Female | Budapest | 150000 | 15000 | Monthly | Purchased | Online | 85 |
-| 1 | 1002 | 32 |  Male | Rural | 80000 | 20000 | Occasional | NotPurchased | In-store | 65 |
-| 2 | 1003 | 45 | Female | Budapest | 200000 | 40000 | Weekly | Purchased | Online | 90 |
-| 3 | 1004 | 29 |  Male | Rural | 50000 | 10000 | Monthly | NotPurchased | In-store | 50 |
-| 4 | 1005 | 37 | Female |  Abroad | 300000 | 30000 | Weekly | Purchased | Online | 95 |
-| 5 | 1006 | 50 |  Male | Rural | 120000 | 40000 | Occasional | Purchased | In-store | 75 |
-| 6 | 1007 | 22 | Female | Budapest | 90000 | 9000 | Monthly | NotPurchased | Online | 60 |
-| 7 | 1008 | 40 |  Male |  Abroad | 220000 | 22000 | Weekly | Purchased | Online | 80 |
-| 8 | 1009 | 33 | Female | Rural | 110000 | 11000 | Monthly | Purchased | In-store | 70 |
-| 9 | 1010 | 28 |  Male | Budapest | 60000 | 30000 | Occasional | NotPurchased | Online | 55 |
-| 10 | 1011 | 26 | Female | Rural | 170000 | 17000 | Monthly | Purchased | In-store | 80 |
-| 11 | 1012 | 31 |  Male | Budapest | 140000 | 14000 | Monthly | NotPurchased | Online | 65 |
-| 12 | 1013 | 47 | Female |  Abroad | 250000 | 25000 | Weekly | Purchased | Online | 90 |
-| 13 | 1014 | 36 |  Male | Rural | 50000 | 5000 | Occasional | NotPurchased | In-store | 55 |
-| 14 | 1015 | 41 | Female | Budapest | 180000 | 18000 | Monthly | Purchased | Online | 75 |
-| 15 | 1016 | 23 | Female | Budapest | 75000 | 7500 | Monthly | NotPurchased | Online | 60 |
-| 16 | 1017 | 34 |  Male | Rural | 90000 | 9000 | Occasional | Purchased | In-store | 70 |
-| 17 | 1018 | 38 | Female |  Abroad | 270000 | 27000 | Weekly | Purchased | Online | 85 |
-| 18 | 1019 | 48 |  Male | Rural | 130000 | 13000 | Monthly | NotPurchased | In-store | 65 |
-| 19 | 1020 | 27 |  Male | Budapest | 55000 | 5500 | Occasional | Purchased | Online | 50 |
-| 20 | 1021 | 39 | Female | Rural | 190000 | 19000 | Weekly | Purchased | In-store | 80 |
-| 21 | 1022 | 46 |  Male |  Abroad | 160000 | 16000 | Monthly | NotPurchased | Online | 70 |
-| 22 | 1023 | 35 | Female | Budapest | 115000 | 11500 | Occasional | Purchased | Online | 75 |
-| 23 | 1024 | 30 |  Male | Rural | 85000 | 8500 | Monthly | Purchased | In-store | 60 |
-| 24 | 1025 | 24 | Female |  Abroad | 135000 | 13500 | Weekly | NotPurchased | Online | 85 |
-| 25 | 1026 | 42 |  Male | Budapest | 200000 | 20000 | Occasional | Purchased | In-store | 90 |
-| 26 | 1027 | 43 | Female | Rural | 95000 | 9500 | Weekly | NotPurchased | Online | 65 |
-| 27 | 1028 | 44 |  Male |  Abroad | 300000 | 30000 | Occasional | Purchased | In-store | 95 |
-| 28 | 1029 | 21 | Female | Budapest | 105000 | 10500 | Monthly | NotPurchased | Online | 70 |
-| 29 | 1030 | 49 |  Male | Rural | 210000 | 21000 | Weekly | Purchased | Online | 80 |
+| 1001 | 25 | Female | Budapest | 150000 | 15000 | Monthly | Purchased | Online | 85 |
+| 1002 | 32 |  Male | Rural | 80000 | 20000 | Occasional | NotPurchased | In-store | 65 |
+| 1003 | 45 | Female | Budapest | 200000 | 40000 | Weekly | Purchased | Online | 90 |
+| 1004 | 29 |  Male | Rural | 50000 | 10000 | Monthly | NotPurchased | In-store | 50 |
+| 1005 | 37 | Female |  Abroad | 300000 | 30000 | Weekly | Purchased | Online | 95 |
+| 1006 | 50 |  Male | Rural | 120000 | 40000 | Occasional | Purchased | In-store | 75 |
+| 1007 | 22 | Female | Budapest | 90000 | 9000 | Monthly | NotPurchased | Online | 60 |
+| 1008 | 40 |  Male |  Abroad | 220000 | 22000 | Weekly | Purchased | Online | 80 |
+| 1009 | 33 | Female | Rural | 110000 | 11000 | Monthly | Purchased | In-store | 70 |
+| 1010 | 28 |  Male | Budapest | 60000 | 30000 | Occasional | NotPurchased | Online | 55 |
+| 1011 | 26 | Female | Rural | 170000 | 17000 | Monthly | Purchased | In-store | 80 |
+| 1012 | 31 |  Male | Budapest | 140000 | 14000 | Monthly | NotPurchased | Online | 65 |
+| 1013 | 47 | Female |  Abroad | 250000 | 25000 | Weekly | Purchased | Online | 90 |
+| 1014 | 36 |  Male | Rural | 50000 | 5000 | Occasional | NotPurchased | In-store | 55 |
+| 1015 | 41 | Female | Budapest | 180000 | 18000 | Monthly | Purchased | Online | 75 |
+| 1016 | 23 | Female | Budapest | 75000 | 7500 | Monthly | NotPurchased | Online | 60 |
+| 1017 | 34 |  Male | Rural | 90000 | 9000 | Occasional | Purchased | In-store | 70 |
+| 1018 | 38 | Female |  Abroad | 270000 | 27000 | Weekly | Purchased | Online | 85 |
+| 1019 | 48 |  Male | Rural | 130000 | 13000 | Monthly | NotPurchased | In-store | 65 |
+| 1020 | 27 |  Male | Budapest | 55000 | 5500 | Occasional | Purchased | Online | 50 |
+| 1021 | 39 | Female | Rural | 190000 | 19000 | Weekly | Purchased | In-store | 80 |
+| 1022 | 46 |  Male |  Abroad | 160000 | 16000 | Monthly | NotPurchased | Online | 70 |
+| 1023 | 35 | Female | Budapest | 115000 | 11500 | Occasional | Purchased | Online | 75 |
+| 1024 | 30 |  Male | Rural | 85000 | 8500 | Monthly | Purchased | In-store | 60 |
+| 1025 | 24 | Female |  Abroad | 135000 | 13500 | Weekly | NotPurchased | Online | 85 |
+| 1026 | 42 |  Male | Budapest | 200000 | 20000 | Occasional | Purchased | In-store | 90 |
+| 1027 | 43 | Female | Rural | 95000 | 9500 | Weekly | NotPurchased | Online | 65 |
+| 1028 | 44 |  Male |  Abroad | 300000 | 30000 | Occasional | Purchased | In-store | 95 |
+| 1029 | 21 | Female | Budapest | 105000 | 10500 | Monthly | NotPurchased | Online | 70 |
+| 1030 | 49 |  Male | Rural | 210000 | 21000 | Weekly | Purchased | Online | 80 |
 
 ### Task 1: Understanding the problem and defining goals. (A probléma megértése és célok meghatározása.)
 
