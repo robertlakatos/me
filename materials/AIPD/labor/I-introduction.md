@@ -19,18 +19,43 @@ A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és szám�
 ## A brief overview of the development of AI from the 1950s to the present day. (Rövid áttekintés az AI fejlődéséről az 1950-es évektől napjainkig.)
 
 ### English:
-- 1956: The first official AI conference, where the concept of AI was born.
-- 1997: Deep Blue defeated world chess champion Garry Kasparov.
-- 2012: Breakthrough of deep learning, especially in the field of image recognition.
+- 1956: The first official AI conference, where the concept of AI was born. (The Dartmouth workshop)
+- 1996: Deep Blue defeated world chess champion Garry Kasparov.
+- 2007: Checkers are solved by researchers from the University of Alberta in Canada. After scanning 500 billion positions, they build a checker's computer program that cannot be beaten.
+- 2011: IBM's Watson computer defeats the TV game Jeopardy! champion Brad Rutter and Ken Jennings, who claimed the $1 million first prize.
+- 2012: Breakthrough of deep learning, especially in the field of image recognition. (AlexNet, designed by Alex Krizhevsky, published with Ilya Sutskever, University of Toronto)
+- 2016: Google DeepMind's AlphaGo defeats Korean Go champion Lee Sedol 4-1. The Korean Baduk Association awards AlphaGo with the highest Go grandmaster rank, an honorary 9 dan.
+- 2017: [Attention Is All You Need, Google](https://arxiv.org/pdf/1706.03762)
+- 2018: [OpenAI Five, has started to defeat amateur human teams at Dota 2](https://openai.com/research/openai-five)
+- 2019: Vinyals, Oriol et al. "Grandmaster Level in StarCraft II with Multi-Agent Reinforcement Learning." Nature 575.7782 (2019): 350-354
+- 2021: Jumper, John et al. "Highly accurate protein structure prediction with AlphaFold." Nature 596, 7873 (2021): 583-589.
+- [2022: WURMAN, Peter R. et al. Defeat champion Gran Turismo racers with deep reinforcement learning. Nature, 602.7896: 223-228.](https://www.nature.com/articles/s41586-021-04357-7)
+    - [Video 1](https://www.youtube.com/watch?v=FTrvBNlGFc8)
+    - [Video 2](https://www.youtube.com/watch?v=6kUpOmEQLno)
 - 2023: GPT and Gemini technologies have opened up new dimensions in the field of natural language processing and AI.
+- [2024: Tacticai Ai Assistant For Football Tactics](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/)
+- [2024: SIMA Generalist AI Agent](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
 ### Hungary:
-- 1956: Az első hivatalos AI konferencia, ahol az AI fogalma megszületett.
-- 1997: A Deep Blue legyőzte a sakkvilágbajnokot, Garry Kasparovot.
-- 2012: A mély tanulás (deep learning) áttörése, különösen a képfelismerés területén.
+- 1956: Az első hivatalos AI konferencia, ahol az AI fogalma megszületett. (Dartmouth workshop)
+- 1996: A Deep Blue legyőzte a sakkvilágbajnokot, Garry Kasparovot. Az IBM Deep Blue sakkgépe megnyer egy játszmát Garry Kaszparov sakkvilágbajnok ellen, de 2-4-re elveszíti a meccset. Egy évvel később Kaszparov elveszíti a visszavágót.
+- 2007: A dámát a kanadai Alberta Egyetem kutatói oldják meg. 500 milliárd pozíció átvizsgálása után egy dámajátékos számítógépes programot építenek, amelyet nem lehet legyőzni.
+- 2011: Az IBM Watson számítógépe legyőzi a Jeopardy tévéjátékot! a bajnok Brad Rutter és Ken Jennings, akik megszerezték az 1 millió dolláros első díjat.
+- 2012: A mély tanulás (deep learning) áttörése, különösen a képfelismerés területén. (AlexNet, tevezte Alex Krizhevsky, publikálta Ilya Sutskever,  Torontoi Egyetem)
+- 2016: A Google DeepMind AlphaGo-ja 4-1-re legyőzi a koreai Go-bajnok Lee Sedolt. A Koreai Baduk Egyesület a legmagasabb Go nagymesteri fokozattal, egy tiszteletbeli 9 danossal jutalmazza az AlphaGo-t.
+- 2017: [Attention Is All You Need, Google](https://arxiv.org/pdf/1706.03762)
+- 2018: [OpenAI Five, has started to defeat amateur human teams at Dota 2](https://openai.com/research/openai-five)
+- 2019: Vinyals, Oriol és társai. "Nagymesteri szint a StarCraft II-ben, több ágens megerősítő tanulással." Nature 575.7782 (2019): 350-354
+- 2021: Jumper, John és társai. "Nagyon pontos fehérjeszerkezet előrejelzés az AlphaFolddal." Nature 596,7873 (2021): 583-589.
+- [2022: WURMAN, Peter R. és társai. Legyőző bajnok Gran Turismo versenyzők mélyen megerősített tanulással. Nature, 602.7896: 223-228.](https://www.nature.com/articles/s41586-021-04357-7)
+    - [Video 1](https://www.youtube.com/watch?v=FTrvBNlGFc8)
+    - [Video 2](https://www.youtube.com/watch?v=6kUpOmEQLno)
+- [2022: A NukkAI NooK bridzsjáték számítógépe nyolc bridzs világbajnokot győz le Párizsban.](https://arxiv.org/pdf/2001.08193.pdf)
 - 2023: A GPT és Gemini technológiák új dimenziókat nyitottak a természetes nyelvfeldolgozás és AI területén.
+- [2024: Tacticai Ai Assistant For Football Tactics](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/)
+- [2024: SIMA Generalist AI Agent](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
-## Az AI típusai és döntéshozatalban betöltött szerepe:
+## Az AI típusai és döntéshozatalban betöltött szerepe (Types of AI and its role in decision-making):
 
 ### English:
 - Expert systems: Rule-based systems that solve special decision problems (eg medical diagnosis).
@@ -43,3 +68,117 @@ A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és szám�
 - Gépi tanulás: Az AI algoritmusok automatikusan tanulnak az adatokból, mint például az előrejelzések készítése.
 - Döntési fák: Az adatok alapján fa szerkezetben hoznak döntéseket.
 - Ajánlórendszerek: Olyan rendszerek, amelyek ajánlásokat tesznek (pl. Netflix, Amazon).
+
+## Practical example: AI-based decision-making is a business problem (Gyakorlati példa: AI alapú döntéshozatal egy üzleti problémár)
+
+### English:
+
+Outline a business problem:
+
+An online retail company wants to increase its sales in the next quarter. Previous years' sales data, customer behavior patterns, and results of marketing campaigns are available. The goal is to use AI to understand customer behavior and optimize marketing strategies to increase sales.
+
+### Hungary:
+
+Üzleti probléma felvázolása:
+
+Egy online kiskereskedelmi vállalat szeretné növelni az eladásait a következő negyedévben. Rendelkezésre állnak az előző évek értékesítési adatai, vásárlói viselkedési minták és marketing kampányok eredményei. A cél az, hogy az AI segítségével megértsük a vásárlói viselkedést, és optimalizáljuk a marketing stratégiákat az eladások növelése érdekében.
+
+### Data
+Customer_ID | Age | Gender | Location | Total_Purchase (HUF) |  | Purchase_Frequency | Average_Purchase_Value(HUF) | Marketing_Response | Preferred_Channel | Customer_Loyalty_Score
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+0 | 1001 | 25 | Female | Budapest | 150000 | 15000 | Monthly | Purchased | Online | 85
+1 | 1002 | 32 |  Male | Rural | 80000 | 20000 | Occasional | NotPurchased | In-store | 65
+2 | 1003 | 45 | Female | Budapest | 200000 | 40000 | Weekly | Purchased | Online | 90
+3 | 1004 | 29 |  Male | Rural | 50000 | 10000 | Monthly | NotPurchased | In-store | 50
+4 | 1005 | 37 | Female |  Abroad | 300000 | 30000 | Weekly | Purchased | Online | 95
+5 | 1006 | 50 |  Male | Rural | 120000 | 40000 | Occasional | Purchased | In-store | 75
+6 | 1007 | 22 | Female | Budapest | 90000 | 9000 | Monthly | NotPurchased | Online | 60
+7 | 1008 | 40 |  Male |  Abroad | 220000 | 22000 | Weekly | Purchased | Online | 80
+8 | 1009 | 33 | Female | Rural | 110000 | 11000 | Monthly | Purchased | In-store | 70
+9 | 1010 | 28 |  Male | Budapest | 60000 | 30000 | Occasional | NotPurchased | Online | 55
+10 | 1011 | 26 | Female | Rural | 170000 | 17000 | Monthly | Purchased | In-store | 80
+11 | 1012 | 31 |  Male | Budapest | 140000 | 14000 | Monthly | NotPurchased | Online | 65
+12 | 1013 | 47 | Female |  Abroad | 250000 | 25000 | Weekly | Purchased | Online | 90
+13 | 1014 | 36 |  Male | Rural | 50000 | 5000 | Occasional | NotPurchased | In-store | 55
+14 | 1015 | 41 | Female | Budapest | 180000 | 18000 | Monthly | Purchased | Online | 75
+15 | 1016 | 23 | Female | Budapest | 75000 | 7500 | Monthly | NotPurchased | Online | 60
+16 | 1017 | 34 |  Male | Rural | 90000 | 9000 | Occasional | Purchased | In-store | 70
+17 | 1018 | 38 | Female |  Abroad | 270000 | 27000 | Weekly | Purchased | Online | 85
+18 | 1019 | 48 |  Male | Rural | 130000 | 13000 | Monthly | NotPurchased | In-store | 65
+19 | 1020 | 27 |  Male | Budapest | 55000 | 5500 | Occasional | Purchased | Online | 50
+20 | 1021 | 39 | Female | Rural | 190000 | 19000 | Weekly | Purchased | In-store | 80
+21 | 1022 | 46 |  Male |  Abroad | 160000 | 16000 | Monthly | NotPurchased | Online | 70
+22 | 1023 | 35 | Female | Budapest | 115000 | 11500 | Occasional | Purchased | Online | 75
+23 | 1024 | 30 |  Male | Rural | 85000 | 8500 | Monthly | Purchased | In-store | 60
+24 | 1025 | 24 | Female |  Abroad | 135000 | 13500 | Weekly | NotPurchased | Online | 85
+25 | 1026 | 42 |  Male | Budapest | 200000 | 20000 | Occasional | Purchased | In-store | 90
+26 | 1027 | 43 | Female | Rural | 95000 | 9500 | Weekly | NotPurchased | Online | 65
+27 | 1028 | 44 |  Male |  Abroad | 300000 | 30000 | Occasional | Purchased | In-store | 95
+28 | 1029 | 21 | Female | Budapest | 105000 | 10500 | Monthly | NotPurchased | Online | 70
+29 | 1030 | 49 |  Male | Rural | 210000 | 21000 | Weekly | Purchased | Online | 80
+
+### Task 1: Understanding the problem and defining goals. (A probléma megértése és célok meghatározása.)
+
+Objective: Define the main business challenge and determine how AI can help solve it.
+
+Cél: Megfogalmazni a fő üzleti kihívást és meghatározni, hogyan segíthet az AI a megoldásban.
+
+Prompt: An online retail company wants to increase its sales in the next quarter. How can artificial intelligence help in analyzing customer behavior and optimizing marketing strategies?
+
+Prompt: Egy online kiskereskedelmi vállalat szeretné növelni az eladásait a következő negyedévben. Hogyan segíthet a mesterséges intelligencia a vásárlói viselkedés elemzésében és a marketing stratégiák optimalizálásában?
+
+### Task 2: Customer segmentation using AI. (Vásárlói szegmentáció AI segítségével.)
+
+Objective: To understand how AI can be used to identify customer groups.
+
+Cél: Megérteni, hogyan lehet az AI-t használni a vásárlói csoportok azonosítására.
+
+Prompt: Explain how AI can be applied to customer segmentation and how it can help target marketing campaigns.
+
+Prompt: Magyarázd el, hogyan alkalmazhatjuk az AI-t a vásárlói szegmentációhoz, és hogyan segíthet ez a marketing kampányok célzásában.
+
+### Task 3: Predictive modeling for forecasting sales. (Prediktív modellezés az értékesítések előrejelzéséhez)
+
+Objective: To demonstrate how we can use AI to predict sales trends.
+
+Cél: Bemutatni, hogyan használhatunk AI-t az értékesítési trendek előrejelzésére.
+
+Prompt: How can we create a predictive model based on previous years' sales data to forecast sales for the next quarter?
+
+Prompt: Hogyan készíthetünk prediktív modellt az előző évek értékesítési adatai alapján az eladások előrejelzésére a következő negyedévre?
+
+### Task 4: Marketing strategy optimization with AI. (Marketing stratégia optimalizálása AI-va.)
+
+Objective: Discover how we can improve the effectiveness of marketing campaigns using AI.
+
+Cél: Felfedezni, hogyan javíthatjuk a marketing kampányok hatékonyságát AI segítségével.
+
+Prompt: What AI-based approaches can we use to increase the effectiveness of our marketing campaigns and drive sales?
+
+Prompt: Milyen AI-alapú megközelítéseket alkalmazhatunk a marketing kampányaink hatékonyságának növelésére és az eladások ösztönzésére?
+
+### Task 5: Ethical and data protection aspects. (Etikai és adatvédelmi szempontok.)
+
+Objective: To understand the ethical aspects of the application of AI.
+
+Cél: Megérteni az AI alkalmazásának etikai vonatkozásait.
+
+Prompt: What ethical and privacy issues should we consider when using AI to analyze customer data and for marketing purposes?
+
+Prompt: Milyen etikai és adatvédelmi kérdéseket kell figyelembe vennünk, amikor AI-t használunk a vásárlói adatok elemzésére és marketing célokra?
+
+### Task 6: Making your own prompts. (Saját promptok készítése.)
+
+Objective: To develop students' ability to communicate with AI.
+
+Cél: Fejleszteni a hallgatók képességét az AI-val való kommunikációra.
+
+### Task 7: Building a decision tree model. (Döntési fa modell felépítése)
+
+Objective: Gain practical experience in building a simple AI model.
+
+Cél: Gyakorlati tapasztalat szerzése egy egyszerű AI modell felépítésében.
+
+Prompt: Explain step-by-step how we can build a decision tree based on customer data to predict which customers are likely to buy during the next campaign.
+
+Prompt: Magyarázd el lépésről lépésre, hogyan építhetünk fel egy döntési fát a vásárlói adatok alapján, hogy előre jelezzük, mely ügyfelek valószínűsíthetően vásárolnak a következő kampány során.
