@@ -55,7 +55,7 @@ A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és szám�
 - [2024: Tacticai Ai Assistant For Football Tactics](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/)
 - [2024: SIMA Generalist AI Agent](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
-## Az AI típusai és döntéshozatalban betöltött szerepe (Types of AI and its role in decision-making):
+## Types of AI and its role in decision-making (Az AI típusai és döntéshozatalban betöltött szerepe)?
 
 ### English:
 - Expert systems: Rule-based systems that solve special decision problems (eg medical diagnosis).
@@ -69,7 +69,7 @@ A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és szám�
 - Döntési fák: Az adatok alapján fa szerkezetben hoznak döntéseket.
 - Ajánlórendszerek: Olyan rendszerek, amelyek ajánlásokat tesznek (pl. Netflix, Amazon).
 
-## Practical example: AI-based decision-making is a business problem (Gyakorlati példa: AI alapú döntéshozatal egy üzleti problémár)
+## Practical example: AI-based decision-making is a business problem (Gyakorlati példa: AI alapú döntéshozatal egy üzleti problémár)?
 
 ### English:
 
@@ -84,38 +84,39 @@ An online retail company wants to increase its sales in the next quarter. Previo
 Egy online kiskereskedelmi vállalat szeretné növelni az eladásait a következő negyedévben. Rendelkezésre állnak az előző évek értékesítési adatai, vásárlói viselkedési minták és marketing kampányok eredményei. A cél az, hogy az AI segítségével megértsük a vásárlói viselkedést, és optimalizáljuk a marketing stratégiákat az eladások növelése érdekében.
 
 ### Data
-Customer_ID | Age | Gender | Location | Total_Purchase (HUF) |  | Purchase_Frequency | Average_Purchase_Value(HUF) | Marketing_Response | Preferred_Channel | Customer_Loyalty_Score
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-0 | 1001 | 25 | Female | Budapest | 150000 | 15000 | Monthly | Purchased | Online | 85
-1 | 1002 | 32 |  Male | Rural | 80000 | 20000 | Occasional | NotPurchased | In-store | 65
-2 | 1003 | 45 | Female | Budapest | 200000 | 40000 | Weekly | Purchased | Online | 90
-3 | 1004 | 29 |  Male | Rural | 50000 | 10000 | Monthly | NotPurchased | In-store | 50
-4 | 1005 | 37 | Female |  Abroad | 300000 | 30000 | Weekly | Purchased | Online | 95
-5 | 1006 | 50 |  Male | Rural | 120000 | 40000 | Occasional | Purchased | In-store | 75
-6 | 1007 | 22 | Female | Budapest | 90000 | 9000 | Monthly | NotPurchased | Online | 60
-7 | 1008 | 40 |  Male |  Abroad | 220000 | 22000 | Weekly | Purchased | Online | 80
-8 | 1009 | 33 | Female | Rural | 110000 | 11000 | Monthly | Purchased | In-store | 70
-9 | 1010 | 28 |  Male | Budapest | 60000 | 30000 | Occasional | NotPurchased | Online | 55
-10 | 1011 | 26 | Female | Rural | 170000 | 17000 | Monthly | Purchased | In-store | 80
-11 | 1012 | 31 |  Male | Budapest | 140000 | 14000 | Monthly | NotPurchased | Online | 65
-12 | 1013 | 47 | Female |  Abroad | 250000 | 25000 | Weekly | Purchased | Online | 90
-13 | 1014 | 36 |  Male | Rural | 50000 | 5000 | Occasional | NotPurchased | In-store | 55
-14 | 1015 | 41 | Female | Budapest | 180000 | 18000 | Monthly | Purchased | Online | 75
-15 | 1016 | 23 | Female | Budapest | 75000 | 7500 | Monthly | NotPurchased | Online | 60
-16 | 1017 | 34 |  Male | Rural | 90000 | 9000 | Occasional | Purchased | In-store | 70
-17 | 1018 | 38 | Female |  Abroad | 270000 | 27000 | Weekly | Purchased | Online | 85
-18 | 1019 | 48 |  Male | Rural | 130000 | 13000 | Monthly | NotPurchased | In-store | 65
-19 | 1020 | 27 |  Male | Budapest | 55000 | 5500 | Occasional | Purchased | Online | 50
-20 | 1021 | 39 | Female | Rural | 190000 | 19000 | Weekly | Purchased | In-store | 80
-21 | 1022 | 46 |  Male |  Abroad | 160000 | 16000 | Monthly | NotPurchased | Online | 70
-22 | 1023 | 35 | Female | Budapest | 115000 | 11500 | Occasional | Purchased | Online | 75
-23 | 1024 | 30 |  Male | Rural | 85000 | 8500 | Monthly | Purchased | In-store | 60
-24 | 1025 | 24 | Female |  Abroad | 135000 | 13500 | Weekly | NotPurchased | Online | 85
-25 | 1026 | 42 |  Male | Budapest | 200000 | 20000 | Occasional | Purchased | In-store | 90
-26 | 1027 | 43 | Female | Rural | 95000 | 9500 | Weekly | NotPurchased | Online | 65
-27 | 1028 | 44 |  Male |  Abroad | 300000 | 30000 | Occasional | Purchased | In-store | 95
-28 | 1029 | 21 | Female | Budapest | 105000 | 10500 | Monthly | NotPurchased | Online | 70
-29 | 1030 | 49 |  Male | Rural | 210000 | 21000 | Weekly | Purchased | Online | 80
+
+| Customer_ID | Age | Gender | Location | Total_Purchase (HUF) | Purchase_Frequency | Average_Purchase_Value(HUF) | Marketing_Response | Preferred_Channel | Customer_Loyalty_Score |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0 | 1001 | 25 | Female | Budapest | 150000 | 15000 | Monthly | Purchased | Online | 85 |
+| 1 | 1002 | 32 |  Male | Rural | 80000 | 20000 | Occasional | NotPurchased | In-store | 65 |
+| 2 | 1003 | 45 | Female | Budapest | 200000 | 40000 | Weekly | Purchased | Online | 90 |
+| 3 | 1004 | 29 |  Male | Rural | 50000 | 10000 | Monthly | NotPurchased | In-store | 50 |
+| 4 | 1005 | 37 | Female |  Abroad | 300000 | 30000 | Weekly | Purchased | Online | 95 |
+| 5 | 1006 | 50 |  Male | Rural | 120000 | 40000 | Occasional | Purchased | In-store | 75 |
+| 6 | 1007 | 22 | Female | Budapest | 90000 | 9000 | Monthly | NotPurchased | Online | 60 |
+| 7 | 1008 | 40 |  Male |  Abroad | 220000 | 22000 | Weekly | Purchased | Online | 80 |
+| 8 | 1009 | 33 | Female | Rural | 110000 | 11000 | Monthly | Purchased | In-store | 70 |
+| 9 | 1010 | 28 |  Male | Budapest | 60000 | 30000 | Occasional | NotPurchased | Online | 55 |
+| 10 | 1011 | 26 | Female | Rural | 170000 | 17000 | Monthly | Purchased | In-store | 80 |
+| 11 | 1012 | 31 |  Male | Budapest | 140000 | 14000 | Monthly | NotPurchased | Online | 65 |
+| 12 | 1013 | 47 | Female |  Abroad | 250000 | 25000 | Weekly | Purchased | Online | 90 |
+| 13 | 1014 | 36 |  Male | Rural | 50000 | 5000 | Occasional | NotPurchased | In-store | 55 |
+| 14 | 1015 | 41 | Female | Budapest | 180000 | 18000 | Monthly | Purchased | Online | 75 |
+| 15 | 1016 | 23 | Female | Budapest | 75000 | 7500 | Monthly | NotPurchased | Online | 60 |
+| 16 | 1017 | 34 |  Male | Rural | 90000 | 9000 | Occasional | Purchased | In-store | 70 |
+| 17 | 1018 | 38 | Female |  Abroad | 270000 | 27000 | Weekly | Purchased | Online | 85 |
+| 18 | 1019 | 48 |  Male | Rural | 130000 | 13000 | Monthly | NotPurchased | In-store | 65 |
+| 19 | 1020 | 27 |  Male | Budapest | 55000 | 5500 | Occasional | Purchased | Online | 50 |
+| 20 | 1021 | 39 | Female | Rural | 190000 | 19000 | Weekly | Purchased | In-store | 80 |
+| 21 | 1022 | 46 |  Male |  Abroad | 160000 | 16000 | Monthly | NotPurchased | Online | 70 |
+| 22 | 1023 | 35 | Female | Budapest | 115000 | 11500 | Occasional | Purchased | Online | 75 |
+| 23 | 1024 | 30 |  Male | Rural | 85000 | 8500 | Monthly | Purchased | In-store | 60 |
+| 24 | 1025 | 24 | Female |  Abroad | 135000 | 13500 | Weekly | NotPurchased | Online | 85 |
+| 25 | 1026 | 42 |  Male | Budapest | 200000 | 20000 | Occasional | Purchased | In-store | 90 |
+| 26 | 1027 | 43 | Female | Rural | 95000 | 9500 | Weekly | NotPurchased | Online | 65 |
+| 27 | 1028 | 44 |  Male |  Abroad | 300000 | 30000 | Occasional | Purchased | In-store | 95 |
+| 28 | 1029 | 21 | Female | Budapest | 105000 | 10500 | Monthly | NotPurchased | Online | 70 |
+| 29 | 1030 | 49 |  Male | Rural | 210000 | 21000 | Weekly | Purchased | Online | 80 |
 
 ### Task 1: Understanding the problem and defining goals. (A probléma megértése és célok meghatározása.)
 
