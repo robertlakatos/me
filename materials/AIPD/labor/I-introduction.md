@@ -174,12 +174,8 @@ Objective: To develop students' ability to communicate with AI.
 
 Cél: Fejleszteni a hallgatók képességét az AI-val való kommunikációra.
 
-### Task 7: Building a decision tree model. (Döntési fa modell felépítése)
+### Task 7: Implement a model. (modell implementálása)
 
 Objective: Gain practical experience in building a simple AI model.
 
 Cél: Gyakorlati tapasztalat szerzése egy egyszerű AI modell felépítésében.
-
-Prompt: Explain step-by-step how we can build a decision tree based on customer data to predict which customers are likely to buy during the next campaign.
-
-Prompt: Magyarázd el lépésről lépésre, hogyan építhetünk fel egy döntési fát a vásárlói adatok alapján, hogy előre jelezzük, mely ügyfelek valószínűsíthetően vásárolnak a következő kampány során.
