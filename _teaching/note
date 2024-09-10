@@ -27,6 +27,18 @@ NLP
 - XIII. [Sequence-to-Sequence Models](../materials/NLP-I/labor/XIII-stos)
 
 
+## Whitespace kezelése (Handling Whitespaces):
+
+Hungary: A felesleges szóközök, tabulátorok, sortörések eltávolítása vagy normalizálása, hogy a szöveg homogén legyen.
+
+English: Removing or normalizing unnecessary spaces, tabs, line breaks, so that the text is homogeneous.
+
+## Speciális karakterek eltávolítása (Removing Special Characters):
+
+Hungary: Speciális karakterek, mint például @, #, %, eltávolítása, amelyek általában nem relevánsak a szöveg értelmezésében.
+
+English: Removing Special Characters: Removing special characters such as @, #, %, which are generally not relevant to the interpretation of the text.
+
 ## Tokenizáció (Tokenization):
 
 Hungary: A szöveg szavakra vagy mondatokra való bontása (tokenek), amely az első lépés a szöveg strukturálásában.

@@ -2,7 +2,7 @@
 title: "Text Cleaning"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/NLP-I/labor/I-text-cleaning
+permalink: /materials/NLP-I/labor/I-text-cleaning-I
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-05
 location: "Debrecen, Hungary"
@@ -49,15 +49,3 @@ English: Simplifying words to their stem, for example, turning "run", "ran" and 
 Hungary: A szavak alapalakra (lemmára) alakítása, amely figyelembe veszi a szavak szófaját is, például a „futott” szót „fut” alakra, a „gyorsabban” szót „gyors” alakra hozza vissza.
 
 English: Transforming words into basic forms (lemmas), which also takes into account the part of speech of the words, for example, returning the word "ran" to the form "run" and the word "faster" to the form "quick".
-
-## Whitespace kezelése (Handling Whitespaces):
-
-Hungary: A felesleges szóközök, tabulátorok, sortörések eltávolítása vagy normalizálása, hogy a szöveg homogén legyen.
-
-English: Removing or normalizing unnecessary spaces, tabs, line breaks, so that the text is homogeneous.
-
-## Speciális karakterek eltávolítása (Removing Special Characters):
-
-Hungary: Speciális karakterek, mint például @, #, %, eltávolítása, amelyek általában nem relevánsak a szöveg értelmezésében.
-
-English: Removing Special Characters: Removing special characters such as @, #, %, which are generally not relevant to the interpretation of the text.
