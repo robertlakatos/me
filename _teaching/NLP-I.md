@@ -24,26 +24,14 @@ Within the framework of the subject, students will learn about the basics of nat
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: ****
+- Submission deadline: 2024.09.20.
 
 ## Labor
 
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
-- I.    [Text cleaning](../materials/NLP-I/labor/I-text-cleaning)
-- II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
-- III.  [Vektorization](../materials/NLP-I/labor/III-vektorization)
-- IV.   [Supervised, Unsupervised, Semi-supervised](../materials/NLP-I/labor/IV-sus)
-- V.    [POS tagging, N-gram](../materials/NLP-I/labor/V-pos-n)
-- VI.   [Embedding](../materials/NLP-I/labor/VI-embedding)
-- VII.  [Topic Modelling](../materials/NLP-I/labor/VII-topic-modelling)
-- VIII. [Bayes-model, Sentiment analisis](../materials/NLP-I/labor/VIII-bayes-sa)
-- IX.   [Dimension reduction](../materials/NLP-I/labor/IX-dimension-reduction)
-- X.    [Linear regression, Sentiment analisis](../materials/NLP-I/labor/X-lr-sa)
-- XI.   [Simple (dense) neural network, Named Entity Recognition](../materials/NLP-I/labor/XI-nn-ner)
-- XII.  [Recurrent neural network, Text Generation](../materials/NLP-I/labor/XII-rnn-textgen)
-- XIII. [Sequence-to-Sequence Models](../materials/NLP-I/labor/XIII-stos)
+- I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning)
 
 ## Submitted
 

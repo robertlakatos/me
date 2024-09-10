@@ -25,20 +25,10 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: ****
+- Submission deadline: 2024.09.10.
 
 ## Labor
 
 - I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
-<!-- - II.   [Basics of decision-making and planning]()
-- III.  [AI-based decision-making systems]()
-- IV.   [Application of AI in business planning]()
-- V.    [Predictive models and AI-based forecasts]()
-- VI.   [AI and resource allocation optimization]()
-- VII.  [Risk Management and AI]()
-- VIII. [AI algorithms in decision making - Decision trees and classification]()
-- IX.   [Clustering techniques and AI algorithms]()
-- X.    [Optimization algorithms and game theory]()
-- XI.   [AI ethical issues and transparency]()
-- XII.  [Case Studies - Application of AI in different industries]()
-- XIII. [Final project and future prospects]() -->
+- II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
+- XIII. [Final project and future prospects]()
