@@ -8,7 +8,11 @@ date: 2024-09-05
 location: "Debrecen, Hungary"
 ---
 
-[Colab link](https://colab.research.google.com/drive/1QhghhzwDliCOMkRygSLfv5fLKT4Mjro1#scrollTo=edOFZuXqbKwx)
+[Colab link](https://colab.research.google.com/drive/1QhghhzwDliCOMkRygSLfv5fLKT4Mjro1)
+
+[Colab link megoldott](https://colab.research.google.com/drive/1LJXM-qYxXpAhuLbWnFuK5dCb7o9rfRFe)
+
+[Colab link is solved](https://colab.research.google.com/drive/1_eTr5kgJUb1YmDiid8abAU4WuZInFRX0)
 
 ## Huggingface
 

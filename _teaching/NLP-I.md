@@ -24,7 +24,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: 2024.09.20.
+- Submission deadline: 2024.12.20.
 
 ## Labor
 
