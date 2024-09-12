@@ -66,7 +66,7 @@ Stemming is a process that stems or removes last few characters from a word, oft
 For instance, stemming the word <i>Caring</i> would return <i>Car</i>. | For instance, lemmatizing the word <i>Caring</i>. would return <i>Care</i>.
 Stemming is used in case of large dataset where performance is an issue. | Lemmatization is computationally expensive since it involves look-up tables and what not.
 
-###  Handling Numerical Data: 
+### Handling Numerical Data: 
 
 Numeric values, such as dates, times, and numerical quantities, may need to be standardized or replaced with placeholders, depending on the specific analysis or modeling task.
 

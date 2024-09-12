@@ -13,7 +13,7 @@ location: "Debrecen, Hungary"
 ### English
 Artificial intelligence (AI) is a technology that gives machines and computer systems the ability to learn, reason, and make decisions in a human-like manner. AI is widely used in decision-making, for example to analyze data and create predictive models to make better and faster decisions in business or industrial processes.
 
-### Hungary:
+### Magyar:
 A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és számítógépes rendszereknek adja meg a képességet, hogy emberekhez hasonló módon tanuljanak, érveljenek és döntéseket hozzanak. Az AI-t a döntéshozatalban széles körben használják, például adatok elemzésére és prediktív modellek készítésére, hogy jobb és gyorsabb döntéseket hozzanak meg üzleti vagy ipari folyamatok során.
 
 ## A brief overview of the development of AI from the 1950s to the present day. (Rövid áttekintés az AI fejlődéséről az 1950-es évektől napjainkig.)
@@ -36,7 +36,7 @@ A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és szám�
 - [2024: Tacticai Ai Assistant For Football Tactics](https://deepmind.google/discover/blog/tacticai-ai-assistant-for-football-tactics/)
 - [2024: SIMA Generalist AI Agent](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
 
-### Hungary:
+### Magyar:
 - 1956: Az első hivatalos AI konferencia, ahol az AI fogalma megszületett. (Dartmouth workshop)
 - 1996: A Deep Blue legyőzte a sakkvilágbajnokot, Garry Kasparovot. Az IBM Deep Blue sakkgépe megnyer egy játszmát Garry Kaszparov sakkvilágbajnok ellen, de 2-4-re elveszíti a meccset. Egy évvel később Kaszparov elveszíti a visszavágót.
 - 2007: A dámát a kanadai Alberta Egyetem kutatói oldják meg. 500 milliárd pozíció átvizsgálása után egy dámajátékos számítógépes programot építenek, amelyet nem lehet legyőzni.
@@ -63,7 +63,7 @@ A mesterséges intelligencia (AI) olyan technológia, amely gépeknek és szám�
 - Decision trees: Based on the data, decisions are made in a tree structure.
 - Recommender systems: Systems that make recommendations (e.g. Netflix, Amazon).
 
-### Hungary:
+### Magyar:
 - Szakértői rendszerek: Szabályalapú rendszerek, amelyek speciális döntési problémákat oldanak meg (pl. orvosi diagnózis).
 - Gépi tanulás: Az AI algoritmusok automatikusan tanulnak az adatokból, mint például az előrejelzések készítése.
 - Döntési fák: Az adatok alapján fa szerkezetben hoznak döntéseket.
@@ -77,7 +77,7 @@ Outline a business problem:
 
 An online retail company wants to increase its sales in the next quarter. Previous years' sales data, customer behavior patterns, and results of marketing campaigns are available. The goal is to use AI to understand customer behavior and optimize marketing strategies to increase sales.
 
-### Hungary:
+### Magyar:
 
 Üzleti probléma felvázolása:
 
