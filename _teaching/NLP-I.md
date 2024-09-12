@@ -32,7 +32,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
-- II.   [Text cleaning II.](../materials/NLP-I/labor/I-text-cleaning-II)
+- II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
 
 ## Submitted
