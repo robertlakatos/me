@@ -25,7 +25,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: 2024.12.09.
+- Submission deadline: 2024.12.02.
 
 ## Labor
 
@@ -43,5 +43,5 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - IX.
 - X.
 - XI.
-- XII.  [Guest speaker - Morgan Stanley]
-- XIII. [Final project and future prospects]()
+- XII.  [Final project and future prospects]()
+- XIII. [Guest speaker - Morgan Stanley]
