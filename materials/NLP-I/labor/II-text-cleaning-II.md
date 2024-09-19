@@ -10,6 +10,8 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/10-elAxQ67cDiqjnGio_rXMhIkGKkPEGH)
 
+[Colab link solved](https://colab.research.google.com/drive/1cKfM-4epMdRTeiq9uMc2nn11hbtn9XXM?authuser=2)
+
 ## Huggingface
 
 - IMDB dataset: hf://datasets/scikit-learn/imdb/IMDB Dataset.csv
