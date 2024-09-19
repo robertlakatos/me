@@ -31,17 +31,17 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 - I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
 - II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
-- III.  [Prompt Engineering - Prompting](https://colab.research.google.com/drive/1qR3t_4aCEdcdB5tmJ1wvJKmPQP-UO33D) [Solved](https://colab.research.google.com/drive/18awvuaAGMljDwD4R5V9uaLrQWIM0hvPa)
-- III.  [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1N_uSVFmuHe7MkRV4-wgT6hSUIuR81emS) [Solved](https://colab.research.google.com/drive/1ImWEiwzZW8Zw6UCEeEJnwrQ7UACCUQRV)
-- IV.   [Prompt Engineering - Marketing-Generator](https://colab.research.google.com/drive/1rcaWJ7R1P232OosvQMmtX6ce55B32kYt) [Solved](https://colab.research.google.com/drive/1oh-KrNv5EJ0L-rEz_nOPqE_vyejXGpfu)
-- IV.   [Prompt Engineering - Random-Personas](https://colab.research.google.com/drive/1h1X20s4Kr8wQ_gRMUYuPbZcVX9bR5Lyf) [Solved](https://colab.research.google.com/drive/1ImWEiwzZW8Zw6UCEeEJnwrQ7UACCUQRV)
-- V.    [Prompt Engineering - Chatbot](https://colab.research.google.com/drive/1FB5BqTd_adnsy6VNyawnTieWlp1TCFoG) [Solved](https://colab.research.google.com/drive/1HuHfWw1DxPQQ-3TUr98Ynjm0g7PssCPY)
-- V.    [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd) [Solved](https://colab.research.google.com/drive/1yhnOw4FhHZ8Jm8mogGwJYKAiWOKh5Dom)
-- VI.
-- VII.
-- VIII.
-- IX.
-- X.
-- XI.
+- III.  [Data types](../materials/AIPD/labor/III-datatypes)
+- IV.   [Visualizations]()
+- V.    [Models - Linear regression]()
+- VI.   [Models - Neural networks]() 
+- VII.  [Models - Decision tree]() 
+- VIII. [Models - Clustering]() 
+- IX.   [Prompt Engineering - Prompting](https://colab.research.google.com/drive/1qR3t_4aCEdcdB5tmJ1wvJKmPQP-UO33D) [Solved](https://colab.research.google.com/drive/18awvuaAGMljDwD4R5V9uaLrQWIM0hvPa)
+- IX.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1N_uSVFmuHe7MkRV4-wgT6hSUIuR81emS) [Solved](https://colab.research.google.com/drive/1ImWEiwzZW8Zw6UCEeEJnwrQ7UACCUQRV)
+- X.    [Prompt Engineering - Marketing-Generator](https://colab.research.google.com/drive/1rcaWJ7R1P232OosvQMmtX6ce55B32kYt) [Solved](https://colab.research.google.com/drive/1oh-KrNv5EJ0L-rEz_nOPqE_vyejXGpfu)
+- X.    [Prompt Engineering - Random-Personas](https://colab.research.google.com/drive/1h1X20s4Kr8wQ_gRMUYuPbZcVX9bR5Lyf) [Solved](https://colab.research.google.com/drive/1ImWEiwzZW8Zw6UCEeEJnwrQ7UACCUQRV)
+- XI.   [Prompt Engineering - Chatbot](https://colab.research.google.com/drive/1FB5BqTd_adnsy6VNyawnTieWlp1TCFoG) [Solved](https://colab.research.google.com/drive/1HuHfWw1DxPQQ-3TUr98Ynjm0g7PssCPY)
+- XI.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd) [Solved](https://colab.research.google.com/drive/1yhnOw4FhHZ8Jm8mogGwJYKAiWOKh5Dom)
 - XII.  [Final project and future prospects]()
 - XIII. [Guest speaker - Morgan Stanley]
