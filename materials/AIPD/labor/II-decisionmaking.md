@@ -12,6 +12,8 @@ location: "Debrecen, Hungary"
 
 [Codes](https://colab.research.google.com/drive/1D38pBUc_6U3kKOOSdEsfqXvCx-IM7Ep0?authuser=2)
 
+[solved](https://colab.research.google.com/drive/10CeHJrTS1XnmeKoWzPl7RFMDLpyEVtpY?authuser=2)
+
 ## The basics of decision making (A döntéshozatal alapjai)
 
 ### 1. Problem identification: The first step is always to define the problem or opportunity precisely. What do we want to achieve or change? (Probléma azonosítása: Az első lépés mindig a probléma vagy lehetőség pontos meghatározása. Mi az, amit el szeretnénk érni vagy megváltoztatni?)
