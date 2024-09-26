@@ -34,7 +34,8 @@ Within the framework of the subject, students will learn about the basics of nat
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
 - II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
-- III.  [Vectorization](../materials/NLP-I/labor/III-vektorization)
+- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
+- IV.   [Modeling 1 - Linear Regression](../materials/NLP-I/labor/IV-linear-regression)
 - XIII. [Guest speaker - Morgan Stanley]
 
 ## Submitted
