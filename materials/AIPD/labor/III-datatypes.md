@@ -12,6 +12,8 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/1XYExe3U5C8AEY6ZtNeqyw2aF2U_FzKK6)
 
+[Solved](https://colab.research.google.com/drive/10CeHJrTS1XnmeKoWzPl7RFMDLpyEVtpY)
+
 ##  Structured data
 
 - **Tabular data:** Data stored in databases, tables, with well-defined rows and columns, such as relational databases (SQL).
