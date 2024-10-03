@@ -4,7 +4,7 @@ collection: teaching
 type: "M.Sc course"
 permalink: /materials/NLP-I/labor/V-neural-network
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-09-26
+date: 2024-10-03
 location: "Debrecen, Hungary"
 ---
 
