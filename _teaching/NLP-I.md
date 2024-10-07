@@ -36,7 +36,8 @@ Within the framework of the subject, students will learn about the basics of nat
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
 - III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
 - IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
-- V.   [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
+- V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
+- VI.   [Embedding](../materials/NLP-I/labor/VI-embedding)
 - XIII. [Guest speaker - Morgan Stanley]
 
 ## Submitted
