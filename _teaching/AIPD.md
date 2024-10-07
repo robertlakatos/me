@@ -33,7 +33,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
 - III.  [Data types](../materials/AIPD/labor/III-datatypes)
 - IV.   [Visualizations](../materials/AIPD/labor/IV-visualizations)
-- V.    [Models 1. - Linear regression]()
+- V.    [Models 1. - Linear regression](../materials/AIPD/labor/V-linear-regression)
 - VI.   [Models 2. - Neural networks]() 
 - VII.  [Models 3. - Neural networks]() 
 - VIII. [Models 4. - Clustering]() 
