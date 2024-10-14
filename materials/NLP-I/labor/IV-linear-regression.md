@@ -10,8 +10,6 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
 
-# Linear Regression
-
 This notebook demonstrates the process of performing sentiment analysis on text data, using the IMDB dataset as an example.
 
 ## Here's a breakdown of the key concepts covered:
