@@ -27,18 +27,25 @@ Within the framework of the subject, students will learn about the basics of nat
 - Submission deadline: 2024.12.20.
 
 ## Labor
-
+ 						2024.10.28	2024.11.04	2024.11.11	2024.11.18	2024.11.25	2024.12.02	2024.12.09
+ 
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
-- I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
-- II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
-- II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
-- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
-- IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
-- V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
-- VI.   [Embedding](../materials/NLP-I/labor/VI-embedding)
-- XIII. [Guest speaker - Morgan Stanley]
+- I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I) (2024.09.09)
+- II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II) (2024.09.16)
+- II.   [Tokenization](../materials/NLP-I/labor/II-tokenization) (2024.09.16)
+- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization) (2024.09.23)
+- IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression) (2024.09.30)
+- V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network) (2024.10.07)
+- VI.   [Embedding](../materials/NLP-I/labor/VI-embedding) (2024.10.14)
+- VII.  [Topic Modelling I.]() (2024.10.28)
+- VIII. [Topic Modelling II.]() (2024.11.04)
+- IX.   [Dependency Parsing](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ#scrollTo=8VPW8dk3Sf1F) (2024.11.11)
+- X.    [Named-entity recognition / Token Classification]() (2024.11.18)
+- XI.   [Text Generator I.]() (2024.11.25)
+- XI.   [Text Generator II.]() (2024.12.02)
+- XIII. [Guest speaker - Morgan Stanley] (2024.12.09)
 
 ## Submitted
 
