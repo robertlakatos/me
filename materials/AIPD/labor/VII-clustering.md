@@ -4,7 +4,7 @@ collection: teaching
 type: "B.Sc course"
 permalink: materials/AIPD/labor/VII-clustering
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-10-14
+date: 2024-10-28
 location: "Debrecen, Hungary"
 ---
 
