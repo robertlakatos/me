@@ -29,13 +29,13 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
-- I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
-- II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
-- III.  [Data types](../materials/AIPD/labor/III-datatypes)
-- IV.   [Visualizations](../materials/AIPD/labor/IV-visualizations)
-- V.    [Models 1. - Linear regression](../materials/AIPD/labor/V-linear-regression)
-- VI.   [Models 2. - Neural networks](../materials/AIPD/labor/VI-neural-network) 
-- VII.  [Models 4. - Clustering](../materials/AIPD/labor/VII-clustering) 
+- I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction) (2024.09.16)
+- II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking) (2024.09.16)
+- III.  [Data types](../materials/AIPD/labor/III-datatypes) (2024.09.23)
+- IV.   [Visualizations](../materials/AIPD/labor/IV-visualizations) (2024.09.30)
+- V.    [Models 1. - Linear regression](../materials/AIPD/labor/V-linear-regression) (2024.10.07)
+- VI.   [Models 2. - Neural networks](../materials/AIPD/labor/VI-neural-network) (2024.10.14)
+- VII.  [Models 4. - Clustering](../materials/AIPD/labor/VII-clustering) (2024.10.28)
 - VIII. [Review creating with generative LLM]() 
 - IX.   [Prompt Engineering - Prompting](https://colab.research.google.com/drive/1qR3t_4aCEdcdB5tmJ1wvJKmPQP-UO33D) [Solved](https://colab.research.google.com/drive/18awvuaAGMljDwD4R5V9uaLrQWIM0hvPa)
 - IX.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1N_uSVFmuHe7MkRV4-wgT6hSUIuR81emS) [Solved](https://colab.research.google.com/drive/1ImWEiwzZW8Zw6UCEeEJnwrQ7UACCUQRV)
