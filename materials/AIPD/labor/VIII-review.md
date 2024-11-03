@@ -43,7 +43,7 @@ A high-quality scientific review must answer many important questions in order t
 
 ## Magyar
 
-- Egy jó minőségű tudományos review-nak számos fontos kérdésre kell választ adnia, hogy átfogó képet nyújtson az adott kutatási területről.
+Egy jó minőségű tudományos review-nak számos fontos kérdésre kell választ adnia, hogy átfogó képet nyújtson az adott kutatási területről.
 
 ### A legfontosabb kérdések általában a következők:
 
