@@ -40,7 +40,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network) (2024.10.07)
 - VI.   [Embedding](../materials/NLP-I/labor/VI-embedding) (2024.10.14)
 - VII.  [Topic Modelling I.](../materials/NLP-I/labor/VII-topic-modelling) (2024.10.28)
-- VIII. [Topic Modelling II.]() (2024.11.04)
+- VIII. [Topic Modelling II.](../materials/NLP-I/labor/VIII-topic-modelling) (2024.11.04)
 - IX.   [Dependency Parsing](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ#scrollTo=8VPW8dk3Sf1F) (2024.11.11)
 - X.    [Named-entity recognition / Token Classification]() (2024.11.18)
 - XI.   [Text Generator I.]() (2024.11.25)
