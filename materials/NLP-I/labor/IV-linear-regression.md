@@ -1,7 +1,7 @@
 ---
 title: "Linear regression"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/NLP-I/labor/IV-linear-regression
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-26

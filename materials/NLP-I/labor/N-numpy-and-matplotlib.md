@@ -1,7 +1,7 @@
 ---
 title: "Numpy and Matplotlib"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/NLP-I/labor/N-numpy-and-matplotlib
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-27

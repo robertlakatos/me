@@ -1,9 +1,9 @@
 ---
-title: "Bayes-model, Sentiment analisis"
+title: "Text Generation"
 collection: teaching
-type: "M.Sc course"
-permalink: /materials/NLP-I/labor/VIII-bayes-sa
+type: "B.Sc course"
+permalink: /materials/NLP-I/labor/XI-text-generation
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-09-05
+date: 2024-11-11
 location: "Debrecen, Hungary"
 ---

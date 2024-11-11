@@ -1,7 +1,7 @@
 ---
 title: "Text Cleaning"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/NLP-I/labor/II-text-cleaning-II
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-12

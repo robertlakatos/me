@@ -41,10 +41,10 @@ Within the framework of the subject, students will learn about the basics of nat
 - VI.   [Embedding](../materials/NLP-I/labor/VI-embedding) (2024.10.14)
 - VII.  [Topic Modelling I.](../materials/NLP-I/labor/VII-topic-modelling) (2024.10.28)
 - VIII. [Topic Modelling II.](../materials/NLP-I/labor/VIII-topic-modelling) (2024.11.04)
-- IX.   [Dependency Parsing](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ#scrollTo=8VPW8dk3Sf1F) (2024.11.11)
-- X.    [Named-entity recognition / Token Classification]() (2024.11.18)
-- XI.   [Text Generator I.]() (2024.11.25)
-- XI.   [Text Generator II.]() (2024.12.02)
+- IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems) (2024.11.11)
+- X.    [Dependency Parsing, Named-entity recognition / Token Classification](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ#scrollTo=8VPW8dk3Sf1F) (2024.11.18)
+- XI.   [Text Generator I.](../materials/NLP-I/labor/XI-text-generation) (2024.11.25)
+- XI.   [Text Generator II.](../materials/NLP-I/labor/XI-text-generation) (2024.12.02)
 - XIII. [Guest speaker - Morgan Stanley] (2024.12.09)
 
 ## Submitted

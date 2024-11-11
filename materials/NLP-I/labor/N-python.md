@@ -1,7 +1,7 @@
 ---
 title: "Python Basics (refresher)"
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/NLP-I/labor/N-python
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-02-27

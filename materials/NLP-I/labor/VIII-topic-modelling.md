@@ -1,7 +1,7 @@
 ---
 title: "Topic Modelling II."
 collection: teaching
-type: "M.Sc course"
+type: "B.Sc course"
 permalink: /materials/NLP-I/labor/VIII-topic-modelling
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-11-03
