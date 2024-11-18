@@ -39,9 +39,9 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - VIII. [Review creating with generative LLM](../materials/AIPD/labor/VIII-review) (2024.11.04)
 - IX.   [Prompt Engineering - Prompting](https://colab.research.google.com/drive/1qR3t_4aCEdcdB5tmJ1wvJKmPQP-UO33D) (2024.11.11)
 - IX.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1N_uSVFmuHe7MkRV4-wgT6hSUIuR81emS) (2024.11.11)
-- X.    [Prompt Engineering - Marketing-Generator](https://colab.research.google.com/drive/1rcaWJ7R1P232OosvQMmtX6ce55B32kYt)
-- X.    [Prompt Engineering - Random-Personas](https://colab.research.google.com/drive/1h1X20s4Kr8wQ_gRMUYuPbZcVX9bR5Lyf)
+- X.    [Prompt Engineering - Marketing-Generator](https://colab.research.google.com/drive/1rcaWJ7R1P232OosvQMmtX6ce55B32kYt) (2024.11.18)
+- X.    [Prompt Engineering - Random-Personas](https://colab.research.google.com/drive/1h1X20s4Kr8wQ_gRMUYuPbZcVX9bR5Lyf) (2024.11.18)
 - XI.   [Prompt Engineering - Chatbot](https://colab.research.google.com/drive/1FB5BqTd_adnsy6VNyawnTieWlp1TCFoG)
-- XI.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd)
+- XI.   [Prompt Engineering - Car Dealership AI Assistant](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd)
 - XII.  [Final project and future prospects]()
 - XIII. [Guest speaker - Morgan Stanley]

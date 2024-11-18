@@ -24,10 +24,15 @@ Within the framework of the subject, students will learn about the basics of nat
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 - Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: 2024.12.20.
+- **Submission deadline: 2024.12.20.**
+- [**Submission form**](https://forms.office.com/e/RfaJZ9reLp)
+     - Mandatory fields: Neptun code, Video link, Source link.
+     - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
+     - The Source link contains the source code.
+     - The Video link contains the video code.
+     - If two are the same, the same must be entered in both places.
 
 ## Labor
- 						2024.10.28	2024.11.04	2024.11.11	2024.11.18	2024.11.25	2024.12.02	2024.12.09
  
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
@@ -42,7 +47,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - VII.  [Topic Modelling I.](../materials/NLP-I/labor/VII-topic-modelling) (2024.10.28)
 - VIII. [Topic Modelling II.](../materials/NLP-I/labor/VIII-topic-modelling) (2024.11.04)
 - IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems) (2024.11.11)
-- X.    [Dependency Parsing, Named-entity recognition / Token Classification](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ#scrollTo=8VPW8dk3Sf1F) (2024.11.18)
+- X.    [Dependency Parsing, Named-entity recognition / Token Classification](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ) (2024.11.18)
 - XI.   [Text Generator I.](../materials/NLP-I/labor/XI-text-generation) (2024.11.25)
 - XI.   [Text Generator II.](../materials/NLP-I/labor/XI-text-generation) (2024.12.02)
 - XIII. [Guest speaker - Morgan Stanley] (2024.12.09)
