@@ -10,6 +10,7 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/1Xv0Xdq5XCFkMwnjkr_RIcnEEhjl5GwW4)
 
+[Colab link solved](https://colab.research.google.com/drive/1RD8MFJyKGklN3kdLuTkcG7nJn-k3ATfM)
 
 # English
 

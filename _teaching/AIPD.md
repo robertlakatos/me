@@ -14,6 +14,8 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ======
 
+## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
+
 ## Requirements
 
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
@@ -24,8 +26,14 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - Organizing into teams (2-4 people) or working individually.
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
-- Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: 2024.12.02.
+- **Submission deadline: 2024.12.02.**
+- [**Submission form**](https://forms.office.com/e/3nUXuFVRwe)
+     - Mandatory fields: Neptun code, Video link, Source link.
+     - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
+     - The Source link contains the source code.
+     - The Video link contains the video code.
+     - If two are the same, the same must be entered in both places.
+     - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
 ## Labor
 

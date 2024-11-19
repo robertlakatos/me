@@ -9,3 +9,5 @@ location: "Debrecen, Hungary"
 ---
 
 [Colab link](https://colab.research.google.com/drive/1B_sV9FwV4hw_gy2nL_HbvlyuQRXYADc3)
+
+[Colab link solved](https://colab.research.google.com/drive/14gVtLW4RaYrDqds-Du7_MmRF9YNjzpIU)

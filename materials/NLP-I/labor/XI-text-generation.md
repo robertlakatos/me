@@ -7,3 +7,5 @@ venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-11-11
 location: "Debrecen, Hungary"
 ---
+
+[Colab link]()

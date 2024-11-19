@@ -12,6 +12,8 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ======
 
+## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
+
 ## Requirements
 
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
@@ -23,7 +25,6 @@ Within the framework of the subject, students will learn about the basics of nat
 - Organizing into teams (2-4 people) or working individually.
 - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
-- Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
 - **Submission deadline: 2024.12.20.**
 - [**Submission form**](https://forms.office.com/e/RfaJZ9reLp)
      - Mandatory fields: Neptun code, Video link, Source link.
@@ -31,6 +32,7 @@ Within the framework of the subject, students will learn about the basics of nat
      - The Source link contains the source code.
      - The Video link contains the video code.
      - If two are the same, the same must be entered in both places.
+     - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
 ## Labor
  
@@ -47,7 +49,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - VII.  [Topic Modelling I.](../materials/NLP-I/labor/VII-topic-modelling) (2024.10.28)
 - VIII. [Topic Modelling II.](../materials/NLP-I/labor/VIII-topic-modelling) (2024.11.04)
 - IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems) (2024.11.11)
-- X.    [Dependency Parsing, Named-entity recognition / Token Classification](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ) (2024.11.18)
+- X.    [Dependency Parsing, Named-entity recognition / Token Classification](../materials/NLP-I/labor/IX-text-based-recommendation-systems) (2024.11.18)
 - XI.   [Text Generator I.](../materials/NLP-I/labor/XI-text-generation) (2024.11.25)
 - XI.   [Text Generator II.](../materials/NLP-I/labor/XI-text-generation) (2024.12.02)
 - XIII. [Guest speaker - Morgan Stanley] (2024.12.09)
