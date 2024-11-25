@@ -10,7 +10,7 @@ location: "Debrecen, Hungary"
 
 [Code link]()
 
-## [What is the Transformers?](https://arxiv.org/pdf/1706.03762.pdf)]
+## [What is the Transformers?](https://arxiv.org/pdf/1706.03762.pdf)
 
 <img src="https://www.comingsoon.net/wp-content/uploads/sites/3/2023/06/Watch-the-Transformers-Movies-Before-Rise-of-the-Beasts.jpg?resize=1024,576" alt="Transformers">
 

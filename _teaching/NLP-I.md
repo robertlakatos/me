@@ -51,7 +51,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems) (2024.11.11)
 - X.    [Dependency Parsing, Named-entity recognition / Token Classification](../materials/NLP-I/labor/X-dependency-parsing-token-classification) (2024.11.18)
 - XI.   [Text Generator I.](../materials/NLP-I/labor/XI-text-generation) (2024.11.25)
-- XII.  [Text Generator II.](../materials/NLP-I/labor/XII-llm) (2024.12.02)
+- XII.  [Large Language Models](../materials/NLP-I/labor/XII-llm) (2024.12.02)
 - XIII. [Guest speaker - Morgan Stanley] (2024.12.09)
 
 ## Submitted
