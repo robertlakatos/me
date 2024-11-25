@@ -1,5 +1,5 @@
 ---
-title: "IX Text-Based Recommendation Systems"
+title: "Text-Based Recommendation Systems"
 collection: teaching
 type: "B.Sc course"
 permalink: /materials/NLP-I/labor/IX-text-based-recommendation-systems
