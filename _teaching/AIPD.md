@@ -52,4 +52,4 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - XI.   [Prompt Engineering - Chatbot](https://colab.research.google.com/drive/1FB5BqTd_adnsy6VNyawnTieWlp1TCFoG)
 - XI.   [Prompt Engineering - Car Dealership AI Assistant](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd)
 - XII.  [Final project and future prospects]()
-- XIII. [Guest speaker - Morgan Stanley]
+- XIII. [Guest speaker - Morgan Stanley](https://morganstanley.zoom.us/j/97580591406?pwd=hDtR07nMtNlFg7CfVHLOkfu1srK3gv.1&from=addon#success) (2024.12.09) [Webex](https://morganstanley.zoom.us/j/97580591406?pwd=hDtR07nMtNlFg7CfVHLOkfu1srK3gv.1&from=addon#success), [Plan B (Teams)](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NGJlMjZiNjgtNTYzMS00MGRkLTk3N2YtY2M0YzVmODkyNTdk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522e29b8111-49f8-418d-ac2a-935335a52614%2522%252c%2522Oid%2522%253a%252263ae82d1-d94e-4af5-b233-62050455cbb5%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=350c095d-300c-48c0-8768-cd68cacdbb83&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
