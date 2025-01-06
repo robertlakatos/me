@@ -57,6 +57,7 @@ Within the framework of the subject, students will learn about the basics of nat
 ## Submitted
 
 - [2023 Autumn](../materials/NLP-I/submitted/2023-2)
+- [2024 Autumn](../materials/NLP-I/submitted/2024-2)
 
 ## Usefull Links
 
