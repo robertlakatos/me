@@ -33,7 +33,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - II.   [Large language models I. fancy-rnn](https://robertlakatos.github.io/me/materials/NLP-A/lectures/fancy-rnn.pdf)
 - II.   [Large language models I. CNN-TreeRNN](https://robertlakatos.github.io/me/materials/NLP-A/lectures/CNN-TreeRNN.pdf)
 - III.  [Large language models II. Basic](https://robertlakatos.github.io/me/materials/NLP-A/lectures/rnnlm.pdf)
-- IV.   [Large language models II. Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/L06_anlp.pdf)
+- IV.   [Large language models II. Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/transformers.pdf)
 - V.    [Training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/training.pdf)
 - V.    [Pretrain](https://robertlakatos.github.io/me/materials/NLP-A/lectures/pretraining-updated.pdf)
 - VI.   [Post-training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/instruction-tuning-rlhf.pdf)
