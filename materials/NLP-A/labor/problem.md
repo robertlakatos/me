@@ -19,11 +19,13 @@ location: "Debrecen, Hungary"
 4. AI based Reinforcment, [Gemini](https://www.google.com/search?client=firefox-b-d&q=gemini)
 5. Precision search, [Google Search](https://www.google.com/)
 6. Data collection
-    1. [Huggingface](https://huggingface.co/)
-    2. [Kaggle](https://www.kaggle.com/)
-    3. [Pubmed](https://www.ncbi.nlm.nih.gov/home/develop/api/)
-    4. [Google Dataset Search](https://datasetsearch.research.google.com/)
-    5. [DataHub.io](https://datahub.io/)
-    6. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+    - [Huggingface](https://huggingface.co/)
+    - [Kaggle](https://www.kaggle.com/)
+    - [Pubmed](https://www.ncbi.nlm.nih.gov/home/develop/api/)
+    - [Google Dataset Search](https://datasetsearch.research.google.com/)
+    - [DataHub.io](https://datahub.io/)
+    - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 7. Model selection
-8. Evaulation
+8. [Developing](https://colab.google/))
+    - Coding
+    - Evaulation
