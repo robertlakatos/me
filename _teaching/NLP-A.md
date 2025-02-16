@@ -57,7 +57,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
-- I.    [Problem Discovery and Identification](../materials/NLP-A/labor/pipeline)
+- I.    [Problem Identification and Discovery](../materials/NLP-A/labor/problem)
 - II.   [Pipeline](../materials/NLP-A/labor/pipeline)
 
 ## Submitted

@@ -4,16 +4,16 @@ collection: teaching
 type: "M.Sc course"
 permalink: /materials/NLP-A/labor/pipeline
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-02-27
+date: 2025-02-16
 location: "Debrecen, Hungary"
 ---
 
-### What is NLP?
+## What is NLP?
 
 - NLP (Natural Language Processing) is a field of linguistics and machine learning that focuses on understanding human language.
 - NLP tasks aim to understand individual words individually and their context.
 
-### Most common NLP tasks
+## Most common NLP tasks
 
 - Classifying sentences:
     - Sentiment (mood) analysis,
@@ -31,9 +31,9 @@ location: "Debrecen, Hungary"
     - Generate images
     - Chat
 
-### Az NLP azonban nem korlátozódik írott szövegre. Megbirkózik a beszédfelismerés és a számítógépes látás összetett kihívásaival is, például hangminta átiratának vagy képleírásának létrehozásával!
+## Az NLP azonban nem korlátozódik írott szövegre. Megbirkózik a beszédfelismerés és a számítógépes látás összetett kihívásaival is, például hangminta átiratának vagy képleírásának létrehozásával!
 
-## Legfontosabb ML csomagok
+## Most important NLP and AI packages!
 
 - [PyTorch](https://pytorch.org/)
 - [Tensorflow](https://www.tensorflow.org/)
