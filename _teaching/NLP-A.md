@@ -14,16 +14,17 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## Requirements
 
-- Fewer absences than allowed. Active participation in classes.
-- Organizing into teams (3-4 people).
-- Creating a working application and presenting it in the form of a video using the solutions and models learned in class.
+- Attendance sheet: Fewer absences than allowed. Active participation in classes.
+- Create a working application, solve a real problem, and present it as a video using the solutions and models learned in class.
      - It must be uploaded to Github and shared.
      - Maximum length of video is 5-10 minutes.
      - In the video, each creator must present their own contribution. (for 3-8 minutes)
-     - At the end of the video, the application must be shown in action. (for 1-2 minutes)
-- The team members do not receive a uniform ticket, but get the ticket in proportion to the task they have completed in the project.
-- Method of submission: [By email](mailto:lakatos.robert@inf.unideb.hu)
-- Submission deadline: ****
+     - The application must be shown in action at the end of the video. (for 1-2 minutes)
+- Organizing into teams (2-4 people) or working individually.
+- If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
+- It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
+- **Submission deadline:**
+- [**Submission form**]()
 
 ## Lecture
 
@@ -53,24 +54,16 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## Labor
 
-- I.    [Python Basics](../materials/NLP-A/labor/python)
-- I.    [Numpy and Matplotlib](../materials/NLP-A/labor/numpy-and-matplotlib)
-- I.    [Pandas Intro](../materials/NLP-A/labor/pandas)
+- N.    [Python Basics](../materials/NLP-I/labor/N-python)
+- N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
+- N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
+- I.    [Problem Discovery and Identification](../materials/NLP-A/labor/pipeline)
 - II.   [Pipeline](../materials/NLP-A/labor/pipeline)
-- III.  [Train](../materials/NLP-A/labor/train)
-- IV.   [Tokenization](../materials/NLP-A/labor/tokenization)
-- V.    [Embedding](../materials/NLP-A/labor/embedding)
-- VI.   [Pos Embedding](../materials/NLP-A/labor/pos-embedding)
-- VII.  [Text classification with transformer](../materials/NLP-A/labor/text-classification-with-transformer)
-- VIII. [Generative Pre-trained Transformer (GPT)](../materials/NLP-A/labor/gpt)
-- IX.   [Recommender System](../materials/NLP-A/labor/recommender-system)
-- X.    [Topic Modelling](../materials/NLP-A/labor/topic-modelling)
-- XI.   [Multimodal](../materials/NLP-A/labor/multimodal)
-- XII.  [Generativ AI - Chat modell](../materials/NLP-A/labor/gaichat)
 
 ## Submitted
 
-- [2023 Autumn](../materials/NLP-A/submitted/2023-2)
+- [2024 Autumn](../materials/NLP-I/submitted/2024-2)
+- [2023 Autumn](../materials/NLP-I/submitted/2023-2)
 
 ## Usefull Links
 
