@@ -24,9 +24,10 @@ A vizsgán maximum 10-pont szerezhető:
 - 6 pont = 2
 - 7 pont = 3
 - 8 pont = 4
-- 9-10 pont  = 5
+- 9-10 pont = 5
 
 ### Kérdés típusok:
+
     1. Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása. (2 pont)
     2. Keresok egy hiányos keresőt kell kiegészíteni: Trial error, hegymászó, mélységi, szélleségi, backtrack stb... (2 pont)
     3. Neuralis halozatok: Egy egyszerű adathalmazra kell felépíteni a NN modellt Keras-ban. (2 pont)
