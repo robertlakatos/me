@@ -26,6 +26,6 @@ location: "Debrecen, Hungary"
     - [DataHub.io](https://datahub.io/)
     - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 7. Model selection
-8. [Developing](https://colab.google/))
+8. [Developing](https://colab.google/)
     - Coding
     - Evaulation
