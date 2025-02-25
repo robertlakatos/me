@@ -23,7 +23,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - Organizing into teams (2-4 people) or working individually.
 - If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
-- **Submission deadline:**
+- **Submission deadline: 2025.05.31**
 - [**Submission form**]()
 
 ## Lecture
