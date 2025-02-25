@@ -59,6 +59,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
 - I.    [Problem Identification and Discovery](../materials/NLP-A/labor/problem)
 - II.   [Pipeline](../materials/NLP-A/labor/pipeline)
+- III.  [Vector Store](../materials/NLP-A/labor/vector-store)
 
 ## Submitted
 
@@ -68,6 +69,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 ## Usefull Links
 
 - [Huggingface](https://huggingface.co/)
+- [LlamaIndex](https://docs.llamaindex.ai/en/stable/)
 - [Keras](https://keras.io/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Pytorch](https://pytorch.org/)

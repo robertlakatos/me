@@ -8,6 +8,8 @@ date: 2025-02-16
 location: "Debrecen, Hungary"
 ---
 
+## [Colab](https://drive.google.com/file/d/17PNZn6S4BxkTQBi81ytuFKSA193TifPy)
+
 ## What is NLP?
 
 - NLP (Natural Language Processing) is a field of linguistics and machine learning that focuses on understanding human language.
@@ -31,7 +33,7 @@ location: "Debrecen, Hungary"
     - Generate images
     - Chat
 
-## Az NLP azonban nem korlátozódik írott szövegre. Megbirkózik a beszédfelismerés és a számítógépes látás összetett kihívásaival is, például hangminta átiratának vagy képleírásának létrehozásával!
+## But NLP is not limited to written text. It also tackles the complex challenges of speech recognition and computer vision, for example by creating transcriptions of voice samples or image transcriptions!
 
 ## Most important NLP and AI packages!
 
@@ -39,5 +41,3 @@ location: "Debrecen, Hungary"
 - [Tensorflow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - ### [Huggingface](https://huggingface.co/)
-
-## [Colab](https://colab.research.google.com/drive/17PNZn6S4BxkTQBi81ytuFKSA193TifPy#scrollTo=t94J2jg6CsXq)

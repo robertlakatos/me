@@ -73,12 +73,6 @@ problem.initial, problem.goal
 <img src="https://robertlakatos.github.io/me/materials/AI/images/graf.png" alt="Graf">
 
 ```python
-
-problem = Problem((5,0,0), [(4,1,0),(4,0,1)])
-problem.initial, problem.goal
-```
-
-```python
 class Node:
     """Csomópont a kereső fában. 
        Tartalmaz egy mutatót a szülőre (a csomópontra, amelynek ez az utódja) és a 
@@ -146,13 +140,6 @@ class Node:
 ```
 
 ```python
-# __repr__
-state2 = Node(state=2, parent=state1)
-# print(state2)
-state2
-```
-
-```python
 # __eq__
 print(state1 is object)
 ```
@@ -161,4 +148,11 @@ print(state1 is object)
 # __hash__
 state1 = Node(1)
 hash(state1)
+```
+
+```python
+# __repr__
+state2 = Node(state=2, parent=state1)
+# print(state2)
+state2
 ```
