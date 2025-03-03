@@ -60,6 +60,8 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - I.    [Problem Identification and Discovery](../materials/NLP-A/labor/problem)
 - II.   [Pipeline](../materials/NLP-A/labor/pipeline)
 - III.  [Vector Store](../materials/NLP-A/labor/vector-store)
+- IV.   [Filter and Cluster](../materials/NLP-A/labor/filter-cluster)
+- V.    [Agent](../materials/NLP-A/labor/agent)
 
 ## Submitted
 
