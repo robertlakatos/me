@@ -10,7 +10,7 @@ location: "Debrecen, Hungary"
 
 [Prompts](https://g.co/gemini/share/f4bc94ae8e8d)
 
-[Codes](https://colab.research.google.com/drive/1D38pBUc_6U3kKOOSdEsfqXvCx-IM7Ep0?authuser=2)
+[Codes](https://colab.research.google.com/drive/1D38pBUc_6U3kKOOSdEsfqXvCx-IM7Ep0)
 
 ## The basics of decision making (A döntéshozatal alapjai)
 

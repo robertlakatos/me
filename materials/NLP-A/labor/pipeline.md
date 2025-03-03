@@ -8,7 +8,7 @@ date: 2025-02-16
 location: "Debrecen, Hungary"
 ---
 
-## [Colab](https://drive.google.com/file/d/17PNZn6S4BxkTQBi81ytuFKSA193TifPy)
+## [Colab](https://colab.research.google.com/drive/17PNZn6S4BxkTQBi81ytuFKSA193TifPy)
 
 ## What is NLP?
 

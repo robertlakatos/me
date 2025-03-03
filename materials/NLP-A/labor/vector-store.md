@@ -8,7 +8,7 @@ date: 2025-02-25
 location: "Debrecen, Hungary"
 ---
 
-## [Colab](https://drive.google.com/file/d/1Zf2OESutr4QaZK5prOY4tF3sIDgjDVIO)
+## [Colab](https://colab.research.google.com/drive/1Zf2OESutr4QaZK5prOY4tF3sIDgjDVIO)
 
 ## What is Semantic Search?
 
