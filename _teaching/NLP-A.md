@@ -62,6 +62,15 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - III.  [Vector Store](../materials/NLP-A/labor/vector-store)
 - IV.   [Filter and Cluster](../materials/NLP-A/labor/filter-cluster)
 - V.    [Agent](../materials/NLP-A/labor/agent)
+- VI.   [Tokenization](../materials/NLP-A/labor/tokenization)
+- VII.  [Embedding](../materials/NLP-A/labor/embedding)
+- VIII. [Recurent Neural Network](../materials/NLP-A/labor/recurent-neural-network)
+- IX.   [Transformer I.]()
+- X.    [Transformer II.]()
+- XI.   [BERT]()
+- XII.  [GPT]()
+- XIII. [Multimodal]()
+
 
 ## Submitted
 
