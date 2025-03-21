@@ -36,8 +36,8 @@ A vizsgán maximum 10-pont szerezhető:
 
 ## Labor
 
-- I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](../materials/AI/lesson_1)
-- II.   [Hagyományos rejtvények - 3 korsó probléma](../materials/AI/lesson_2)
+- I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](../materials/AI/labor/lesson_1)
+- II.   [Hagyományos rejtvények - 3 korsó probléma](../materials/AI/labor/lesson_2)
 - III.  [Hagyományos rejtvények - Hanói tornyai](../materials/AI/lesson_3)
 - IV.   [Hagyományos rejtvények - Nem informált algoritmusok](../materials/AI/lesson_4)
 - V.    [Hagyományos rejtvények - 8 királynő, informált algoritmusok - A*](../materials/AI/lesson_5)
