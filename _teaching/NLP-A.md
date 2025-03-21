@@ -67,9 +67,9 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - VIII. [Recurent Neural Network](../materials/NLP-A/labor/recurent-neural-network)
 - IX.   [Transformer](../materials/NLP-A/labor/transformer)
 - X.    [Transformer](../materials/NLP-A/labor/transformer)
-- XI.   [BERT]()
-- XII.  [GPT]()
-- XIII. [Multimodal]()
+- XI.   [BERT](../materials/NLP-A/labor/BERT)
+- XII.  [Recommmender System](../materials/NLP-A/labor/recommmender-system)
+- XIII. [Total LABOR]
 
 
 ## Submitted
