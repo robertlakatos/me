@@ -1,5 +1,5 @@
 ---
-title: "Gyakorlat 2."
+title: "Gyakorlat 1."
 collection: teaching
 type: "B.Sc course"
 permalink: /materials/AI/labor/lesson_1

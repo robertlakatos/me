@@ -1,8 +1,8 @@
 ---
-title: "9. Gyakorlat"
+title: "Gyakorlat 9."
 collection: teaching
 type: "B.Sc course"
-permalink: /materials/AI/lesson_9
+permalink: /materials/AI/labor/lesson_9
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-04-08
 location: "Debrecen, Hungary"
