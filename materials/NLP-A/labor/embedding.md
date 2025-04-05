@@ -2,7 +2,7 @@
 title: "Embedding"
 collection: teaching
 type: "M.Sc course"
-permalink: /materials/NLP-A/labor/recurent-neural-network
+permalink: /materials/NLP-A/labor/embedding
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2025-03-17
 location: "Debrecen, Hungary"

@@ -8,4 +8,4 @@ date: 2025-03-21
 location: "Debrecen, Hungary"
 ---
 
-## [Colab]()
+## [Colab](https://colab.research.google.com/drive/1SUTDHipyaQW917fpScWZTbznnxDKtDYN)
