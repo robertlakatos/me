@@ -39,7 +39,64 @@ location: "Debrecen, Hungary"
 <img src="https://robertlakatos.github.io/me/materials/AI/images/tictactoe_problem_3.png" alt="TicTacToe Problem 3">
 
 ```python
-from libs.game import Game
+class Game:
+    """A játék osztály ami nagyon hasonló a probléma osztályhoz. A konstruktort a kezdő állapot beállításához az 
+    ezt az osztály megvalósító gyermek osztályban lesz implementálva"""
+
+    def actions(self, state):
+        """Vissza adja a megengedett mozgások listáját."""
+        raise NotImplementedError
+
+    def result(self, state, move):
+        """Vissza adja azt az állapotot, amely egy állapotból való elmozdulás eredménye. """
+        raise NotImplementedError
+
+    def utility(self, state, player):
+        """A végső állapotnak az eredményét adja vissza a játékosnak."""
+        raise NotImplementedError
+
+    def terminal_test(self, state):
+        """True értéket add vissza, ha ez a játék végső állapota."""
+        return not self.actions(state)
+
+    def to_move(self, state):
+        """Adja vissza azt a játékost, akinek a lépése ebben az állapotban van."""
+        return state.to_move
+
+    def display(self, state):
+        """Jelenítse meg az adott állapotot."""
+        print(state)
+
+    def __repr__(self):
+        return '<{}>'.format(self.__class__.__name__)
+
+    def play_game(self, *players):
+        """N-személyes játék játszás."""
+
+        # kezdő állapot beállítása
+        state = self.initial
+
+        # Addig tart a játék amíg végső állapotba nem lépünk
+        while True:
+            # Veszünk egy játékost
+            for player in players:
+                # Adjon egy lépést a választott játékos
+                move = player(self, state)
+                # Kérjük vissza annak eredményét, hogy hogyan módosul a játék ha játékos lépést elvégezzük
+                state = self.result(state, move)                
+                if self.terminal_test(state):
+                    # Ha a játékos lépésével előáll egy végső állapot akkor azt kiratjuk és
+                    # vissza adjuk kinyert
+                    self.display(state)
+                    return self.utility(state, self.to_move(self.initial))
+```
+
+```python
+GameState = namedtuple('GameState', 'to_move, utility, board, moves')
+```
+
+```python
+
 from collections import namedtuple
 
 class TicTacToe(Game):

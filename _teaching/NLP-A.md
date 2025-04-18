@@ -95,6 +95,9 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 5. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 6. [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+7. [Visual Guide to Transformer Neural Networks - (Episode 1)](⁠https://www.youtube.com/watch?v=dichIcUZfOw)
+8. [Visual Guide to Transformer Neural Networks - (Episode 2)](⁠https://www.youtube.com/watch?v=mMa2PmYJlCo)
+9. [Visual Guide to Transformer Neural Networks - (Episode 3)](⁠https://www.youtube.com/watch?v=gJ9kaJsE78k)
 
 ## Key Words
 
