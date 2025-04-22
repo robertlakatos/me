@@ -1,4 +1,3 @@
-Rendben, elkészítettem a PDF diáinak részletes leírását, kifejezetten egy tanár számára, aki ebből az anyagból tartana előadást. Minden diánál kiemelem a főbb pontokat, a szükséges tudnivalókat, a megértendő koncepciókat és javaslatokat teszek arra, mit érdemes elmondani a diákoknak.
 
 **Dia 1: Címlap** ([source: 1])
 
@@ -53,7 +52,7 @@ Rendben, elkészítettem a PDF diáinak részletes leírását, kifejezetten egy
 
 * **Téma:** A "few-shot" (kevés példás) tanulás képességének megjelenése GPT-3-ban.
 * **Tudnivalók:** A few-shot tanulás (más néven in-context learning) azt jelenti, hogy a feladatot úgy specifikáljuk, hogy a promptba néhány példát is beillesztünk a megoldandó példa elé ([source: 17]). Fontos, hogy eközben sem történik gradiens frissítés (a modell súlyai nem változnak) ([source: 17]). Példák: szavak betűinek helyrerakása, fordítás.
-* **Megértendő:** A modell képes a promptban látott néhány példa alapján "ráérezni" a feladatra és alkalmazni a mintát az új bemenetre. Ez hatékonyabb lehet, mint a zero-shot, de még mindig nem igényel modellfrissítést.
+* **Megértendő:* A modell képes a promptban látott néhány példa alapján "ráérezni" a feladatra és alkalmazni a mintát az új bemenetre. Ez hatékonyabb lehet, mint a zero-shot, de még mindig nem igényel modellfrissítést.
 * **Elmondandó:** "A GPT-3 megmutatta, hogy nem csak nulla, de néhány példa alapján is képes tanulni ('few-shot learning' vagy 'in-context learning'). Egyszerűen a prompt elejére biggyesztünk 1-2-5 példát a feladatról és a megoldásról, majd megadjuk az új problémát. A modell a kontextusból, a példákból próbálja megérteni a feladatot, anélkül, hogy a belső súlyait módosítaná. Nézzünk pár példát, mint a szókirakó vagy a fordítás."
 
 **Dia 9: Few-Shot Teljesítmény (Zero-Shot)** ([source: 18])
@@ -109,7 +108,7 @@ Rendben, elkészítettem a PDF diáinak részletes leírását, kifejezetten egy
 
 * **Téma:** A CoT prompting hatékonysága is a modell méretével nő.
 * **Tudnivalók:** Az ábra (középiskolás szöveges matematikai feladatokon) mutatja, hogy a CoT prompting (a zöld vonal) hatékonysága drámaian megnő a modell méretének növekedésével, míg a standard prompting (kék vonal) kevésbé skálázódik ezen a feladattípuson ([source: 27], [source: 28]).
-* **Megértendő:** Hasonlóan a few-shot tanuláshoz, a CoT prompting igazi ereje is csak a kellően nagy modelleknél mutatkozik meg.
+* **Megértendő:** Has*onlóan a few-shot tanuláshoz, a CoT prompting igazi ereje is csak a kellően nagy modelleknél mutatkozik meg.
 * **Elmondandó:** "És ahogy a few-shot tanulásnál láttuk, a Chain-of-Thought prompting hatékonysága is egy 'emergent' tulajdonság. Kisebb modelleknél nem sokat segít, de ahogy növeljük a modell méretét, a CoT drámaian javítja a teljesítményt, különösen a gondolkodást igénylő feladatokon, mint a szöveges matek példák."
 
 **Dia 17: Zero-Shot CoT - Kérdés** ([source: 29])
