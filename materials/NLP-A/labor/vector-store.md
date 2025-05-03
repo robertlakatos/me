@@ -65,5 +65,3 @@ By leveraging LlamaIndex, developers can build scalable and efficient semantic s
 
 - [LlamaIndex](https://docs.llamaindex.ai/en/stable/)
 - [Huggingface](https://huggingface.co/)
-
-## [Colab](https://colab.research.google.com/drive/17PNZn6S4BxkTQBi81ytuFKSA193TifPy#scrollTo=t94J2jg6CsXq)
