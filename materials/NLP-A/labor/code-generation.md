@@ -8,7 +8,7 @@ date: 2025-05-06
 location: "Debrecen, Hungary"
 ---
 
-## [Colab](https://drive.google.com/file/d/1n-wZxG5wbCBeI2iB2Af6zS4bZd8kXNbr)
+## [Colab](https://colab.research.google.com/drive/1n-wZxG5wbCBeI2iB2Af6zS4bZd8kXNbr)
 
 ## Bevezetés | Introduction:
 

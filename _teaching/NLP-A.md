@@ -51,7 +51,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - XII.  [Agents](https://robertlakatos.github.io/me/materials/NLP-A/lectures/agents.pdf)
 - XII.  [Linguistics Philosophy](https://robertlakatos.github.io/me/materials/NLP-A/lectures/linguistics-philosophy.pdf)
 - XIII. [Open problems and discussion](https://robertlakatos.github.io/me/materials/NLP-A/lectures/open-problems.pdf)
-- IVX.  [State of the art](https://robertlakatos.github.io/me/materials/NLP-A/lectures/state-of-the-arte.pdf)
+- IVX.  [State of the art](https://robertlakatos.github.io/me/materials/NLP-A/lectures/state-of-the-art.pdf)
 
 ## Labor
 
