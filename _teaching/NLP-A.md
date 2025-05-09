@@ -24,7 +24,9 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
 - **Submission deadline: 2025.05.31**
-- [**Submission form**]()
+- [**Submission form**](https://forms.office.com/e/kLRhQ8ZZj6?origin=lprLink)
+
+
 
 ## Lecture
 
