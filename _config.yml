@@ -21,7 +21,7 @@ repository               : "https://robertlakatos.github.io/me/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Róbert Lakatos"
   pronouns         : # example: "she/her"  
   bio              : "Computer and Data Scientist"

@@ -38,3 +38,18 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 ## Labor
 
 - I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
+- II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
+- III.  [Data types](../materials/AIPD/labor/III-datatypes)
+- IV.   [Visualizations](../materials/AIPD/labor/IV-visualizations)
+- V.    [Models 1. - Linear regression](../materials/AIPD/labor/V-linear-regression)
+- VI.   [Models 2. - Neural networks](../materials/AIPD/labor/VI-neural-network)
+- VII.  [Models 4. - Clustering](../materials/AIPD/labor/VII-clustering)
+- VIII. [Review creating with generative LLM](../materials/AIPD/labor/VIII-review)
+- IX.   [Prompt Engineering - Prompting](https://colab.research.google.com/drive/1qR3t_4aCEdcdB5tmJ1wvJKmPQP-UO33D)
+- IX.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1N_uSVFmuHe7MkRV4-wgT6hSUIuR81emS)
+- X.    [Prompt Engineering - Marketing-Generator](https://colab.research.google.com/drive/1rcaWJ7R1P232OosvQMmtX6ce55B32kYt)
+- X.    [Prompt Engineering - Random-Personas](https://colab.research.google.com/drive/1h1X20s4Kr8wQ_gRMUYuPbZcVX9bR5Lyf)
+- XI.   [Prompt Engineering - Chatbot](https://colab.research.google.com/drive/1FB5BqTd_adnsy6VNyawnTieWlp1TCFoG)
+- XI.   [Prompt Engineering - Car Dealership AI Assistant](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd)
+- XII.  [Final project and future prospects]()
+- XIII. [UNK]()

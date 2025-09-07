@@ -40,6 +40,19 @@ Within the framework of the subject, students will learn about the basics of nat
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
+- II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
+- II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
+- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
+- IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
+- V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
+- VI.   [Embedding](../materials/NLP-I/labor/VI-embedding)
+- VII.  [Topic Modelling I.](../materials/NLP-I/labor/VII-topic-modelling)
+- VIII. [Topic Modelling II.](../materials/NLP-I/labor/VIII-topic-modelling)
+- IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems)
+- X.    [Dependency Parsing, Named-entity recognition / Token Classification](../materials/NLP-I/labor/X-dependency-parsing-token-classification)
+- XI.   [Text Generator I.](../materials/NLP-I/labor/XI-text-generation)
+- XII.  [Large Language Models](../materials/NLP-I/labor/XII-llm)
+- XIII. [UNK]()
 
 ## Submitted
 
