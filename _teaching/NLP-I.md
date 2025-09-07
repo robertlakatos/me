@@ -25,8 +25,8 @@ Within the framework of the subject, students will learn about the basics of nat
 - Organizing into teams (2-4 people) or working individually.
 - If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
-- **Submission deadline: 2024.12.20.**
-- [**Submission form**](https://forms.office.com/e/RfaJZ9reLp)
+- **Submission deadline: 2025.12.14. 24:00 (Sunday)**
+- [**Submission form**]()
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the source code.

@@ -19,21 +19,15 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 ## Requirements
 
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
-- Creating a working application and presenting it in the form of a video using the solutions and models learned in class.
+- Creating a project that you have to use AI solutions and you have to make/propose a decision based on your project results.  
+     - You have to present it live and personally last lesson (2025. 12. 11. 16:00:00 - 2025. 12. 11. 18:00:00).
+     - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
      - It must be uploaded to Github and shared.
-     - Maximum length of video is 5-10 minutes.
-     - In the video, each creator must present their own contribution.
+     - You must submit your project using the submission form by the deadline (2025.12.10 24:00)
 - Organizing into teams (2-4 people) or working individually.
-- If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
-- **Submission deadline: 2024.12.02.**
-- [**Submission form**](https://forms.office.com/e/3nUXuFVRwe)
-     - Mandatory fields: Neptun code, Video link, Source link.
-     - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
-     - The Source link contains the source code.
-     - The Video link contains the video code.
-     - If two are the same, the same must be entered in both places.
-     - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
+
+- [**Submission form**]()
 
 ## Labor
 
