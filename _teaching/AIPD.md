@@ -28,6 +28,15 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 
 - [**Submission form**]()
+     - Mandatory fields: Neptun code, Video link, Source link.
+     - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
+     - The Source link contains the source code.
+     - The Video link contains the video code.
+     - If two are the same, the same must be entered in both places.
+     - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
+
+## [Attendance sheet](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=bsvzSAd4qkmnuBXZjtyus6yEdawyYP1GpsV4-l-IrUdUNFdISVRKRkhGVFAyTU5YMFpWWk00Q0tYQi4u&analysis=false)
+
 
 ## Labor
 
