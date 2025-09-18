@@ -34,6 +34,8 @@ Within the framework of the subject, students will learn about the basics of nat
      - If two are the same, the same must be entered in both places.
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
+## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
+
 ## Labor
  
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
@@ -42,8 +44,6 @@ Within the framework of the subject, students will learn about the basics of nat
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
 - II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
-
-## [Attendance sheet](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=bsvzSAd4qkmnuBXZjtyus6yEdawyYP1GpsV4-l-IrUdUNFdISVRKRkhGVFAyTU5YMFpWWk00Q0tYQi4u&analysis=false)
 
 ## Submitted
 

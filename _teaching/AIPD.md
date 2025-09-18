@@ -35,7 +35,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
      - If two are the same, the same must be entered in both places.
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
-## [Attendance sheet](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?prevorigin=Marketing&origin=NeoPortalPage&subpage=design&id=bsvzSAd4qkmnuBXZjtyus6yEdawyYP1GpsV4-l-IrUdUNFdISVRKRkhGVFAyTU5YMFpWWk00Q0tYQi4u&analysis=false)
+## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
 
 ## Labor
