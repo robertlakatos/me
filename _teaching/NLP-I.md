@@ -16,6 +16,8 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Requirements
 
+### Rules
+
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
 - Create a working application, solve a real problem, and present it as a video using the solutions and models learned in class.
      - It must be uploaded to Github and shared.
@@ -25,6 +27,19 @@ Within the framework of the subject, students will learn about the basics of nat
 - Organizing into teams (2-4 people) or working individually.
 - If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
+
+### Evaluation
+
+Task | Grade 3 | Grade 4 | Grade 5 
+--- | --- | --- | --- 
+Data | You need data your project. |  Exploratory data analysis (Visualization) | 
+Preprocess | The code should include preprocessing steps. (Text cleaning, Feature Engineering, Tokenization, Vectorization, Training, validation, and test data preparation) | UnitTest, Visualization | 
+Model | Train a machine learning model on the data. | | Use more models, at least 3
+Evaluate | Evaluate your model on your test data. | Complex Benchmarking |
+Application | Package your model into an application. Present the your pipeline and use the technical term / keywords correctly. | | Create a conclusion. Explain how your model works. Present the limitations and opportunities for further development.
+
+### Submission
+
 - **Submission deadline: 2025.12.14. 24:00 (Sunday)**
 - [**Submission form**]()
      - Mandatory fields: Neptun code, Video link, Source link.
@@ -33,6 +48,7 @@ Within the framework of the subject, students will learn about the basics of nat
      - The Video link contains the video code.
      - If two are the same, the same must be entered in both places.
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
+
 
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
