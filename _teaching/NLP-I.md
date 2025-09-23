@@ -49,9 +49,6 @@ Application | Package your model into an application. Present the your pipeline 
      - If two are the same, the same must be entered in both places.
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
-
-## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
-
 ## Labor
  
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
@@ -83,3 +80,60 @@ Application | Package your model into an application. Present the your pipeline 
 4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 5. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
 6. [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
+
+Class | Neptun code | Count of participations
+--- | --- | --- 
+NLP CS:14:00-16:00(IK-105) | A1TPKE | 1
+NLP CS:18:00-20:00(IK-206) | AABZM4 | 1
+NLP CS:18:00-20:00(IK-206) | AV2KLX | 1
+NLP CS:14:00-16:00(IK-105) | B906KU | 1
+NLP CS:18:00-20:00(IK-206) | BALT4Q | 1
+NLP CS:14:00-16:00(IK-105) | BMLPAG | 1
+NLP CS:18:00-20:00(IK-206) | C3MG6E | 1
+NLP CS:18:00-20:00(IK-206) | CB52IT | 1
+NLP K:08:00-10:00(IK-204) | CCGXBD | 1
+NLP CS:14:00-16:00(IK-105) | CTDXKK | 1
+NLP CS:18:00-20:00(IK-206) | CXNOLK | 1
+NLP CS:18:00-20:00(IK-206) | CYF65U | 1
+NLP CS:14:00-16:00(IK-105) | D3WR6L | 1
+NLP CS:14:00-16:00(IK-105) | DFNZ1N | 1
+NLP CS:14:00-16:00(IK-105) | DVPJ8L | 1
+NLP K:08:00-10:00(IK-204) | E17UAW | 1
+NLP K:08:00-10:00(IK-204) | E2DSBD | 1
+NLP CS:18:00-20:00(IK-206) | EMB4PF | 1
+NLP CS:18:00-20:00(IK-206) | F002KD | 1
+NLP CS:14:00-16:00(IK-105) | GAV6G1 | 1
+NLP CS:18:00-20:00(IK-206) | GOOXNF | 1
+NLP CS:14:00-16:00(IK-105) | GWZENN | 1
+NLP CS:14:00-16:00(IK-105) | H6SWL7 | 1
+NLP CS:18:00-20:00(IK-206) | HSME6L | 1
+NLP CS:14:00-16:00(IK-105) | JLJZDD | 1
+NLP K:08:00-10:00(IK-204) | KCRMSH | 1
+NLP K:08:00-10:00(IK-204) | KGX83C | 1
+NLP K:08:00-10:00(IK-204) | LURJKX | 1
+NLP K:08:00-10:00(IK-204) | MIL8I8 | 1
+NLP CS:14:00-16:00(IK-105) | MSUH6O | 1
+NLP CS:18:00-20:00(IK-206) | N12O1L | 1
+NLP K:08:00-10:00(IK-204) | NCWS2Q | 1
+NLP K:08:00-10:00(IK-204) | NJLRNH | 1
+NLP CS:18:00-20:00(IK-206) | O0V6O4 | 1
+NLP CS:14:00-16:00(IK-105) | OV1GNP | 1
+NLP CS:14:00-16:00(IK-105) | OVQCD1 | 1
+NLP CS:18:00-20:00(IK-206) | PBK5AX | 1
+NLP CS:18:00-20:00(IK-206) | Q66PXT | 1
+NLP CS:14:00-16:00(IK-105) | QH5UTC | 1
+NLP CS:18:00-20:00(IK-206) | R5WU7R | 1
+NLP K:08:00-10:00(IK-204) | RP88LS | 1
+NLP K:08:00-10:00(IK-204) | S4BMSQ | 1
+NLP CS:14:00-16:00(IK-105) | SM84WO | 1
+NLP K:08:00-10:00(IK-204) | SQAEL4 | 1
+NLP K:08:00-10:00(IK-204) | UOQ1WK | 1
+NLP CS:14:00-16:00(IK-105) | W1CNPE | 1
+NLP K:08:00-10:00(IK-204) | WFHBK7 | 1
+NLP K:08:00-10:00(IK-204) | WSZJEV | 1
+NLP K:08:00-10:00(IK-204) | WYSP81 | 1
+NLP K:08:00-10:00(IK-204) | X98U7O | 1
+NLP CS:18:00-20:00(IK-206) | XKLZTB | 1
+NLP CS:14:00-16:00(IK-105) | XNQ1NU | 1
