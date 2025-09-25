@@ -37,6 +37,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/EYKe7oC0eTVOkJXg2xjAZWoBruOXhB0LL0zr1ienJk_mOA?e=OpLS8h&nav=MTVfezk4QzUyOTExLTE4QzItNEQxNS1CM0FGLTdBNTE5RTBEOTVDMH0)
 
 ## Labor
 
