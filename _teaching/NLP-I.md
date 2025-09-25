@@ -57,6 +57,7 @@ Application | Package your model into an application. Present the your pipeline 
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
 - II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
+- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
 
 ## Submitted
 

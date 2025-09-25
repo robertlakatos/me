@@ -40,4 +40,8 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
-- I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
+- I. [Introduction to AI and large language models (LLMs).](../materials/AIPD/labor/II-theoretical-background)
+- II. [Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.](../materials/AIPD/labor/I-introduction)
+
+
+
