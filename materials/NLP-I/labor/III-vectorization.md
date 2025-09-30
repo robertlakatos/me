@@ -1,5 +1,5 @@
 ---
-title: "Tokenization"
+title: "Vectorization"
 collection: teaching
 type: "B.Sc course"
 permalink: /materials/NLP-I/labor/III-vectorization
