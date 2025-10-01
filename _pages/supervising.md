@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Supervising
+title: "Supervising"
 permalink: /supervising/
 author_profile: true
 ---
