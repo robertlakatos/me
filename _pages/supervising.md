@@ -5,57 +5,55 @@ permalink: /supervising/
 author_profile: true
 ---
 
-## Szakdolgozat / Diplomamunka Témavezetéssel Kapcsolatos információk
+## Thesis with Topic Supervision Related Information
 
-A témavezetés célja az Ön kutatási munkájának szakmai irányítása és a dolgozat sikeres elkészítésének elősegítése. Amennyiben szeretne az én témavezetésemmel elkészíteni szakdolgozatát vagy diplomamunkáját a hatékony együttműködés érdekében kérjük, az alábbi szabályokat és határidőket tartsa be.
+The objective of supervision is to provide professional guidance for your research work and facilitate the successful completion of your thesis or dissertation. If you wish to complete your thesis or dissertation under my supervision, please adhere to the following rules and deadlines to ensure effective collaboration.
 
-I. Jelentkezés és Előkészületek
+I. Application and Preparation
 
-A témaválasztás és a jelentkezés időben történő elindítása kulcsfontosságú.
+Timely topic selection and application are crucial for a smooth process.
+    - Application Deadline: It is recommended that you contact the supervisor at least one (1) semester prior to the actual start of writing your Thesis/Dissertation.
+    - Application Procedure:
+        - Contact and Consultation: Please contact me in person or via email. A detailed discussion of the topic and the definition of research directions will take place during a personal consultation.
+        - Official Registration: Following our discussion, please ensure the online application is formally registered in the Faculty/Department system.
+    Work Plan Development and Approval:
+        - Work Plan Drafting: It is essential to develop a detailed plan outlining the tasks, methodology, and timeline, and then agree on it with the supervisor via email or in person.
+        - Upload and Approval: The finalized Work Plan must be uploaded to the designated online platform, where the supervisor will grant final approval.
 
-- Jelentkezési időpont: A szakdolgozat vagy diplomamunka írásának tényleges megkezdése előtt legalább egy (1) félévvel javasolt a témavezető felkeresése.
-- Jelentkezés menete:
-    - Megkeresés és egyeztetés: Kérem, keressen meg személyesen vagy e-mailben. A téma részletes egyeztetése és a kutatási irányok meghatározása egy személyes konzultáció alkalmával történik.
-    - Hivatalos rögzítés: A megbeszéltek után kérem az online jelentkezés rögzítését a kari/tanszéki rendszerben.
-- Munkaterv készítése és jóváhagyása:
-    - Munkaterv kidolgozása: Elengedhetetlen a feladatok, a módszertan és az ütemezés részletes kidolgozása, majd e-mailben vagy személyesen történő egyeztetése a témavezetővel.
-    - Feltöltés és jóváhagyás: A véglegesített munkatervet fel kell tölteni az online felületre, melyet a témavezető ott hagy jóvá.
+II. Supervision Process: Semester Requirements
 
-II. A Témavezetés menete: Féléves Feladatok
+Regular communication and reporting are fundamental requirements for successful progress.
 
-A rendszeres kapcsolattartás és beszámolás alapvető feltétele a sikeres előrehaladásnak.
+1. Thesis / Dissertation, 1st Semester
+    - Regular Consultations: Every student is encouraged and guaranteed the opportunity to regularly report on the work completed. This can occur during the announced in-person or online consultation hours, or at a pre-arranged time.
+    - Mid-Semester Report: Before the start of the study period (semester instruction), the student is obliged to present the work completed during the given semester. This can be done in an executive summary document of maximum one (1) page, or—if necessary—in a 5-minute video. The report must include a presentation of the completed source codes and the reviewed literature materials.
 
-- Szakdolgozat / Diplomamunka, 1. Félév
-    - Rendszeres konzultáció: Minden hallgatónak biztosított és javasolt a rendszeres beszámolás az elvégzett munkáról. Ez történhet a meghirdetett személyes vagy online konzultációs időpontokban, vagy egy előre egyeztetett időpontban.
-    - Félévközi beszámoló: A szorgalmi időszak megkezdése előtt a hallgató köteles bemutatni az adott félévben elvégzett munkáját. Ez történhet egy legfeljebb egy (1) oldalas összefoglaló dokumentumban, vagy – amennyiben szükséges – egy 5 perces videóban. A beszámoló során prezentálni kell az elkészült forráskódokat és az átvizsgált szakirodalmi anyagokat.
-- Szakdolgozat / Diplomamunka, 2. Félév (Befejező Félév)
-    - Rendszeres konzultáció: Ebben a kritikus félévben is ajánlott a rendszeres konzultáció, hogy a munka a leadási határidőre a legmagasabb szakmai színvonalat érje el.
-    - Előzetes leadás és formai ellenőrzés:
-        - A hivatalos leadási határidő (nem a meghosszabbított!) előtt 2-3 héttel a hallgatónak el kell küldenie a teljes, kész dolgozatot a témavezető részére.
-        - Ez az előzetes leadás kizárólag a formai követelmények (pl. hivatkozások, szerkesztés, függelékek) ellenőrzését és az ezzel kapcsolatos javítási javaslatok megtételét szolgálja.
-        - Fontos: A dolgozat tartalmi eredményeinek módosítására (pl. kutatási eredmények, módszertan) ekkor már nincs lehetőség; azokat a megelőző konzultációk alkalmával kell véglegesíteni.
+2. Thesis / Dissertation, 2nd Semester (Final Semester)
+    Regular Consultations: Regular consultation is recommended during this critical semester to ensure the work reaches the highest professional standard by the submission deadline.
 
-III. TDK (Tudományos Diákköri Konferencia) Részvételi Javaslat
+    Pre-Submission and Formal Review:
+        - The student must submit the complete, finalized paper to the supervisor 2-3 weeks prior to the official departmental submission deadline (not the extended deadline!).
+        - This pre-submission is solely for checking formal requirements (e.g., citations, formatting, appendices) and providing suggestions for formal corrections.
+        - **Important:** At this stage, there is no possibility for substantive modification of the paper's content results (e.g., research findings, methodology); these must be finalized during previous consultations.
 
-A legkiválóbb szakdolgozatokat és diplomamunkákat javaslom TDK-n történő bemutatásra. A TDK-n való részvételre az a dolgozat javasolt, amely egyértelmű tudományos kontribúcióval rendelkezik.
+III. TDK (Student Scientific Conference) Participation Proposal
 
-Ez a következő kritériumokat jelenti:
-    - A kidolgozott módszertan egyedi és innovatív.
-    - Az elért eredmények újszerűek, és valamilyen összehasonlításban felülmúlják a szakterület eddigi eredményeit.
-    - A megoldás hiteles baseline-hoz (alapállapothoz) került összehasonlításra, amelyet a tudományos terület elfogad.
+I strongly recommend the highest-quality theses and dissertations for presentation at the TDK. A paper is suggested for TDK participation if it demonstrates a clear scientific contribution.
 
+This encompasses the following criteria:
+    - The developed **methodology** is unique and innovative.
+    - The achieved results are **novel** and, in a relevant comparison, surpass the existing state-of-the-art results in the field.
+    - The solution has been benchmarked against a **credible baseline** (a standard reference point) accepted by the scientific community.
 
-## Referenciák:
+## References
 
-- [Szakdolgozat témaválasztás / Thesis topic application](https://inf.unideb.hu/szakdolgozat-temavalasztas)
-- [Diplomamunka / Szakdolgozat formai követelmények / Thesis Guidelines](https://inf.unideb.hu/formai-kovetelmenyek)
-- [TDK pályamunka követelményei / TDK coursework formal requirements](https://www.ik.unideb.hu/smartcampus/tdk/formai-kovetelmenyek.html)
+- [Thesis topic application](https://inf.unideb.hu/szakdolgozat-temavalasztas)
+- [Thesis Guidelines](https://inf.unideb.hu/formai-kovetelmenyek)
+- [TDK coursework formal requirements](https://www.ik.unideb.hu/smartcampus/tdk/formai-kovetelmenyek.html)
 
-## Finished Theses / Elkészült diplomamunkák és szakdolgozatok
+## Finished Theses
 
 To view these, you need access to the Electronic Archive (DEA) system of the University of Debrecen.
-
-A szakdolgozatok megtekintéséhez hozzáférés szükséges a Debreceni Egyetem Elektronikus Archívum (DEA) rendszeréhez! (To view theses, you need access to the Electronic Archive (DEA) system of the University of Debrecen.)
 
 ## [Dokumentáció feldolgozása GPT alapú modellel](https://dea.lib.unideb.hu/items/478f3338-b3cf-4ab4-b957-7c6c2ed9a46c)
 
