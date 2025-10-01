@@ -5,6 +5,56 @@ permalink: /supervising/
 author_profile: true
 ---
 
+## Szakdolgozat / Diplomamunka Témavezetéssel Kapcsolatos információk
+
+A témavezetés célja az Ön kutatási munkájának szakmai irányítása és a dolgozat sikeres elkészítésének elősegítése. Amennyiben szeretne az én témavezetésemmel elkészíteni szakdolgozatát vagy diplomamunkáját a hatékony együttműködés érdekében kérjük, az alábbi szabályokat és határidőket tartsa be.
+
+I. Jelentkezés és Előkészületek
+
+A témaválasztás és a jelentkezés időben történő elindítása kulcsfontosságú.
+
+- Jelentkezési időpont: A szakdolgozat vagy diplomamunka írásának tényleges megkezdése előtt legalább egy (1) félévvel javasolt a témavezető felkeresése.
+- Jelentkezés menete:
+    - Megkeresés és egyeztetés: Kérem, keressen meg személyesen vagy e-mailben. A téma részletes egyeztetése és a kutatási irányok meghatározása egy személyes konzultáció alkalmával történik.
+    - Hivatalos rögzítés: A megbeszéltek után kérem az online jelentkezés rögzítését a kari/tanszéki rendszerben.
+- Munkaterv készítése és jóváhagyása:
+    - Munkaterv kidolgozása: Elengedhetetlen a feladatok, a módszertan és az ütemezés részletes kidolgozása, majd e-mailben vagy személyesen történő egyeztetése a témavezetővel.
+    - Feltöltés és jóváhagyás: A véglegesített munkatervet fel kell tölteni az online felületre, melyet a témavezető ott hagy jóvá.
+
+II. A Témavezetés menete: Féléves Feladatok
+
+A rendszeres kapcsolattartás és beszámolás alapvető feltétele a sikeres előrehaladásnak.
+
+- Szakdolgozat / Diplomamunka, 1. Félév
+    - Rendszeres konzultáció: Minden hallgatónak biztosított és javasolt a rendszeres beszámolás az elvégzett munkáról. Ez történhet a meghirdetett személyes vagy online konzultációs időpontokban, vagy egy előre egyeztetett időpontban.
+    - Félévközi beszámoló: A szorgalmi időszak megkezdése előtt a hallgató köteles bemutatni az adott félévben elvégzett munkáját. Ez történhet egy legfeljebb egy (1) oldalas összefoglaló dokumentumban, vagy – amennyiben szükséges – egy 5 perces videóban. A beszámoló során prezentálni kell az elkészült forráskódokat és az átvizsgált szakirodalmi anyagokat.
+- Szakdolgozat / Diplomamunka, 2. Félév (Befejező Félév)
+    - Rendszeres konzultáció: Ebben a kritikus félévben is ajánlott a rendszeres konzultáció, hogy a munka a leadási határidőre a legmagasabb szakmai színvonalat érje el.
+    - Előzetes leadás és formai ellenőrzés:
+        - A hivatalos leadási határidő (nem a meghosszabbított!) előtt 2-3 héttel a hallgatónak el kell küldenie a teljes, kész dolgozatot a témavezető részére.
+        - Ez az előzetes leadás kizárólag a formai követelmények (pl. hivatkozások, szerkesztés, függelékek) ellenőrzését és az ezzel kapcsolatos javítási javaslatok megtételét szolgálja.
+        - Fontos: A dolgozat tartalmi eredményeinek módosítására (pl. kutatási eredmények, módszertan) ekkor már nincs lehetőség; azokat a megelőző konzultációk alkalmával kell véglegesíteni.
+
+III. TDK (Tudományos Diákköri Konferencia) Részvételi Javaslat
+
+A legkiválóbb szakdolgozatokat és diplomamunkákat javaslom TDK-n történő bemutatásra. A TDK-n való részvételre az a dolgozat javasolt, amely egyértelmű tudományos kontribúcióval rendelkezik.
+
+Ez a következő kritériumokat jelenti:
+    - A kidolgozott módszertan egyedi és innovatív.
+    - Az elért eredmények újszerűek, és valamilyen összehasonlításban felülmúlják a szakterület eddigi eredményeit.
+    - A megoldás hiteles baseline-hoz (alapállapothoz) került összehasonlításra, amelyet a tudományos terület elfogad.
+
+
+## Referenciák:
+
+- [Szakdolgozat témaválasztás / Thesis topic application](https://inf.unideb.hu/szakdolgozat-temavalasztas)
+- [Diplomamunka / Szakdolgozat formai követelmények / Thesis Guidelines](https://inf.unideb.hu/formai-kovetelmenyek)
+- [TDK pályamunka követelményei / TDK coursework formal requirements](https://www.ik.unideb.hu/smartcampus/tdk/formai-kovetelmenyek.html)
+
+## Finished Theses / Elkészült diplomamunkák és szakdolgozatok
+
+To view these, you need access to the Electronic Archive (DEA) system of the University of Debrecen.
+
 A szakdolgozatok megtekintéséhez hozzáférés szükséges a Debreceni Egyetem Elektronikus Archívum (DEA) rendszeréhez! (To view theses, you need access to the Electronic Archive (DEA) system of the University of Debrecen.)
 
 ## [Dokumentáció feldolgozása GPT alapú modellel](https://dea.lib.unideb.hu/items/478f3338-b3cf-4ab4-b957-7c6c2ed9a46c)
