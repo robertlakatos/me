@@ -29,9 +29,8 @@ Regular communication and reporting are fundamental requirements for successful 
     - Mid-Semester Report: Before the start of the study period (semester instruction), the student is obliged to present the work completed during the given semester. This can be done in an executive summary document of maximum one (1) page, or—if necessary—in a 5-minute video. The report must include a presentation of the completed source codes and the reviewed literature materials.
 
 2. Thesis / Dissertation, 2nd Semester (Final Semester)
-    Regular Consultations: Regular consultation is recommended during this critical semester to ensure the work reaches the highest professional standard by the submission deadline.
-
-    Pre-Submission and Formal Review:
+    - Regular Consultations: Regular consultation is recommended during this critical semester to ensure the work reaches the highest professional standard by the submission deadline.
+    - Pre-Submission and Formal Review:
         - The student must submit the complete, finalized paper to the supervisor 2-3 weeks prior to the official departmental submission deadline (not the extended deadline!).
         - This pre-submission is solely for checking formal requirements (e.g., citations, formatting, appendices) and providing suggestions for formal corrections.
         - **Important:** At this stage, there is no possibility for substantive modification of the paper's content results (e.g., research findings, methodology); these must be finalized during previous consultations.
