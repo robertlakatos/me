@@ -10,13 +10,13 @@ author_profile: true
 The objective of supervision is to provide professional guidance for your research work and facilitate the successful completion of your thesis or dissertation. If you wish to complete your thesis or dissertation under my supervision, please adhere to the following rules and deadlines to ensure effective collaboration.
 
 I. Application and Preparation (Timely topic selection and application are crucial for a smooth process.)
-    - **Application Deadline:** It is recommended that you contact the supervisor at least one (1) semester prior to the actual start of writing your Thesis/Dissertation.
-    - **Application Procedure:**
-        - Contact and Consultation: Please contact me in person or via email. A detailed discussion of the topic and the definition of research directions will take place during a personal consultation.
-        - Official Registration: Following our discussion, please ensure the online application is formally registered in the Faculty/Department system.
-    - **Work Plan Development and Approval:**
-        - Work Plan Drafting: It is essential to develop a detailed plan outlining the tasks, methodology, and timeline, and then agree on it with the supervisor via email or in person.
-        - Upload and Approval: The finalized Work Plan must be uploaded to the designated online platform, where the supervisor will grant final approval.
+- **Application Deadline:** It is recommended that you contact the supervisor at least one (1) semester prior to the actual start of writing your Thesis/Dissertation.
+- **Application Procedure:**
+    - **Contact and Consultation:** Please contact me in person or via email. A detailed discussion of the topic and the definition of research directions will take place during a personal consultation.
+    - **Official Registration:** Following our discussion, please ensure the online application is formally registered in the Faculty/Department system.
+- **Work Plan Development and Approval:**
+    - **Work Plan Drafting:** It is essential to develop a detailed plan outlining the tasks, methodology, and timeline, and then agree on it with the supervisor via email or in person.
+    - **Upload and Approval:** The finalized Work Plan must be uploaded to the designated online platform, where the supervisor will grant final approval.
 
 II. Supervision Process: Semester Requirements
 
