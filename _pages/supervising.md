@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Supervised Theses"
+title: "Supervising
 permalink: /supervising/
 author_profile: true
 ---
