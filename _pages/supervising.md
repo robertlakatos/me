@@ -9,9 +9,7 @@ author_profile: true
 
 The objective of supervision is to provide professional guidance for your research work and facilitate the successful completion of your thesis or dissertation. If you wish to complete your thesis or dissertation under my supervision, please adhere to the following rules and deadlines to ensure effective collaboration.
 
-I. Application and Preparation
-
-Timely topic selection and application are crucial for a smooth process.
+I. Application and Preparation (Timely topic selection and application are crucial for a smooth process.)
     - **Application Deadline:** It is recommended that you contact the supervisor at least one (1) semester prior to the actual start of writing your Thesis/Dissertation.
     - **Application Procedure:**
         - Contact and Consultation: Please contact me in person or via email. A detailed discussion of the topic and the definition of research directions will take place during a personal consultation.
