@@ -37,6 +37,20 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
+1. Hour: Introduction to AI and large language models (LLMs).
+2. Hour: Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.
+3. Hour: Master the fundamentals of prompt engineering and how to write effective instructions.
+4. Hour: Practical exercises on refining prompts to achieve specific, desired outcomes.
+5. Hour: Advanced prompt techniques: understanding the concept of Chain-of-Thought.
+6. Hour: Practical application of Chain-of-Thought and in-context learning.
+7. Hour: Introduction to the role of coding in strategy, with a focus on Python basics.
+8. Hour: Using to perform simple data analysis tasks with Python.
+9. Hour: Introduction to Agentic AI and RAG (Retrieval-Augmented Generation).
+10. Hour: Utilizing AI to work with scientific repositories like arXiv and PubMed.
+11. Hour: Applying NotebookLM for organizing and analyzing research materials.
+12. Hour: Validating and critically evaluating AI-generated information.
+13. Hour: Benchmarking AI models and checking their reliability, followed by a course summary.
+
 - I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
 - II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
 - III.  [Data types](../materials/AIPD/labor/III-datatypes)
