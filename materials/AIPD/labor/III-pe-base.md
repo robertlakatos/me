@@ -12,7 +12,7 @@ location: "Debrecen, Hungary"
 
 ## English
 
-## Definition of Prompt Engineering (PE):
+## Definition of Prompt Engineering (PE)
 
 The technique of optimizing input instructions (**prompts**) to obtain the most accurate and relevant output from a generative AI system. This is the art and science of "talking" to the AI.
 
@@ -24,7 +24,7 @@ Every effective prompt should contain the following elements (or at least strive
 - **Persona/Format:** The model's behavior and the desired structure of the output. (Example: "Act as a high school teacher. The output should be a bullet point list.")
 - **Iteration:** Prompt engineering is not a one-time attempt. Continuous refinement of the prompt is necessary for better results.
 
-## Practical Exercises on the Gemini Interface:
+## Practical Exercises on the Gemini Interface
 - Testing the Impact of Context:
     - **Prompt (Without Context):** "What is the function of money?"
     - **Prompt (With Context):** "In the context of **medieval Europe**, where bartering dominates, what is the **primary** function of money?"

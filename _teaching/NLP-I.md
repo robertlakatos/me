@@ -58,6 +58,7 @@ Application | Package your model into an application. Present the your pipeline 
 - II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
 - III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
+- IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
 
 ## Submitted
 
