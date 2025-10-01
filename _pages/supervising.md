@@ -12,11 +12,11 @@ The objective of supervision is to provide professional guidance for your resear
 I. Application and Preparation
 
 Timely topic selection and application are crucial for a smooth process.
-    - Application Deadline: It is recommended that you contact the supervisor at least one (1) semester prior to the actual start of writing your Thesis/Dissertation.
-    - Application Procedure:
+    - **Application Deadline:** It is recommended that you contact the supervisor at least one (1) semester prior to the actual start of writing your Thesis/Dissertation.
+    - **Application Procedure:**
         - Contact and Consultation: Please contact me in person or via email. A detailed discussion of the topic and the definition of research directions will take place during a personal consultation.
         - Official Registration: Following our discussion, please ensure the online application is formally registered in the Faculty/Department system.
-    - Work Plan Development and Approval:
+    - **Work Plan Development and Approval:**
         - Work Plan Drafting: It is essential to develop a detailed plan outlining the tasks, methodology, and timeline, and then agree on it with the supervisor via email or in person.
         - Upload and Approval: The finalized Work Plan must be uploaded to the designated online platform, where the supervisor will grant final approval.
 
@@ -25,12 +25,12 @@ II. Supervision Process: Semester Requirements
 Regular communication and reporting are fundamental requirements for successful progress.
 
 1. Thesis / Dissertation, 1st Semester
-    - Regular Consultations: Every student is encouraged and guaranteed the opportunity to regularly report on the work completed. This can occur during the announced in-person or online consultation hours, or at a pre-arranged time.
-    - Mid-Semester Report: Before the start of the study period (semester instruction), the student is obliged to present the work completed during the given semester. This can be done in an executive summary document of maximum one (1) page, or—if necessary—in a 5-minute video. The report must include a presentation of the completed source codes and the reviewed literature materials.
+    - **Regular Consultations:** Every student is encouraged and guaranteed the opportunity to regularly report on the work completed. This can occur during the announced in-person or online consultation hours, or at a pre-arranged time.
+    - **Mid-Semester Report:** Before the start of the study period (semester instruction), the student is obliged to present the work completed during the given semester. This can be done in an executive summary document of maximum one (1) page, or—if necessary—in a 5-minute video. The report must include a presentation of the completed source codes and the reviewed literature materials.
 
 2. Thesis / Dissertation, 2nd Semester (Final Semester)
-    - Regular Consultations: Regular consultation is recommended during this critical semester to ensure the work reaches the highest professional standard by the submission deadline.
-    - Pre-Submission and Formal Review:
+    - **Regular Consultations:** Regular consultation is recommended during this critical semester to ensure the work reaches the highest professional standard by the submission deadline.
+    - **Pre-Submission and Formal Review:**
         - The student must submit the complete, finalized paper to the supervisor 2-3 weeks prior to the official departmental submission deadline (not the extended deadline!).
         - This pre-submission is solely for checking formal requirements (e.g., citations, formatting, appendices) and providing suggestions for formal corrections.
         - **Important:** At this stage, there is no possibility for substantive modification of the paper's content results (e.g., research findings, methodology); these must be finalized during previous consultations.
