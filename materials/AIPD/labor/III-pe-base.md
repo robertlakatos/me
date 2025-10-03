@@ -26,13 +26,13 @@ Every effective prompt should contain the following elements (or at least strive
 
 ## Practical Exercises on the Gemini Interface
 - Testing the Impact of Context:
-    - **Prompt (Without Context):** "What is the function of money?"
-    - **Prompt (With Context):** "In the context of **medieval Europe**, where bartering dominates, what is the **primary** function of money?"
-    - **Goal:** Compare how the answer changes when the context is provided.
+    - **Prompt (Without Context):** "What is the function of money?"
+    - **Prompt (With Context):** "In the context of **medieval Europe**, where bartering dominates, what is the **primary** function of money?"
+    - **Goal:** Compare how the answer changes when the context is provided.
 - Refining the Task: Find a simple recipe (e.g., scrambled eggs).
-    - **Prompt (General Task):** "How do you make scrambled eggs?"
-    - **Prompt (Specific Task):** "How do you make the **fluffiest, creamiest** scrambled eggs in **three minutes**, according to the secret method of **French chefs**?"
-    - **Goal:** Demonstrate how a specific task leads to much more relevant, in-depth content.
+    - **Prompt (General Task):** "How do you make scrambled eggs?"
+    - **Prompt (Specific Task):** "How do you make the **fluffiest, creamiest** scrambled eggs in **three minutes**, according to the secret method of **French chefs**?"
+    - **Goal:** Demonstrate how a specific task leads to much more relevant, in-depth content.
 
 ## The Basic "Anatomy": Structuring the Prompt
 
@@ -48,8 +48,8 @@ This section equips students with the practical linguistic tools to immediately 
 - **Technique:** Persona
 - **Task:** Choose one of the following topics: Prompt Engineering, The history of coffee, The latest scientific breakthrough.
 - **Prompts:**
-    - Ask Gemini to explain the topic in the tone of a **determined, motivational trainer**.
-    - Ask it to explain the same topic in the tone of a **sleepy, cynical librarian**.
+    - Ask Gemini to explain the topic in the tone of a **determined, motivational trainer**.
+    - Ask it to explain the same topic in the tone of a **sleepy, cynical librarian**.
 - **Goal:** To feel the power of **Persona** to dramatically change the tone and style of the output.
 2. Structured Data Request in JSON Format (Google Colab - Python API)
 - **Technique:** Constraints (Format)
@@ -60,9 +60,9 @@ This section equips students with the practical linguistic tools to immediately 
 - **Technique:** Specific Instructions, Constraints (Length, Format, Vocabulary)
 - **Task:** Request a comparison between Mars and Venus.
 - **Prompt:** In the prompt, specify the following:
-    - Use only simple words,
-    - The answer should be a bulleted list with 4 points,
-    - The total answer must be a maximum of 35 words.
+    - Use only simple words,
+    - The answer should be a bulleted list with 4 points,
+    - The total answer must be a maximum of 35 words.
 - **Goal:** To practice enforcing strict **Constraints** regarding content (vocabulary), length, and format.
 
 ## Magyar

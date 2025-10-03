@@ -27,6 +27,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - Organizing into teams (2-4 people) or working individually.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 
+- **Submission deadline: 2025.12.14. 24:00 (Sunday)**
 - [**Submission form**]()
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
@@ -45,4 +46,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - II. [Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.](../materials/AIPD/labor/I-introduction)
 - III. [Prompt Engineering - Base](../materials/AIPD/labor/III-pe-base)
 
+## Submitted
+
+- [2024 Autumn](../materials/AIPD/submitted/2024-2)
 

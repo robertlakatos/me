@@ -42,6 +42,13 @@ This encompasses the following criteria:
     - The achieved results are **novel** and, in a relevant comparison, surpass the existing state-of-the-art results in the field.
     - The solution has been benchmarked against a **credible baseline** (a standard reference point) accepted by the scientific community.
 
+## The process of "electronic" thesis/diploma submission
+
+1. The student sends the final version of the thesis to the supervisor by email (the email includes the student's name and the exact title of the thesis).
+2. If accepted, the supervisor sends a reply email (which includes the student's name and the exact title of the thesis) to the student to upload the thesis to DEA, sending a copy to to@inf.unideb.hu. (The thesis does NOT need to be forwarded to the TO email address.)
+3. The student uploads the thesis approved by the supervisor to the DEA. Upload deadline: November 5, 2025, with a processing fee of November 19 (after this date, we will not accept the thesis with a processing fee)
+4. If the DEA upload is in order, the student must also upload the thesis in the form provided by the IK, as the thesis will only be available in the DEA system after the successful final exam.
+
 ## References
 
 - [Thesis topic application](https://inf.unideb.hu/szakdolgozat-temavalasztas)
