@@ -10,8 +10,6 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/14U2JZ93kx78zzYxgviLZg3_qd9nSz5Qt)
 
-[Colab link solved](https://colab.research.google.com/drive/1MxrGPe1fiBswW7sNNdrCzLzvBEgJ7Oxi?authuser=2)
-
 This notebook demonstrates the process of performing **text classification** on text data, using the [AG News](https://huggingface.co/datasets/fancyzhx/ag_news) dataset as an example.
 
 ## Here's a breakdown of the key concepts covered:

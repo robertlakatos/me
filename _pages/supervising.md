@@ -51,9 +51,10 @@ This encompasses the following criteria:
 
 ## References
 
-- [Thesis topic application](https://inf.unideb.hu/szakdolgozat-temavalasztas)
+- [Thesis Topic Application](https://inf.unideb.hu/szakdolgozat-temavalasztas)
 - [Thesis Guidelines](https://inf.unideb.hu/formai-kovetelmenyek)
-- [TDK coursework formal requirements](https://www.ik.unideb.hu/smartcampus/tdk/formai-kovetelmenyek.html)
+- [Thesis Formal Requirements](https://inf.unideb.hu/node/486)
+- [TDK Formal Requirements](https://www.ik.unideb.hu/smartcampus/tdk/formai-kovetelmenyek.html)
 
 ## Finished Theses
 
