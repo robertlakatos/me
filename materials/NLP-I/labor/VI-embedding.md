@@ -8,7 +8,7 @@ date: 2024-09-05
 location: "Debrecen, Hungary"
 ---
 
-[Colab link](https://colab.research.google.com/drive/1D_rv0McL1M3M5k1HzU44sPVYnInnCiYY)
+[Colab link](https://colab.research.google.com/drive/1RRurVdRdYblE9ShU8kwzpmkToAW67iIG)
 
 <img src="https://miro.medium.com/v2/resize:fit:2000/1*SYiW1MUZul1NvL1kc1RxwQ.png">
 

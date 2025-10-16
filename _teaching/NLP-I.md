@@ -57,9 +57,10 @@ Application | Package your model into an application. Present the your pipeline 
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
 - II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
-- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
+- III.  [Vectorization I.](../materials/NLP-I/labor/III-vectorization)
 - IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
 - V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
+- VI.   [Vectorization II. - Embedding](../materials/NLP-I/labor/VI-embedding)
 
 ## Submitted
 
