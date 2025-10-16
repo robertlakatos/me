@@ -25,6 +25,6 @@ location: "Debrecen, Hungary"
 ## AI Tools
 
 - [Gemini](https://gemini.google.com)
-- [NotebookLM](https://robertlakatos.github.io/me/materials/NLP-A/lectures/instruction-tuning-rlhf.pdf)
+- [NotebookLM](https://notebooklm.google/)
 
 
