@@ -61,6 +61,7 @@ Application | Package your model into an application. Present the your pipeline 
 - IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
 - V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
 - VI.   [Vectorization II. - Embedding](../materials/NLP-I/labor/VI-embedding)
+- VII.  [Text Generator I.](../materials/NLP-I/labor/VII-text-generation)
 
 ## Submitted
 
