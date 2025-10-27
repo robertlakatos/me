@@ -2,7 +2,7 @@
 title: "Introduction to AI and Decision Making"
 collection: teaching
 type: "B.Sc course"
-permalink: materials/AIPD/labor/III-datatypes
+permalink: materials/AIPD/labor/VI-datatypes
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-19
 location: "Debrecen, Hungary"
@@ -11,8 +11,6 @@ location: "Debrecen, Hungary"
 # Data types
 
 [Colab link](https://colab.research.google.com/drive/1XYExe3U5C8AEY6ZtNeqyw2aF2U_FzKK6)
-
-[Solved](https://colab.research.google.com/drive/10CeHJrTS1XnmeKoWzPl7RFMDLpyEVtpY)
 
 ##  Structured data
 
