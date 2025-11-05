@@ -48,6 +48,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - IV.  [Prompt Engineering - Advanced](../materials/AIPD/labor/IV-pe-advanced)
 - V.   [Resources](../materials/AIPD/labor/V-resources)
 - VI.  [Data types](../materials/AIPD/labor/VI-datatypes)
+- VII. [Model I. - Linear Regression](../materials/AIPD/labor/VII-linear-regression)
 
 ## Submitted
 
