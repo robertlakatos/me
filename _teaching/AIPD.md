@@ -28,7 +28,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 
 - **Submission deadline: 2025.12.14. 24:00 (Sunday)**
-- [**Submission form**]()
+- [**Submission form**](https://forms.office.com/e/TjTrVVYRCw?origin=lprLink)
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the source code.
@@ -50,7 +50,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - VI.  [Data types](../materials/AIPD/labor/VI-datatypes)
 - VII. [Model I. - Linear Regression](../materials/AIPD/labor/VII-linear-regression)
 
-## Submitted
+## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
 
 - [2024 Autumn](../materials/AIPD/submitted/2024-2)
 
