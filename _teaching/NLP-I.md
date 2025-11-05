@@ -62,6 +62,8 @@ Application | Package your model into an application. Present the your pipeline 
 - V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
 - VI.   [Vectorization II. - Embedding](../materials/NLP-I/labor/VI-embedding)
 - VII.  [Text Generator I.](../materials/NLP-I/labor/VII-text-generation)
+- VIII. [Topic Modelling]()
+- IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems)
 
 ## Submitted
 

@@ -8,6 +8,8 @@ date: 2024-11-03
 location: "Debrecen, Hungary"
 ---
 
-[Colab link](https://colab.research.google.com/drive/10to0iJwp6ZlQNi0HRTRpb11r4fQ3SY3I)
+[Elméleti háttér](https://youtu.be/Sl7sJuoRx9Y)
 
-[Colab link solved](https://colab.research.google.com/drive/19m-CiedOVnl2iAY1Ys1IQDs-Ecfwbry2)
+[Theoiretical background](https://youtu.be/0JvyXizdCrE)
+
+[Colab link](https://colab.research.google.com/drive/19m-CiedOVnl2iAY1Ys1IQDs-Ecfwbry2)

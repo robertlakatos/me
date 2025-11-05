@@ -10,8 +10,6 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/1Xv0Xdq5XCFkMwnjkr_RIcnEEhjl5GwW4)
 
-[Colab link solved](https://colab.research.google.com/drive/1RD8MFJyKGklN3kdLuTkcG7nJn-k3ATfM)
-
 # English
 
 Artificial intelligence (AI)-based recommender systems are algorithms designed to make personalized suggestions to users for various content, products, or services. These systems often leverage deep learning techniques to recognize complex patterns in user behavior and different content types.
