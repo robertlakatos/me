@@ -2,7 +2,7 @@
 title: "Introduction to AI and Decision Making"
 collection: teaching
 type: "B.Sc course"
-permalink: materials/AIPD/labor/IV-visualizations
+permalink: materials/AIPD/labor/VIII-visualizations
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-09-30
 location: "Debrecen, Hungary"
