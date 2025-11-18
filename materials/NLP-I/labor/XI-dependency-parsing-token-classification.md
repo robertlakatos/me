@@ -2,7 +2,7 @@
 title: "Dependency parsing and token classification"
 collection: teaching
 type: "B.Sc course"
-permalink: /materials/NLP-I/labor/IX-dependency-parsing-token-classification
+permalink: /materials/NLP-I/labor/XI-dependency-parsing-token-classification
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2024-11-19
 location: "Debrecen, Hungary"
