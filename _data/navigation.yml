@@ -10,7 +10,10 @@ main:
     url: /teaching/
 
   - title: "Supervised Theses"
-    url: /supervising/  
+    url: /supervising/ 
+
+  - title: "Contact"
+    url: /contact/
     
   # - title: "Portfolio"
   #   url: /portfolio/
