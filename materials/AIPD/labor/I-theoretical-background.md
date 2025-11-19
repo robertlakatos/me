@@ -1,16 +1,10 @@
----
-title: "Introduction to AI and Decision Making"
 collection: teaching
 type: "B.Sc course"
-permalink: materials/AIPD/labor/II-decisionmaking
+permalink: materials/AIPD/labor/I-theoretical-background
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-09-09
+date: 2025-09-25
 location: "Debrecen, Hungary"
 ---
-
-[Prompts](https://g.co/gemini/share/f4bc94ae8e8d)
-
-[Codes](https://colab.research.google.com/drive/1D38pBUc_6U3kKOOSdEsfqXvCx-IM7Ep0)
 
 ## The basics of decision making (A döntéshozatal alapjai)
 
@@ -25,3 +19,60 @@ location: "Debrecen, Hungary"
 ### 5. Making a decision: Choosing the best alternative. It can be a rational decision based on data and logic or an intuitive decision that relies more on feelings and experience. (Döntés meghozatala: A legjobbnak ítélt alternatíva kiválasztása. Ez lehet egy racionális döntés, amely adatokon és logikán alapul, vagy egy intuitív döntés, amely inkább érzésekre és tapasztalatokra támaszkodik.)
 
 ### 6. Decision implementation: Implementation of the selected alternative. This may include defining specific steps, providing resources, and delegating tasks. (Döntés végrehajtása: A kiválasztott alternatíva megvalósítása. Ez magában foglalhatja konkrét lépések meghatározását, erőforrások biztosítását és a feladatok delegálását.)
+
+## How and why does it work?
+
+- Complex system / Agent approach
+- Generative model
+- Large language model
+- Transformer architecture
+- Neural network
+- Cosine similarity
+- Embedded vectors
+
+## What is a pattern recognition system?
+
+## Practice (using Google Gemini/Colab)
+
+### 1. Exercise Steps:
+
+A. Sample-Teach (Simulating Fine-Tuning)
+
+Phase: Introductory, "teaching" phase.
+
+Create a Handmade (Artificial) Sample:
+Ask students to give Gemini a set of input-output pairs that contain an artificial grammar sample.
+
+```Prompt 
+You can see a pattern in the following 4 examples. Notice the relationship between the input and the output:
+Input: Football, Sport
+Output: Football, Exercise
+Input: HTML, Code
+Output: HyperText Markup Language, Programming
+Input: Budapest, Capital
+Output: Hungary, Public Administration
+Input: Acceleration, Force
+Output: Physics, Motion
+```
+
+```Prompt
+You can see a pattern in the following 4 examples. Notice the relationship between the input and the output:
+Input: Football, Sport
+Output: Football, Exercise
+Input: HTML, Code
+Output: HyperText Markup Language, Programming
+Input: Budapest, Capital
+Output: Hungary, Public Administration
+Input: Acceleration, Force
+Output: Physics, Motion
+
+Now, identify this pattern and apply it to the following input: Demand, Market
+```
+
+Observation: Students should observe that the model is expected to try to copy the pattern (Input: technical term, category; Output: explanatory term, broader area).
+
+### 2. Exercise Steps
+
+```Prompt
+Knowing the above pattern, what will be the output for the following input: Baking paper, Horse
+```
