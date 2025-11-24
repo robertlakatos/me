@@ -24,4 +24,4 @@ author_profile: true
 - Thursday: A.I.D.P. 16:00-17:30 - DEIK-103 (In person)
 - Thursday: Bev. NLP 18:00-19:30 - DEIK-206 (In person)
 
-### Exam Period
+## Exam Period

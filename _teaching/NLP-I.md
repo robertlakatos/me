@@ -62,7 +62,7 @@ Application | Package your model into an application. Present the your pipeline 
 - V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
 - VI.   [Vectorization II. - Embedding](../materials/NLP-I/labor/VI-embedding)
 - VII.  [Text Generator I.](../materials/NLP-I/labor/VII-text-generation)
-- VIII. Topic Modelling
+- VIII. [Topic Modelling](../materials/NLP-I/labor/VIII-topic-modelling)
 - IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems)
 - X.    [Text Generator II.](../materials/NLP-I/labor/VII-text-generation)
 - XI.   [Dependency Parsing, Named-entity recognition / Token Classification](../materials/NLP-I/labor/XI-dependency-parsing-token-classification)

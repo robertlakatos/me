@@ -54,7 +54,6 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - X.    [Model IV. - Clustering]()
 - XI.   [Visualization]()
 
-
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
 
 - [2024 Autumn](../materials/AIPD/submitted/2024-2)

@@ -1,5 +1,5 @@
 ---
-title: "Topic Modelling II."
+title: "Topic Modelling"
 collection: teaching
 type: "B.Sc course"
 permalink: /materials/NLP-I/labor/VIII-topic-modelling
