@@ -8,7 +8,7 @@ date: 2024-11-11
 location: "Debrecen, Hungary"
 ---
 
-[Code link](https://colab.research.google.com/drive/1F4koB7VoMdAgCtIhP-r1SiGuj5cn1XKJ)
+[Code link](https://colab.research.google.com/drive/1bUCYJ1-6sZO1-_D7rKkNjXAhmDFCU0Im#scrollTo=cztvzZdfS7kh)
 
 ## [What is the Transformers?](https://arxiv.org/pdf/1706.03762.pdf)
 
