@@ -53,7 +53,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - IX.   [Model III. - Decision Trees](../materials/AIPD/labor/IX-decision-trees)
 - X.    [Model IV. - Clustering](../materials/AIPD/labor/X-clustering)
 - XI.   [Visualization]()
-- XII.  [Q&A]()
+- XII.  [Q&A - Consultation]()
 
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
 
