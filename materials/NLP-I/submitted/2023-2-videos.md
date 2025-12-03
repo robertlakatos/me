@@ -2,7 +2,7 @@
 title: "Submitted videos"
 collection: teaching
 type: "B.Sc course"
-permalink: /materials/NLP-I/submitted/2023-2
+permalink: /materials/NLP-I/submitted/2023-2-videos
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2023-09-01
 location: "Debrecen, Hungary"

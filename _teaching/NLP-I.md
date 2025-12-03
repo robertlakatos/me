@@ -70,8 +70,9 @@ Application | Package your model into an application. Present the your pipeline 
 
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
 
-- [2024 Autumn](../materials/NLP-I/submitted/2024-2)
-- [2023 Autumn](../materials/NLP-I/submitted/2023-2)
+- [2025 Autumn Evaluation](../materials/NLP-I/submitted/2025-2-eval)
+- [2024 Autumn Videos](../materials/NLP-I/submitted/2024-2-videos)
+- [2023 Autumn Videos](../materials/NLP-I/submitted/2023-2-videos)
 
 ## Usefull Links
 

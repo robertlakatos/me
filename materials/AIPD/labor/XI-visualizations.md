@@ -2,9 +2,9 @@
 title: "Introduction to AI and Decision Making"
 collection: teaching
 type: "B.Sc course"
-permalink: materials/AIPD/labor/VIII-visualizations
+permalink: materials/AIPD/labor/XI-visualizations
 venue: "University of Debrecen, Department of Data Science and Visualization"
-date: 2024-09-30
+date: 2025-12-03
 location: "Debrecen, Hungary"
 ---
 
@@ -25,7 +25,7 @@ Data visualization plays a key role in understanding data and evaluating artific
 
 3. Detection of anomalies:
 - Time series analyses: Visualizing time-based data can help identify anomalies and outliers. An example of this is the unexpected price fluctuations that arise when predicting oil prices.
-- PCA (principal component analysis) and t-SNE: With the help of such techniques, it is possible to visualize large-dimensional data sets, where the clustering or dispersion of the data can clearly show anomalies.
+- PCA (principal component analysis), umpa and t-SNE: With the help of such techniques, it is possible to visualize large-dimensional data sets, where the clustering or dispersion of the data can clearly show anomalies.
 
 4. Decision-making support:
 - Interpretability techniques: Modell weights and parameters can be used to visually represent how a model makes its decisions, which helps decision makers understand what factors play into the predictions.

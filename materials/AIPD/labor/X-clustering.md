@@ -12,8 +12,6 @@ location: "Debrecen, Hungary"
 
 [Colab link](https://colab.research.google.com/drive/1MNG3_3owXo57C-mLs68t-R0bZumaLkVr)
 
-[Colab link solved]()
-
 <img src="https://scikit-learn.org/1.5/_images/sphx_glr_plot_cluster_comparison_001.png">
 
 ## Description
