@@ -41,7 +41,7 @@ Application | Package your model into an application. Present the your pipeline 
 ### Submission
 
 - **Submission deadline: 2025.12.14. 24:00 (Sunday)**
-- [**Submission form**](https://forms.office.com/e/TjTrVVYRCw?origin=lprLink)
+- [**Submission form (CLOSED)**]()
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the source code.
@@ -70,7 +70,6 @@ Application | Package your model into an application. Present the your pipeline 
 
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
 
-- [2025 Autumn Evaluation]()
 - [2024 Autumn Videos](../materials/NLP-I/submitted/2024-2-videos)
 - [2023 Autumn Videos](../materials/NLP-I/submitted/2023-2-videos)
 
