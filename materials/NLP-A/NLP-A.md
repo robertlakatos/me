@@ -55,24 +55,30 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## Labor
 
-- N.    [Python Basics](../materials/NLP-I/labor/N-python)
-- N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
-- N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
-- I.    [Problem Identification and Discovery](../materials/NLP-A/labor/problem)
-- II.   [Pipeline](../materials/NLP-A/labor/pipeline)
-- III.  [Vector Store](../materials/NLP-A/labor/vector-store)
-- IV.   [Filter and Cluster](../materials/NLP-A/labor/filter-cluster)
-- V.    [Agent](../materials/NLP-A/labor/agent)
-- VI.   [Tokenization](../materials/NLP-A/labor/tokenization)
-- VII.  [Embedding](../materials/NLP-A/labor/embedding)
-- VIII. [Recurent Neural Network](../materials/NLP-A/labor/recurent-neural-network)
-- IX.   [BERT and LoRA](../materials/NLP-A/labor/BERT)
-- X.    [Code Generation](../materials/NLP-A/labor/code-generation)
-- XI.   [Recommmender System](../materials/NLP-A/labor/recommmender-system)
-- XII.  [Transformer](../materials/NLP-A/labor/transformer)
-- XII.  [Transformer](../materials/NLP-A/labor/transformer)
-- XIII. [Total LABOR]
+### Basics
 
+- I.    [Tokenization](https://colab.research.google.com/drive/1Z9XA9Ik9ofb_hk61mukq-P1X9JEpv1m4#scrollTo=gtFbC4F-H0h7)
+- II.   [Embedded vectors](https://colab.research.google.com/drive/1RRurVdRdYblE9ShU8kwzpmkToAW67iIG#scrollTo=tsfToJX1g3gW)
+- III.  [Recurent Neural Network](https://colab.research.google.com/drive/1aMlFLC8rAZm68qincUte6fNQvawUBTY4)
+
+### Transformers
+
+- IV    [Transformers](https://colab.research.google.com/drive/13ypN4qvbdMUFREZKAF-U1f0d0aYn7U_Z)
+- V.    [GPT](https://colab.research.google.com/drive/1IL5zR6215l0WmTi84GorO5d-N1XQOPm9)
+- VI.   [BERT](https://colab.research.google.com/drive/1QdXMVKzw0xxmIG9BrhGbbjIK37bksIK0)
+
+### Efficient
+
+- VII.  [Parameter Efficient Fine Tuning (PEFT)](https://colab.research.google.com/drive/1nIAO0-DsfZqo9SDz_9sTr7uzqK57dWQp)
+- VIII. [Low Rank Adaptation (LoRA/PEFT)](https://colab.research.google.com/drive/1kXGgFkjzj7tT9ZNLZ1lnSo8UolYyc8SI) 
+
+### LLM based AI application
+
+- IX.   [Local AI](https://colab.research.google.com/drive/1Rlfd8uw0y-2epFxhSYTfvxo9Rz6LODfy#scrollTo=0dc4b4ae)
+- X.    [Streaming-Thinking](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
+- XI.   [Structured Output](https://colab.research.google.com/drive/1P56xUWbLxMQbCKa-sCvuo4DmLqXtSsK0)
+- XII.  [WebSearch](https://colab.research.google.com/drive/1AQd_NhnLvfRBSIiwC6iPXr8YflUNmLNG)
+- XIII. [Retrieval Augmented Generation](https://colab.research.google.com/drive/1kXGgFkjzj7tT9ZNLZ1lnSo8UolYyc8SI)
 
 ## Submitted
 
@@ -90,53 +96,16 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## Recommended Literatures and Courses
 
-1. [Jurafsky, Daniel, and James H. Martin. "Speech and language processing (draft)." Chapter A: Hidden Markov Models (Draft of September 11, 2018). Retrieved March 19 (2018): 2019.](https://ms.b-ok.xyz/book/3560643/4a6ab2)
-2. [Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
-3. [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
-4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
-5. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
-6. [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
-7. [Visual Guide to Transformer Neural Networks - (Episode 1)](⁠https://www.youtube.com/watch?v=dichIcUZfOw)
-8. [Visual Guide to Transformer Neural Networks - (Episode 2)](⁠https://www.youtube.com/watch?v=mMa2PmYJlCo)
-9. [Visual Guide to Transformer Neural Networks - (Episode 3)](⁠https://www.youtube.com/watch?v=gJ9kaJsE78k)
-
-## Key Words
-
-1. Tokenization 
-    - Byte-Pair Encoding (BPE)
-    - Byte-level BPE
-    - WordLevel
-    - WordPiece
-    - Unigram
-    - SentencePiece
-2. Embbeding
-    - Skip-Gram
-    - CBOW
-    - GLOVE
-    - Word2Vec
-3. Position Embedding
-4. (Multi-Head) Attention
-5. Neural Network (Feed Foward layer)
-6. Normalization
-7. Transoformer
-8. Pre-Trained
-9. Large Language Model
-10. NLP Tasks
-    - Summarization
-    - Translate
-    - Generation
-    - Q&A
-    - Named Entity Recognition
-    - Sentiment analysis
-11. Multimodal architectures
-12. Huggingface
-13. Keras
-14. Tensorflow
-15. Pytorch
-16. Python
-17. Pipline
-18. Notebook
-19. Google Colab
+1.  [Jurafsky, Daniel, and James H. Martin. "Speech and language processing (draft)." Chapter A: Hidden Markov Models (Draft of September 11, 2018). Retrieved March 19 (2018): 2019.](https://ms.b-ok.xyz/book/3560643/4a6ab2)
+2.  [Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
+3.  [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
+4.  [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+5.  [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+6.  [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+7.  [Visual Guide to Transformer Neural Networks - (Episode 1)](⁠https://www.youtube.com/watch?v=dichIcUZfOw)
+8.  [Visual Guide to Transformer Neural Networks - (Episode 2)](⁠https://www.youtube.com/watch?v=mMa2PmYJlCo)
+9.  [Visual Guide to Transformer Neural Networks - (Episode 3)](⁠https://www.youtube.com/watch?v=gJ9kaJsE78k)
+10. [Stanford CS 224N / Ling 280  —  Natural Language Processing](https://web.stanford.edu/class/cs224n/)
 
 # Usefull Publications
 

@@ -60,6 +60,31 @@ This encompasses the following criteria:
 
 To view these, you need access to the Electronic Archive (DEA) system of the University of Debrecen.
 
+## 2025
+
+## [Magas szintű AI architektúrák fejlesztése](https://dea.lib.unideb.hu/items/373ca3de-8939-4a98-9a26-ee8080e3c5c2)
+
+- Author: Pozsga, János
+- Created: 2025-05-23
+
+A szakdolgozat célja egy olyan LLM-re (Large Language Model – Nagy Nyelvi Modell) épülő tudásbázis rendszer létrehozása, amely segítségével a felhasználók társalgási formában tudnak az oldal üzemeltetői által beállított nagyméretű adathalmazból információhoz jutni, bármilyen haladó adatfeldolgozási tapasztalat nélkül. A kutatás kiemelt célja egy olyan rendszer megvalósítása, amelyben a beérkező adatok feldolgozása automatikusan, külső beavatkozás vagy kódmódosítás nélkül történik, tetszőleges időpontban és gyakorisággal. Ez lehetővé teszi a rendszer rugalmas alkalmazását különböző környezetekben, és megszünteti az adatelemzéshez szükséges technikai ismeretek követelményét. A megoldás alapját a RAG (retrieval-augmented generation) technológia adja, amely biztosítja az információk gyors és hatékony elérését a modellek újratanítása nélkül. A rendszer architektúrája moduláris, skálázható felépítésű, és különböző komponensekre épül, mint például a SvelteKit-alapú webalkalmazás, a RabbitMQ üzenetkezelő, a GROBID-alapú dokumentumfeldolgozó és a FAISS-ra épülő szemantikus keresőmotor. Az infrastruktúra Docker alapú konténerizációval működik, így biztosítva az izolált, megbízható környezetet. A megvalósított megoldás alkalmas a mesterséges intelligencia alapú rendszerek hatékony és felhasználóbarát működtetésére különféle szakterületeken.
+
+## [Nagy nyelvi modellek hatékonyságának növelése retrieval augmented generation segítségével](https://dea.lib.unideb.hu/items/3bba106c-3494-4657-b99e-4c461ed1a3ad)
+
+- Author: Szabó, Zoltán János
+- Created: 2025-04-27
+
+A nagy nyelvi modellek köztudatba való berobbanásának forradalmi hatása van korunkra. Felhasználóbarátságukkal, könnyen használható kezelő felületükkel és a velük való beszélgetés emberszerűségével sok esetben leváltották a megszokott keresőmotorok használatát és a tradicionális módját az információ szerzésnek. Emiatt kiemelten fontos, hogy a nagy nyelvi modellek helyes, tényszerű információkat közöljenek a felhasználóval. A retrieval augmented generation technika nagyban tud segíteni ebben. Ezzel a technikával megvalósítható egy olyan rendszer a nagy nyelvi modellek köré, amivel a modellek válaszainak tényszerűsége könnyedén ellenőrizhető és javítható. Az elkészült rendszer eredményei is mutatják, hogy ez a technika működik és segít ennek a problémának a kiküszöbölésében.
+
+## [Faster R-CNN generalizált kvantálása](https://dea.lib.unideb.hu/items/6bec6ad6-e469-4a85-a63f-4b643ab4145d)
+
+- Author: Menyhárt, Tamás
+- Created: 2025-04-25
+
+A Faster Region-based Convolutional Network (Faster R-CNN) hatékony objektumdetektáló modell, azonban nagy mérete és jelentős számítási kapacitásigénye korlátozza alkalmazhatóságát beágyazott rendszerekben és valós idejű környezetekben. A kvantálás bevált módszerek a modellek méretének és számítási igényének csökkentésére, azonban a Faster R-CNN teljes körű kvantálására jelenleg nem létezik nyílt forráskódú általános implementáció. Ennek legfőbb oka, hogy az architektúra egyes komponenseit azok szerkezeti sajátosságai miatt külön-külön szükséges kvantálni. Dolgozatunkban bemutatunk egy általános Faster R-CNN kvantáló algoritmust, amelyhez készített implementációnk nyílt forráskódú és kompatibilis a PyTorch ökoszisztémájával. Megoldásunk 67,2%-kal csökkenti a modell méretét és 50,4%-kal redukálja az észlelési időt, miközben a tesztadatokon mért pontosságot 8,2%-os hibahatáron belül ± 3,4% szórással megtartja. Eredményeink igazolják, hogy a javasolt módszer hatékonyan alkalmazható a Faster R-CNN teljes körű kvantálására, ezáltal lehetőséget teremt a modell alacsony fogyasztású hardvereken való futtatására. Ez különösen fontos olyan alkalmazásokban, mint az önvezető járművek, beágyazott szenzorrendszerek és valós idejű biztonsági megfigyelés, ahol a gyors és energiahatékony objektumdetektálás kulcsfontosságú.
+
+## 2024
+
 ## [Dokumentáció feldolgozása GPT alapú modellel](https://dea.lib.unideb.hu/items/478f3338-b3cf-4ab4-b957-7c6c2ed9a46c)
 
 - Author: Loós András Péter
@@ -80,6 +105,8 @@ Szakdolgozatom központi eleme egy képgenerálási folyamat, amely saját rajza
 - Created: 2024-04-09
 
 A dolgozatomban piaci, gazdasági hírek elemzését és feldolgozását választottam. Ezek a hírek mozgatják napjaink pénzügyi világát, ezért megértésük és elemzésük sokat segíthet nem csak a szakembereknek, de a témában kevésbé jártasaknak is. A Twittert választottam forrásnak, ahonnan négy híroldal üzeneteiből állítottam össze adathalmazokat. Arra kerestem a választ, hogy milyen mértékben képesek árfolyammozgásokat generálni a hírek. Ehhez az NLP nyújtotta hangulatelemző modelleket használtam. Az adathalmazokat elemeztem és megtisztítottam az előfeldolgozás különböző lépései során. Ezután a hangulatelemző modellek eredményeit elemeztem és összevetettem egymással. Végül az eredményeket különböző árfolyamokkal hasonlítottam össze és megállapítottam a konklúziómat.
+
+## 2023
 
 ## [Mesterséges Intelligencia alkalmazása az ESport területén](https://dea.lib.unideb.hu/items/0bbb4577-cd4d-4c34-9176-53656b179c5a)
 
@@ -108,6 +135,8 @@ Szakdolgozatom készítésekor Anaconda disztribúción, Spyder környezetben k�
 - Created: 2023-04-19
 
 Szakdolgozatom témájának a kérdés-válasz alapú chatrobotokat választottam, azon belül is a Discord nevű alkalmazás chatrobotjait. A téma, a Discord elterjedésével egyre relevánsabb lett, mivel a felhasználói élményt nagyban javítják. Az alkalmazás külön lehetőséget ad a feltörekvő Discord fejlesztőknek különböző kiegészítő funkciók létrehozására. Ezáltal hoztam létre egy Discord zenebotot, ami képes a felhasználók számára kommunikáció közben zenét lejátszani. Különböző parancsok vannak hozzá melyek segítenek használni a botot.
+
+## 2022
 
 ## [Multimodális gépi tanulás](https://dea.lib.unideb.hu/items/fb856529-faec-4549-ada0-6ee5ad74f26f)
 
