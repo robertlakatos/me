@@ -16,18 +16,23 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
 
+## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
+
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/EYKe7oC0eTVOkJXg2xjAZWoBENcHlhuEiFHCRYR9SxxmkA?e=ApkACz)
+
 ## Requirements
 
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
-- Creating a working application and presenting it in the form of a video using the solutions and models learned in class.
+- Creating a project that you have to use AI solutions and you have to make/propose a decision based on your project results.  
+     - You have to present it live and personally last lesson (2025. 12. 11. 16:00:00 - 2025. 12. 11. 18:00:00).
+     - If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
      - It must be uploaded to Github and shared.
-     - Maximum length of video is 5-10 minutes.
-     - In the video, each creator must present their own contribution.
+     - You must submit your project using the submission form by the deadline (2025.12.10 24:00)
 - Organizing into teams (2-4 people) or working individually.
-- If the creator(s) uses a service based on a generative language model to complete the task, then must attach the prompt log to the completed project as additional material.
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
-- **Submission deadline: 2024.12.02.**
-- [**Submission form**](https://forms.office.com/e/3nUXuFVRwe)
+
+- **Submission deadline: 2025.12.14. 24:00 (Sunday)**
+- [**Submission form (CLOSED)**]()
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the source code.
@@ -37,34 +42,20 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
-1. Hour: Introduction to AI and large language models (LLMs).
-2. Hour: Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.
-3. Hour: Master the fundamentals of prompt engineering and how to write effective instructions.
-4. Hour: Practical exercises on refining prompts to achieve specific, desired outcomes.
-5-6 összevonható
-5. Hour: Advanced prompt techniques: understanding the concept of Chain-of-Thought.
-6. Hour: Practical application of Chain-of-Thought and in-context learning.
-7. Hour: Introduction to the role of coding in strategy, with a focus on Python basics. 
-8. Hour: Using to perform simple data analysis tasks with Python. Innen jöhet a Datatypes
-9. Hour: Introduction to Agentic AI and RAG (Retrieval-Augmented Generation).
-10. Hour: Utilizing AI to work with scientific repositories like arXiv and PubMed.
-11. Hour: Applying NotebookLM for organizing and analyzing research materials.
-12. Hour: Validating and critically evaluating AI-generated information.
-13. Hour: Benchmarking AI models and checking their reliability, followed by a course summary.
+- I.    [Introduction to AI and large language models (LLMs).](../materials/AIPD/labor/I-theoretical-background)
+- II.   [Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.](../materials/AIPD/labor/I-introduction)
+- III.  [Prompt Engineering - Base](../materials/AIPD/labor/III-pe-base)
+- IV.   [Prompt Engineering - Advanced](../materials/AIPD/labor/IV-pe-advanced)
+- V.    [Resources](../materials/AIPD/labor/V-resources)
+- VI.   [Data types](../materials/AIPD/labor/VI-datatypes)
+- VII.  [Model I. - Linear Regression](../materials/AIPD/labor/VII-linear-regression)
+- VIII. [Model II. - Neural Networks](../materials/AIPD/labor/VIII-neural-network)
+- IX.   [Model III. - Decision Trees](../materials/AIPD/labor/IX-decision-trees)
+- X.    [Model IV. - Clustering](../materials/AIPD/labor/X-clustering)
+- XI.   [Visualization](../materials/AIPD/labor/XI-visualizations)
+- XII.  [Q&A - Consultation]()
 
-- I.    [Introduction to AI and Decision Making](../materials/AIPD/labor/I-introduction)
-- II.   [Basics of decision-making and planning](../materials/AIPD/labor/II-decisionmaking)
-- III.  [Data types](../materials/AIPD/labor/III-datatypes)
-- IV.   [Visualizations](../materials/AIPD/labor/IV-visualizations)
-- V.    [Models 1. - Linear regression](../materials/AIPD/labor/V-linear-regression)
-- VI.   [Models 2. - Neural networks](../materials/AIPD/labor/VI-neural-network)
-- VII.  [Models 4. - Clustering](../materials/AIPD/labor/VII-clustering)
-- VIII. [Review creating with generative LLM](../materials/AIPD/labor/VIII-review)
-- IX.   [Prompt Engineering - Prompting](https://colab.research.google.com/drive/1qR3t_4aCEdcdB5tmJ1wvJKmPQP-UO33D)
-- IX.   [Prompt Engineering - Review-Analyst](https://colab.research.google.com/drive/1N_uSVFmuHe7MkRV4-wgT6hSUIuR81emS)
-- X.    [Prompt Engineering - Marketing-Generator](https://colab.research.google.com/drive/1rcaWJ7R1P232OosvQMmtX6ce55B32kYt)
-- X.    [Prompt Engineering - Random-Personas](https://colab.research.google.com/drive/1h1X20s4Kr8wQ_gRMUYuPbZcVX9bR5Lyf)
-- XI.   [Prompt Engineering - Chatbot](https://colab.research.google.com/drive/1FB5BqTd_adnsy6VNyawnTieWlp1TCFoG)
-- XI.   [Prompt Engineering - Car Dealership AI Assistant](https://colab.research.google.com/drive/1QaGBSUHRIzVmEjAPefXzdIWjoPtGWAkd)
-- XII.  [Final project and future prospects]()
-- XIII. [UNK]()
+## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
+
+- [2025 Autumn](../materials/AIPD/submitted/2025-2)
+- [2024 Autumn](../materials/AIPD/submitted/2024-2)

@@ -14,7 +14,13 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
 
+## [Attendance sheet]()
+
+## [Attendance sheet status]()
+
 ## Requirements
+
+### Rules
 
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
 - Create a working application, solve a real problem, and present it as a video using the solutions and models learned in class.
@@ -25,8 +31,21 @@ Within the framework of the subject, students will learn about the basics of nat
 - Organizing into teams (2-4 people) or working individually.
 - If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
-- **Submission deadline: 2024.12.20.**
-- [**Submission form**](https://forms.office.com/e/RfaJZ9reLp)
+
+### Evaluation
+
+Task | Grade 3 | Grade 4 | Grade 5 
+--- | --- | --- | --- 
+Data | You need data your project. |  Exploratory data analysis (Visualization) | 
+Preprocess | The code should include preprocessing steps. (Text cleaning, Feature Engineering, Tokenization, Vectorization, Training, validation, and test data preparation) | UnitTest, Visualization | 
+Model | Train a machine learning model on the data. | | Use more models, at least 3
+Evaluate | Evaluate your model on your test data. | Complex Benchmarking |
+Application | Package your model into an application. Present the your pipeline and use the technical term / keywords correctly. | | Create a conclusion. Explain how your model works. Present the limitations and opportunities for further development.
+
+### Submission
+
+- **Submission deadline: 2025.12.14. 24:00 (Sunday)**
+- [**Submission form (CLOSED)**]()
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the source code.
@@ -42,22 +61,22 @@ Within the framework of the subject, students will learn about the basics of nat
 - I.    [Text cleaning I.](../materials/NLP-I/labor/I-text-cleaning-I)
 - II.   [Text cleaning II.](../materials/NLP-I/labor/II-text-cleaning-II)
 - II.   [Tokenization](../materials/NLP-I/labor/II-tokenization)
-- III.  [Vectorization](../materials/NLP-I/labor/III-vectorization)
+- III.  [Vectorization I.](../materials/NLP-I/labor/III-vectorization)
 - IV.   [Modeling 1 - Linear Regression (Sentiment Analysis)](../materials/NLP-I/labor/IV-linear-regression)
 - V.    [Modeling 2 - Neural Network (Text Classification)](../materials/NLP-I/labor/V-neural-network)
-- VI.   [Embedding](../materials/NLP-I/labor/VI-embedding)
-- VII.  [Topic Modelling I.](../materials/NLP-I/labor/VII-topic-modelling)
-- VIII. [Topic Modelling II.](../materials/NLP-I/labor/VIII-topic-modelling)
+- VI.   [Vectorization II. - Embedding](../materials/NLP-I/labor/VI-embedding)
+- VII.  [Text Generator I.](../materials/NLP-I/labor/VII-text-generation)
+- VIII. [Topic Modelling](../materials/NLP-I/labor/VIII-topic-modelling)
 - IX.   [Text-based Recommendation Systems](../materials/NLP-I/labor/IX-text-based-recommendation-systems)
-- X.    [Dependency Parsing, Named-entity recognition / Token Classification](../materials/NLP-I/labor/X-dependency-parsing-token-classification)
-- XI.   [Text Generator I.](../materials/NLP-I/labor/XI-text-generation)
-- XII.  [Large Language Models](../materials/NLP-I/labor/XII-llm)
-- XIII. [UNK]()
+- X.    [Text Generator II.](../materials/NLP-I/labor/VII-text-generation)
+- XI.   [Dependency Parsing, Named-entity recognition / Token Classification](../materials/NLP-I/labor/XI-dependency-parsing-token-classification)
+- XII.  [Attention is all you need](../materials/NLP-I/labor/XII-attention-is-all-you-need)
 
-## Submitted
+## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
 
-- [2024 Autumn](../materials/NLP-I/submitted/2024-2)
-- [2023 Autumn](../materials/NLP-I/submitted/2023-2)
+- [2025 Autumn Videos](../materials/NLP-I/submitted/2025-2-videos)
+- [2024 Autumn Videos](../materials/NLP-I/submitted/2024-2-videos)
+- [2023 Autumn Videos](../materials/NLP-I/submitted/2023-2-videos)
 
 ## Usefull Links
 

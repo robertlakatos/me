@@ -12,6 +12,12 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ======
 
+## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
+
+## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
+
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/EYKe7oC0eTVOkJXg2xjAZWoBENcHlhuEiFHCRYR9SxxmkA?e=ApkACz)
+
 ## Requirements
 
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
@@ -38,7 +44,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - V.    [Pretrain](https://robertlakatos.github.io/me/materials/NLP-A/lectures/pretraining-updated.pdf)
 - V.    [Question Answering](https://robertlakatos.github.io/me/materials/NLP-A/lectures/QA.pdf)
 - VI.   [Post-training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/instruction-tuning-rlhf.pdf)
-- VI.   [Promting RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/prompting-rlhf.pdf)
+- VI.   [Prompting RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/prompting-rlhf.pdf)
 - VII.  [Life After DPO](https://robertlakatos.github.io/me/materials/NLP-A/lectures/life-after-dpo-lambert.pdf)
 - VII.  [Training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/training.pdf)
 - VIII. [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
@@ -51,7 +57,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - XII.  [Agents](https://robertlakatos.github.io/me/materials/NLP-A/lectures/agents.pdf)
 - XII.  [Linguistics Philosophy](https://robertlakatos.github.io/me/materials/NLP-A/lectures/linguistics-philosophy.pdf)
 - XIII. [Open problems and discussion](https://robertlakatos.github.io/me/materials/NLP-A/lectures/open-problems.pdf)
-- IVX.  [State of the art](https://robertlakatos.github.io/me/materials/NLP-A/lectures/state-of-the-art.pdf)
+- XIV.  [State of the art](https://robertlakatos.github.io/me/materials/NLP-A/lectures/state-of-the-art.pdf)
 
 ## Labor
 

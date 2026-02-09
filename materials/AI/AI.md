@@ -12,11 +12,21 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ======
 
-## Elő vizsga Feladat típusok
+## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
 
-A vizsgán maximum 10-pont szerezhető:
+## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
-### 2026.05.16.
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/EYKe7oC0eTVOkJXg2xjAZWoBENcHlhuEiFHCRYR9SxxmkA?e=ApkACz)
+
+## Követelmények
+
+### Elő vizsga Feladat típusok
+
+- A vizsgán maximum 10-pont szerezhető:
+- Időpontok:
+- Konzultáció: Az oktatói fogadóórákon.
+- Legfeljebb 3 hiányzás megengedett.
+- Az utolsó gyakorlat során zárthelyi dolgozat formájában. A ZH-n szerzett pontok 0.4-es súllyal kerülnek beszámításra a végső érdemjegybe.
 
 ### Jegyek
 
