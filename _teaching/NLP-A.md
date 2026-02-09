@@ -16,7 +16,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
-## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/EYKe7oC0eTVOkJXg2xjAZWoBENcHlhuEiFHCRYR9SxxmkA?e=ApkACz)
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqARDXB5YbhIhRwkWEfUscZpA)
 
 ## Requirements
 
