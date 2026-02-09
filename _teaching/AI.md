@@ -16,17 +16,17 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ## Konzultációk
 
-- Monday - 14:00 - 15:30 - IK 107 (tanteremben)
-- Monday - 15:30 - 16:00 - IK I128 (irodában)
-- Monday - 16:00 - 17:30 - IK 204 (tanteremben)
-- Monday - 17:30 - 18:00 - IK I128 (irodában)
-- Monday - 18:00 - 19:30 - IK 204 (tanteremben)
+- Monday / Hétfő - 14:00 - 15:30 - IK 107 (in the classroom / teremben)
+- Monday / Hétfő - 15:30 - 16:00 - IK I128 (in the office / irodában)
+- Monday / Hétfő - 16:00 - 17:30 - IK 204 (in the classroom / teremben)
+- Monday / Hétfő - 17:30 - 18:00 - IK I128 (in the office / irodában)
+- Monday / Hétfő - 18:00 - 19:30 - IK 204 (in the classroom / teremben)
 
-- Tuesday - 14:00 - 15:30 - IK 132 (tanteremben)
-- Tuesday - 15:30 - 16:00 - IK I128 (irodában)
-- Tuesday - 16:00 - 17:30 - IK TEOKJ II. em. 109 (tanteremben)
-- Tuesday - 17:30 - 18:00 - IK I128 (irodában)
-- Tuesday - 18:00 - 19:30 - IK TEOKJ II. em. 106 (tanteremben)
+- Tuesday / Kedd - 14:00 - 15:30 - IK 132 (in the classroom / teremben)
+- Tuesday / Kedd - 15:30 - 16:00 - IK I128 (in the office / irodában)
+- Tuesday / Kedd - 16:00 - 17:30 - IK TEOKJ II. em. 109 (in the classroom / teremben)
+- Tuesday / Kedd - 17:30 - 18:00 - IK I128 (in the office / irodában)
+- Tuesday / Kedd - 18:00 - 19:30 - IK TEOKJ II. em. 106 (in the classroom / teremben)
 
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
