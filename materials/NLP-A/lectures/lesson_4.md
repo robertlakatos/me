@@ -36,10 +36,6 @@ How to work?
 
 <img src="https://robertlakatos.github.io/me/materials/NLP-A/images/co_matrix.png" alt="co_matrix">
 
-- Dimension size reduction. (Singular Value Decomposition of co-occurrence matrix X)
-
-<img src="https://robertlakatos.github.io/me/materials/NLP-A/images/svd.png" alt="svd">
-
 - Structure Optimization: The goal is to create word vectors that allow the best description of the corpus statistics. During the optimization process, GloVe weights the frequency of each word and the relationships between them.
 
 <img src="https://robertlakatos.github.io/me/materials/NLP-A/images/glove_opt.png" alt="glove_opt">
