@@ -14,6 +14,20 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
 
+## Consultation
+
+- Monday - 14:00 - 15:30 - IK 107 (in the classroom)
+- Monday - 15:30 - 16:00 - IK I128 (in the office)
+- Monday - 16:00 - 17:30 - IK 204 (in the classroom)
+- Monday - 17:30 - 18:00 - IK I128 (in the office)
+- Monday - 18:00 - 19:30 - IK 204 (in the classroom)
+
+- Tuesday - 14:00 - 15:30 - IK 132 (in the classroom)
+- Tuesday - 15:30 - 16:00 - IK I128 (in the office)
+- Tuesday - 16:00 - 17:30 - IK TEOKJ II. em. 109 (in the classroom)
+- Tuesday - 17:30 - 18:00 - IK I128 (in the office)
+- Tuesday - 18:00 - 19:30 - IK TEOKJ II. em. 106 (in the classroom)
+
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
 ## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqASFjuU1MguAOZNI0A8oSHlY?e=B3IZ3O)

@@ -14,6 +14,20 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
 
+## Konzultációk
+
+- Monday - 14:00 - 15:30 - IK 107 (tanteremben)
+- Monday - 15:30 - 16:00 - IK I128 (irodában)
+- Monday - 16:00 - 17:30 - IK 204 (tanteremben)
+- Monday - 17:30 - 18:00 - IK I128 (irodában)
+- Monday - 18:00 - 19:30 - IK 204 (tanteremben)
+
+- Tuesday - 14:00 - 15:30 - IK 132 (tanteremben)
+- Tuesday - 15:30 - 16:00 - IK I128 (irodában)
+- Tuesday - 16:00 - 17:30 - IK TEOKJ II. em. 109 (tanteremben)
+- Tuesday - 17:30 - 18:00 - IK I128 (irodában)
+- Tuesday - 18:00 - 19:30 - IK TEOKJ II. em. 106 (tanteremben)
+
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
 ## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqASFjuU1MguAOZNI0A8oSHlY?e=B3IZ3O)
