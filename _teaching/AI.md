@@ -16,7 +16,7 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
-## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqARDXB5YbhIhRwkWEfUscZpA)
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqASFjuU1MguAOZNI0A8oSHlY?e=B3IZ3O)
 
 ## Követelmények
 
