@@ -42,14 +42,6 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - Legfeljebb 3 hiányzás megengedett.
 - Az utolsó gyakorlat során zárthelyi dolgozat formájában. A ZH-n szerzett pontok 0.4-es súllyal kerülnek beszámításra a végső érdemjegybe.
 
-### Jegyek
-
-- 0-5 pont = 1
-- 6 pont = 2
-- 7 pont = 3
-- 8 pont = 4
-- 9-10 pont = 5
-
 ### Kérdés típusok:
 
     1. Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása. (2 pont)
