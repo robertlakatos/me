@@ -53,12 +53,15 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - I.    [Tokenization](../materials/NLP-A/lectures/lesson_2)
 - I.    [Text representation I.](../materials/NLP-A/lectures/lesson_3)
 - I.    [Text representation II.](../materials/NLP-A/lectures/lesson_4)
+- II.   [Large language models I. fancy-rnn](https://robertlakatos.github.io/me/materials/NLP-A/lectures/fancy-rnn.pdf)
+- II.   [Large language models I. CNN-TreeRNN](https://robertlakatos.github.io/me/materials/NLP-A/lectures/CNN-TreeRNN.pdf)
 
 ## Labor
 
 ### Basics
 
 - I.    [Tokenization](https://colab.research.google.com/drive/1Z9XA9Ik9ofb_hk61mukq-P1X9JEpv1m4#scrollTo=gtFbC4F-H0h7)
+- II.   [Embedded vectors](https://colab.research.google.com/drive/1RRurVdRdYblE9ShU8kwzpmkToAW67iIG#scrollTo=tsfToJX1g3gW)
 
 ## Submitted
 

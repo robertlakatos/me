@@ -56,5 +56,3 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 - I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](https://colab.research.google.com/drive/13H4bUl6n_T8p-ymUY9NKTvNm4Lg3VdGu)
 - II.   [Informált és Nem Informált algoritmusok](https://colab.research.google.com/drive/1T2OABWgFnMvmdERa7Nwfft1xfqre2RFn#scrollTo=Q6QRf6tkxAHT)
-- II.   [Large language models I. fancy-rnn](https://robertlakatos.github.io/me/materials/NLP-A/lectures/fancy-rnn.pdf)
-- II.   [Large language models I. CNN-TreeRNN](https://robertlakatos.github.io/me/materials/NLP-A/lectures/CNN-TreeRNN.pdf)
