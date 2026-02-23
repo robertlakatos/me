@@ -54,7 +54,7 @@ A key part of this project is understanding the transition from "Prompt Engineer
 - Organizing into teams (2-4 people) or working individually.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
 
-Grade | Level | Requirements
+Grade | Requirements
 --- | --- | ---
 5 (Excellent)	| Outstanding original idea. Robust orchestration (e.g., iterative feedback loops between agents). Deep theoretical understanding of parameters (temperature, context window) and clear proof that the multi-agent approach significantly outperformed the baseline.
 4 (Good)	| Complex interaction logic. Agents provide critical feedback to one another. Detailed comparison with the baseline using specific metrics (e.g., accuracy, code quality, or hallucination reduction).
