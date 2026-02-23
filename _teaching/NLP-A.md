@@ -41,6 +41,7 @@ The goal of this assignment is to design, implement, and evaluate a Multi-Agent 
 A key part of this project is understanding the transition from "Prompt Engineering" to "Agentic Workflows." You will demonstrate how specialized roles, even when powered by the same local model, can produce superior results compared to a single-agent baseline.
 
 ### Core Requirements
+
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
 - Create a working application, solve a real problem, and present it as a video using the solutions and models learned in class.
      - Maximum length of video is 5-10 minutes.
@@ -53,6 +54,8 @@ A key part of this project is understanding the transition from "Prompt Engineer
      - **Comparative Analysis:** You must compare the multi-agent output against a "Baseline" (a single prompt sent to a standard chat agent).
 - Organizing into teams (2-4 people) or working individually.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
+
+### Evaluation
 
 Grade | Requirements
 --- | --- | ---
