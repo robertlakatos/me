@@ -34,18 +34,37 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## Requirements
 
+### Project Overview
+
+The goal of this assignment is to design, implement, and evaluate a Multi-Agent System (MAS) using Large Language Models (LLMs). Instead of relying on a single "monolithic" chat prompt, you must decompose a complex problem into specific sub-tasks handled by at least two distinct agents.
+
+A key part of this project is understanding the transition from "Prompt Engineering" to "Agentic Workflows." You will demonstrate how specialized roles, even when powered by the same local model, can produce superior results compared to a single-agent baseline.
+
+### Core Requirements
 - Attendance sheet: Fewer absences than allowed. Active participation in classes.
 - Create a working application, solve a real problem, and present it as a video using the solutions and models learned in class.
-     - It must be uploaded to Github and shared.
      - Maximum length of video is 5-10 minutes.
      - In the video, each creator must present their own contribution. (for 3-8 minutes)
      - The application must be shown in action at the end of the video. (for 1-2 minutes)
      - Video size must be 50 MB or less.
-     - The group members (students) have to send one Jupyter notebook (ipynb) file with Python code that contains all the project code.
+     - The group members (students) have to send one and clear (without executed blocks) Jupyter notebook (ipynb) file with Python code that contains all the project code.
+     - **Local Execution:** All agents must run locally using Ollama.
+     - **Multi-Agent Design:** Use at least two agents with unique system instructions (e.g., a Researcher and a Technical Writer, or a Coder and a Reviewer).
+     - **Comparative Analysis:** You must compare the multi-agent output against a "Baseline" (a single prompt sent to a standard chat agent).
 - Organizing into teams (2-4 people) or working individually.
-- If the creator(s) uses a service based on a generative language model to complete the task, they must attach the prompt log to the completed project as additional material.
 - It is not certain that the team members receive a uniform grade, but they get grades proportionate to the task they have completed in the project.
-- **Submission deadline: 2025.05.24**
+
+Grade | Level | Requirements
+--- | --- | ---
+5 (Excellent)	| Outstanding original idea. Robust orchestration (e.g., iterative feedback loops between agents). Deep theoretical understanding of parameters (temperature, context window) and clear proof that the multi-agent approach significantly outperformed the baseline.
+4 (Good)	| Complex interaction logic. Agents provide critical feedback to one another. Detailed comparison with the baseline using specific metrics (e.g., accuracy, code quality, or hallucination reduction).
+3 (Fair) | Practitioner	Clearly defined roles with distinct System Prompts. The notebook is well-documented and the comparison between the "single chat" and "multi-agent" results is present.
+2 (Pass) | Basic implementation of two agents (e.g., Writer + Editor). The code runs on Ollama, but agent differentiation is minimal. The video explains the "how" but struggles with the "why" regarding agentic workflows.
+1 (Fail) | The system does not run locally, uses only one agent, or lacks the required video/notebook components. The submission was after the deadline.
+
+### Submission
+
+- **Submission deadline: 2026.05.24**
 - [**Submission form**]()
 
 ## Lecture
@@ -55,6 +74,8 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 - I.    [Text representation II.](../materials/NLP-A/lectures/lesson_4)
 - II.   [Large language models I. fancy-rnn](https://robertlakatos.github.io/me/materials/NLP-A/lectures/fancy-rnn.pdf)
 - II.   [Large language models I. CNN-TreeRNN](https://robertlakatos.github.io/me/materials/NLP-A/lectures/CNN-TreeRNN.pdf)
+- III.  [Large language models II. Basic](https://robertlakatos.github.io/me/materials/NLP-A/lectures/rnnlm.pdf)
+- III.  [Large language models II. Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/transformers.pdf)
 
 ## Labor
 
@@ -62,6 +83,7 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 - I.    [Tokenization](https://colab.research.google.com/drive/1Z9XA9Ik9ofb_hk61mukq-P1X9JEpv1m4#scrollTo=gtFbC4F-H0h7)
 - II.   [Embedded vectors](https://colab.research.google.com/drive/1RRurVdRdYblE9ShU8kwzpmkToAW67iIG#scrollTo=tsfToJX1g3gW)
+- III.  [Recurent Neural Network](https://colab.research.google.com/drive/1aMlFLC8rAZm68qincUte6fNQvawUBTY4)
 
 ## Submitted
 

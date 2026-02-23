@@ -56,3 +56,5 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 - I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](https://colab.research.google.com/drive/13H4bUl6n_T8p-ymUY9NKTvNm4Lg3VdGu)
 - II.   [Informált és Nem Informált algoritmusok](https://colab.research.google.com/drive/1T2OABWgFnMvmdERa7Nwfft1xfqre2RFn#scrollTo=Q6QRf6tkxAHT)
+- II.   [Hands-on](https://colab.research.google.com/drive/1QfpPr50Xx_9TJTvAoxYIT6pdhwIMmpN_#scrollTo=LWJ9O6JU3RL1)
+- III.  [Nem Informált gráf keresők](https://colab.research.google.com/drive/1ZeCC5ZoQ1WtCUsrgNCUAlHyKUzk-rN20#scrollTo=ML8asS4w-vAV)
