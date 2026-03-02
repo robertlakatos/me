@@ -79,6 +79,8 @@ Grade | Requirements
 - II.   [Large language models I. CNN-TreeRNN](https://robertlakatos.github.io/me/materials/NLP-A/lectures/CNN-TreeRNN.pdf)
 - III.  [Large language models II. Basic](https://robertlakatos.github.io/me/materials/NLP-A/lectures/rnnlm.pdf)
 - III.  [Large language models II. Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/transformers.pdf)
+- IV.   [Pretrain](https://robertlakatos.github.io/me/materials/NLP-A/lectures/pretraining-updated.pdf)
+- IV.   [Question Answering](https://robertlakatos.github.io/me/materials/NLP-A/lectures/QA.pdf)
 
 ## Labor
 
