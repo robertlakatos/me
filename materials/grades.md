@@ -1,15 +1,17 @@
 ## 2026 - AI - szorgalmi pont
 
 NK     |    Név                 |   Pontok
----    |     ---                |   ---
+---    |    ---                 |   ---
 KCRMSH | Milák Dénes            |   1
 E8PIZS | Varga Albert Sándor    |   1
 RVPNH2 |                        |   0.5
+CYF65U | Barta Gergő            |   0.5
+
 
 ## 2026 - ANLP - Levelező
 
 NK     |    Név                 |   Jegy
----    |     ---                |   ---
+---    |    ---                 |   ---
 IU84Y5 | Keserű János           |   5
 L7LV26 | Szűcs Ferenc           |   5
 E2DYEL | Turi Lajos Gergő       |   5

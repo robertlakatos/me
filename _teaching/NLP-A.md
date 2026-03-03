@@ -79,8 +79,8 @@ Grade | Requirements
 - II.   [Large language models I. CNN-TreeRNN](https://robertlakatos.github.io/me/materials/NLP-A/lectures/CNN-TreeRNN.pdf)
 - III.  [Large language models II. Basic](https://robertlakatos.github.io/me/materials/NLP-A/lectures/rnnlm.pdf)
 - III.  [Large language models II. Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/transformers.pdf)
-- IV.   [Pretrain](https://robertlakatos.github.io/me/materials/NLP-A/lectures/pretraining-updated.pdf)
-- IV.   [Question Answering](https://robertlakatos.github.io/me/materials/NLP-A/lectures/QA.pdf)
+- IV.   [Pretrain](https://robertlakatos.github.io/me/materials/NLP-A/lectures/pretraining-updated.pdf) - podcast [hu](https://youtu.be/Dyus4v-qnGk)
+- IV.   [Question Answering](https://robertlakatos.github.io/me/materials/NLP-A/lectures/QA.pdf) - podcast [hu](https://youtu.be/P8W2NkV1fWk)
 
 ## Labor
 
@@ -89,6 +89,10 @@ Grade | Requirements
 - I.    [Tokenization](https://colab.research.google.com/drive/1Z9XA9Ik9ofb_hk61mukq-P1X9JEpv1m4#scrollTo=gtFbC4F-H0h7)
 - II.   [Embedded vectors](https://colab.research.google.com/drive/1RRurVdRdYblE9ShU8kwzpmkToAW67iIG#scrollTo=tsfToJX1g3gW)
 - III.  [Recurent Neural Network](https://colab.research.google.com/drive/1aMlFLC8rAZm68qincUte6fNQvawUBTY4)
+
+### Transformers
+
+- IV    [Transformers](https://colab.research.google.com/drive/13ypN4qvbdMUFREZKAF-U1f0d0aYn7U_Z) - (online)
 
 ## Submitted
 
