@@ -81,7 +81,7 @@ Grade | Requirements
 - III.  [Large language models II. Transformer](https://robertlakatos.github.io/me/materials/NLP-A/lectures/transformers.pdf)
 - IV.   [Pretrain](https://robertlakatos.github.io/me/materials/NLP-A/lectures/pretraining-updated.pdf) - podcast : [hu](https://youtu.be/Dyus4v-qnGk) / [en](https://youtu.be/57PFlOeFKvM)
 - IV.   [Question Answering](https://robertlakatos.github.io/me/materials/NLP-A/lectures/QA.pdf) - podcast [hu](https://youtu.be/P8W2NkV1fWk)
-- V.    [Prompting RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/prompting-rlhf.pdf) - podcast [hu](https://youtu.be/xQTA4Tjvidc) [en] /(https://youtu.be/3K_cRNOq5vI)
+- V.    [Prompting RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/prompting-rlhf.pdf) - podcast [hu](https://youtu.be/xQTA4Tjvidc) / [en](https://youtu.be/3K_cRNOq5vI)
 
 ## Labor
 
