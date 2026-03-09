@@ -59,3 +59,7 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - II.   [Hands-on](https://colab.research.google.com/drive/1QfpPr50Xx_9TJTvAoxYIT6pdhwIMmpN_#scrollTo=LWJ9O6JU3RL1)
 - III.  [Nem Informált gráf keresők](https://colab.research.google.com/drive/1ZeCC5ZoQ1WtCUsrgNCUAlHyKUzk-rN20#scrollTo=ML8asS4w-vAV)
 - IV.   [Informált gráf keresők](https://colab.research.google.com/drive/1G_5M9TehfC8h6qFlGQP_VfKJKLXGq_-p#scrollTo=buUT_3uIazTy)
+
+### Automatikus következtetés
+
+- V.    [Kényszerkielégítés alapú megoldások](https://colab.research.google.com/drive/1VXmTLfHVtADtwT__hTSgM5Jc74231cZi#scrollTo=-dK4mVTWvvrP)
