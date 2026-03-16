@@ -63,3 +63,7 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 ### Automatikus következtetés
 
 - V.    [Kényszerkielégítés alapú megoldások](https://colab.research.google.com/drive/1VXmTLfHVtADtwT__hTSgM5Jc74231cZi#scrollTo=-dK4mVTWvvrP)
+
+### Gépi és Mélytanulás
+
+- VI.   [Felügyelt tanulás (osztályozás)](https://colab.research.google.com/drive/1HDPI4snX-5vdq4rQ0sREaJM-3Iz_Yf1C#scrollTo=17A1EGSZ-qwq)

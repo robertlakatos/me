@@ -2,7 +2,7 @@
 
 NK     |    Név                 |   Pontok
 ---    |    ---                 |   ---
-KCRMSH | Milák Dénes            |   1
+KCRMSH | Milák Dénes Sándor     |   2
 E8PIZS | Varga Albert Sándor    |   1
 RVPNH2 |                        |   0.5
 CYF65U | Barta Gergő            |   0.5
