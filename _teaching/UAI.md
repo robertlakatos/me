@@ -54,15 +54,27 @@ A munkafolyamat és az AI eszközök használata
 ## Tudás terv
 
 **1. hét:** Az AI hajnala és a nagy cél: A nyelvi fordítás A mesterséges intelligencia historikus megközelítése. Miért a gépi fordítás volt az eredeti "Szent Grál", és hogyan jutottunk el a szabályalapú rendszerektől a statisztikai modellekig? Az intelligencia meghatározása az oktatásban.
+
 **2. hét:** A "nyersanyag": Adatfeldolgozás és kurátorok Az adatok útja a modellig. Az előfeldolgozás folyamata, a digitális tartalom tisztítása és a kurátorok (adatfelügyelők) szerepe. Miért nem mindegy, milyen adaton tanul a jövő nemzedéke?
+
 **3. hét:** A nyelv matematikája: Tokenek és vektorok Hogyan látja a gép a szöveget? A tokenizáció fogalma és a vektoros reprezentáció (embeddings). Hogyan válnak a szavak és fogalmak matematikai koordinátákká egy többdimenziós térben?
+
 **4. hét:** Mintafelismerés és jóslás: A valószínűségi gondolkodás Az AI mint statisztikai tükör. Hogyan jósolja meg a gép a következő elemet? A minták szerepe a tanulásban és a gépi "gondolkodásban". A determinisztikus vs. sztochasztikus rendszerek különbsége.
+
 **5. hét:** Modell-típusok I.: Nyelvi és képfeldolgozó modellek Az LLM-ek (Large Language Models) és a Computer Vision alapjai. Hogyan értelmez a gép egy esszét és hogyan egy rajzot? A vizuális és szöveges információ kódolásának eltérései.
+
 **6. hét:** Modell-típusok II.: Hangfeldolgozás és Multimodalitás A beszédfelismerés és szintézis elmélete. A multimodális modellek lényege: amikor a gép egyszerre értelmez szöveget, képet és hangot (interdiszciplináris megközelítés az oktatásban).
+
 **7. hét:** Architektúrák: Generatív AI, Enkóder és Dekóder A Transformer modell felépítése. Mi a különbség a megértésre (Encoder) és a tartalomelőállításra (Decoder) optimalizált rendszerek között? A generatív szemlélet megjelenése a pedagógiában.
+
 **8. hét:** A technológia fizikai korlátai: GPU és Hardware Miért a videókártya az AI "agya"? A GPU-gyorsított architektúrák jelentősége. A számítási kapacitás mint erőforrás és annak környezeti/gazdasági hatásai az iskolarendszerre.
+
 **9. hét:** Megbízhatóság és tudásbázisok: RAG és Hallucináció Miért téved az AI, és hogyan küszöbölhető ki? A Retrieval-Augmented Generation (RAG) elmélete: a modell összekapcsolása hiteles forrásokkal (pl. tankönyvekkel). Az információhitelesség oktatása.
+
 **10. hét:** Etika, Bias és a digitális írástudás új szintje Az algoritmusokba kódolt előítéletek (bias) elméleti háttere. Szerzői jog, adatvédelem és a hallgatók felelőssége az AI-korszakban. Hogyan alakítja át az AI az emberi kreativitás fogalmát?
+
 **11. hét:** A jövő oktatása: Adaptív tanulás és személyre szabottság Az "egy méret mindenkinek" modell vége. Hogyan teszi lehetővé az AI az egyéni tanulási utak elméleti megalkotását? Az AI mint személyes tutor és a pedagógus megváltozott szerepköre.
+
 **12. hét:** Physical AI: Robotika és a fizikai valóság Amikor az AI testet ölt. A környezetüket érzékelő és abba beavatkozó rendszerek. A robotika elméleti alapjai és a szenzomotoros tanulás modellezése a fizikai térben.
+
 **13. hét:** A következő lépcsőfok: Szimbolikus AI és az AGI jelene A neurális hálózatok és a logikai (szabályalapú) rendszerek ötvözése. Elértük az általános mesterséges intelligenciát (AGI). Mit jelent majd embernek és tanárnak lenni egy gép által dominált világban?
