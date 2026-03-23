@@ -59,6 +59,8 @@ A key part of this project is understanding the transition from "Prompt Engineer
 
 #### Project type 1
 
+Build an LLM-based multi-agent based on your own idea.
+
 Grade | Requirements
 --- | --- | ---
 5 (Excellent)	| Outstanding original idea. Robust orchestration (e.g., iterative feedback loops between agents). Deep theoretical understanding of parameters (temperature, context window) and clear proof that the multi-agent approach significantly outperformed the baseline.
@@ -69,11 +71,13 @@ Grade | Requirements
 
 #### Project type 2
 
+Create (Train/Fine-tune) an efficient LLM for your specific task.
+
 Task | Grade 3 | Grade 4 | Grade 5 
 --- | --- | --- | --- 
 Data | You need data your project. |  Exploratory data analysis (Visualization) | 
-Preprocess | The code should include preprocessing steps. (Text cleaning, Feature Engineering, Tokenization, Vectorization, Training, validation, and test data preparation) | UnitTest, Visualization | 
-Model | Train a machine learning model on the data. | | Use more models, at least 3
+Preprocess | The code should include preprocessing steps. (Cureate the data) | UnitTest, Visualization | 
+Model | Train a LLM model on the data. | | Use more models, at least 3
 Evaluate | Evaluate your model on your test data. | Complex Benchmarking |
 Application | Package your model into an application. Present the your pipeline and use the technical term / keywords correctly. | | Create a conclusion. Explain how your model works. Present the limitations and opportunities for further development.
 
