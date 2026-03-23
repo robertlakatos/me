@@ -84,6 +84,7 @@ Grade | Requirements
 - V.    [Prompting RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/prompting-rlhf.pdf) - podcast [hu](https://youtu.be/xQTA4Tjvidc) / [en](https://youtu.be/3K_cRNOq5vI)
 - VI.   [Life After DPO](https://robertlakatos.github.io/me/materials/NLP-A/lectures/life-after-dpo-lambert.pdf)
 - VI.   [Training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/training.pdf)
+- VII. [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
 
 ## Labor
 
@@ -98,6 +99,10 @@ Grade | Requirements
 - IV    [Transformers](https://colab.research.google.com/drive/13ypN4qvbdMUFREZKAF-U1f0d0aYn7U_Z) - (online)
 - V.    [GPT](https://colab.research.google.com/drive/1IL5zR6215l0WmTi84GorO5d-N1XQOPm9) - (online)
 - VI.   [BERT](https://colab.research.google.com/drive/1QdXMVKzw0xxmIG9BrhGbbjIK37bksIK0)
+
+### Efficient
+
+- VII.  [Parameter Efficient Fine Tuning (PEFT)](https://colab.research.google.com/drive/1nIAO0-DsfZqo9SDz_9sTr7uzqK57dWQp)
 
 ## Submitted
 
