@@ -57,6 +57,8 @@ A key part of this project is understanding the transition from "Prompt Engineer
 
 ### Evaluation
 
+#### Project type 1
+
 Grade | Requirements
 --- | --- | ---
 5 (Excellent)	| Outstanding original idea. Robust orchestration (e.g., iterative feedback loops between agents). Deep theoretical understanding of parameters (temperature, context window) and clear proof that the multi-agent approach significantly outperformed the baseline.
@@ -64,6 +66,16 @@ Grade | Requirements
 3 (Fair) | Practitioner	Clearly defined roles with distinct System Prompts. The notebook is well-documented and the comparison between the "single chat" and "multi-agent" results is present.
 2 (Pass) | Basic implementation of two agents (e.g., Writer + Editor). The code runs on Ollama, but agent differentiation is minimal. The video explains the "how" but struggles with the "why" regarding agentic workflows.
 1 (Fail) | The system does not run locally, uses only one agent, or lacks the required video/notebook components. The submission was after the deadline.
+
+#### Project type 2
+
+Task | Grade 3 | Grade 4 | Grade 5 
+--- | --- | --- | --- 
+Data | You need data your project. |  Exploratory data analysis (Visualization) | 
+Preprocess | The code should include preprocessing steps. (Text cleaning, Feature Engineering, Tokenization, Vectorization, Training, validation, and test data preparation) | UnitTest, Visualization | 
+Model | Train a machine learning model on the data. | | Use more models, at least 3
+Evaluate | Evaluate your model on your test data. | Complex Benchmarking |
+Application | Package your model into an application. Present the your pipeline and use the technical term / keywords correctly. | | Create a conclusion. Explain how your model works. Present the limitations and opportunities for further development.
 
 ### Submission
 
