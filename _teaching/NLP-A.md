@@ -101,7 +101,8 @@ Application | Package your model into an application. Present the your pipeline 
 - VI.   [Life After DPO](https://robertlakatos.github.io/me/materials/NLP-A/lectures/life-after-dpo-lambert.pdf)
 - VI.   [Training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/training.pdf)
 - VII.  [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
-- IX.   [Natural Language to Code Generation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/code-generation-pengcheng-yin.pdf)
+- IX.   [Evaluation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/evaluation.pdf)
+- IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
 
 ## Labor
 
