@@ -100,7 +100,8 @@ Application | Package your model into an application. Present the your pipeline 
 - V.    [Prompting RLHF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/prompting-rlhf.pdf) - podcast [hu](https://youtu.be/xQTA4Tjvidc) / [en](https://youtu.be/3K_cRNOq5vI)
 - VI.   [Life After DPO](https://robertlakatos.github.io/me/materials/NLP-A/lectures/life-after-dpo-lambert.pdf)
 - VI.   [Training](https://robertlakatos.github.io/me/materials/NLP-A/lectures/training.pdf)
-- VII. [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
+- VII.  [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
+- IX.   [Natural Language to Code Generation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/code-generation-pengcheng-yin.pdf)
 
 ## Labor
 
@@ -119,6 +120,7 @@ Application | Package your model into an application. Present the your pipeline 
 ### Efficient
 
 - VII.  [Parameter Efficient Fine Tuning (PEFT)](https://colab.research.google.com/drive/1nIAO0-DsfZqo9SDz_9sTr7uzqK57dWQp)
+- VIII. [Low Rank Adaptation (LoRA/PEFT)](https://colab.research.google.com/drive/12S3Hmk8UkoX111Ly_Ulo0vVi4aEoI4XT)
 
 ## Submitted
 
