@@ -68,3 +68,4 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 - VI.   [Felügyelt tanulás (osztályozás)](https://colab.research.google.com/drive/1HDPI4snX-5vdq4rQ0sREaJM-3Iz_Yf1C#scrollTo=17A1EGSZ-qwq)
 - VII.  [Felügyelt tanulás (regresszió)](https://colab.research.google.com/drive/1HiQrgiTK9275k340lqpe-gVXwmhuluHi#scrollTo=5H-qjdMA_hy8)
+- VIII. [Nem felügyelt tanulás](https://colab.research.google.com/drive/14QVSKe8tz2NmqucQLPIsVMYOcKWsD25a)

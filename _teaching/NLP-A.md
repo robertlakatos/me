@@ -103,6 +103,7 @@ Application | Package your model into an application. Present the your pipeline 
 - VII.  [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
 - IX.   [Evaluation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/evaluation.pdf)
 - IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
+- X.   [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
 
 ## Labor
 
@@ -122,6 +123,10 @@ Application | Package your model into an application. Present the your pipeline 
 
 - VII.  [Parameter Efficient Fine Tuning (PEFT)](https://colab.research.google.com/drive/1nIAO0-DsfZqo9SDz_9sTr7uzqK57dWQp)
 - VIII. [Low Rank Adaptation (LoRA/PEFT)](https://colab.research.google.com/drive/12S3Hmk8UkoX111Ly_Ulo0vVi4aEoI4XT)
+
+### LLM based AI application
+
+- IX.   [Local AI](https://colab.research.google.com/drive/1Rlfd8uw0y-2epFxhSYTfvxo9Rz6LODfy#scrollTo=0dc4b4ae)
 
 ## Submitted
 
