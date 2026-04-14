@@ -103,7 +103,7 @@ Application | Package your model into an application. Present the your pipeline 
 - VII.  [Efficient Adaptation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/adaptation.pdf)
 - IX.   [Evaluation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/evaluation.pdf)
 - IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
-- X.   [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
+- X.    [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
 
 ## Labor
 

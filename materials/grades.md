@@ -6,6 +6,10 @@ KCRMSH | Milák Dénes Sándor     |   2
 E8PIZS | Varga Albert Sándor    |   1
 RVPNH2 |                        |   0.5
 CYF65U | Barta Gergő            |   0.5
+YOYC0C | Tímea Menyhárt         |   0.5
+BMLPAG | Molnár Milán           |   0.5
+WUEXFL | Csobi László           |   0.5
+RG1BUN | Székely András Gergő   |   0.5
 
 
 ## 2026 - ANLP - Levelező
