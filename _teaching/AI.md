@@ -55,10 +55,10 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 ### Szimbolikus MI
 
 - I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](https://colab.research.google.com/drive/13H4bUl6n_T8p-ymUY9NKTvNm4Lg3VdGu)
-- II.   [Informált és Nem Informált algoritmusok](https://colab.research.google.com/drive/1T2OABWgFnMvmdERa7Nwfft1xfqre2RFn#scrollTo=Q6QRf6tkxAHT)
-- II.   [Hands-on](https://colab.research.google.com/drive/1QfpPr50Xx_9TJTvAoxYIT6pdhwIMmpN_#scrollTo=LWJ9O6JU3RL1)
-- III.  [Nem Informált gráf keresők](https://colab.research.google.com/drive/1ZeCC5ZoQ1WtCUsrgNCUAlHyKUzk-rN20#scrollTo=ML8asS4w-vAV)
-- IV.   [Informált gráf keresők](https://colab.research.google.com/drive/1G_5M9TehfC8h6qFlGQP_VfKJKLXGq_-p#scrollTo=buUT_3uIazTy)
+- II.   [Informált és Nem Informált algoritmusok](https://colab.research.google.com/drive/1T2OABWgFnMvmdERa7Nwfft1xfqre2RFn)
+- II.   [Hands-on](https://colab.research.google.com/drive/1QfpPr50Xx_9TJTvAoxYIT6pdhwIMmpN_)
+- III.  [Nem Informált gráf keresők](https://colab.research.google.com/drive/1ZeCC5ZoQ1WtCUsrgNCUAlHyKUzk-rN20)
+- IV.   [Informált gráf keresők](https://colab.research.google.com/drive/1G_5M9TehfC8h6qFlGQP_VfKJKLXGq_-p)
 
 ### Automatikus következtetés
 
@@ -69,3 +69,4 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - VI.   [Felügyelt tanulás (osztályozás)](https://colab.research.google.com/drive/1HDPI4snX-5vdq4rQ0sREaJM-3Iz_Yf1C#scrollTo=17A1EGSZ-qwq)
 - VII.  [Felügyelt tanulás (regresszió)](https://colab.research.google.com/drive/1HiQrgiTK9275k340lqpe-gVXwmhuluHi#scrollTo=5H-qjdMA_hy8)
 - VIII. [Nem felügyelt tanulás](https://colab.research.google.com/drive/14QVSKe8tz2NmqucQLPIsVMYOcKWsD25a)
+- IX.   [Megerősítéses tanulás](https://colab.research.google.com/drive/1Xt0r8YRcZ2MULM6bdtjn3zhE69Kjw5gH)

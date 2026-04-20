@@ -104,6 +104,7 @@ Application | Package your model into an application. Present the your pipeline 
 - IX.   [Evaluation](https://robertlakatos.github.io/me/materials/NLP-A/lectures/evaluation.pdf)
 - IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
 - X.    [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
+- XI.  [Agents](https://robertlakatos.github.io/me/materials/NLP-A/lectures/agents.pdf)
 
 ## Labor
 

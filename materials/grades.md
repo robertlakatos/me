@@ -10,6 +10,10 @@ YOYC0C | Tímea Menyhárt         |   0.5
 BMLPAG | Molnár Milán           |   0.5
 WUEXFL | Csobi László           |   0.5
 RG1BUN | Székely András Gergő   |   0.5
+X2LSLL | Goda Dominik           |   0.5
+O8KJR7 | Fekete Ákos            |   0.5
+CXNOLK | Bacskóczky László      |   0.5
+RP88LS | Szabó Lili             |   0.5
 
 
 ## 2026 - ANLP - Levelező
