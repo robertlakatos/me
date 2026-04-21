@@ -105,7 +105,6 @@ Application | Package your model into an application. Present the your pipeline 
 - IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
 - X.    [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
 - XI.   [Agents](https://robertlakatos.github.io/me/materials/NLP-A/lectures/agents.pdf)
-- XII.  [Streaming-Thinking](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
 
 ## Labor
 
@@ -129,6 +128,7 @@ Application | Package your model into an application. Present the your pipeline 
 ### LLM based AI application
 
 - IX.   [Local AI](https://colab.research.google.com/drive/1Rlfd8uw0y-2epFxhSYTfvxo9Rz6LODfy#scrollTo=0dc4b4ae)
+- X.    [Streaming-Thinking](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
 
 ## Submitted
 
