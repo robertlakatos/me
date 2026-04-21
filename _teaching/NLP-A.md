@@ -128,7 +128,7 @@ Application | Package your model into an application. Present the your pipeline 
 ### LLM based AI application
 
 - IX.   [Local AI](https://colab.research.google.com/drive/1Rlfd8uw0y-2epFxhSYTfvxo9Rz6LODfy#scrollTo=0dc4b4ae)
-- X.    [Streaming-Thinking](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
+- X.    [Thinking and Streaming - Agent](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
 
 ## Submitted
 
