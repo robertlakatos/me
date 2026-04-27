@@ -25,7 +25,6 @@ C9YUAV | Piskó Gergő            |   0.5
 MIL8I8 | Müller Róbert          |   0.5
 TUSGQV | Hegyi Ivett            |   1.0
 
-
 ## 2026 - ANLP - Levelező
 
 NK     |    Név                 |   Jegy
