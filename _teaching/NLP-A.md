@@ -105,6 +105,7 @@ Application | Package your model into an application. Present the your pipeline 
 - IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
 - X.    [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
 - XI.   [Agents](https://robertlakatos.github.io/me/materials/NLP-A/lectures/agents.pdf)
+- X.   [Hardware-aware Algorithms for Sequence Modeling](https://robertlakatos.github.io/me/materials/NLP-A/lectures/hardware-aware.pdf)
 
 ## Labor
 
