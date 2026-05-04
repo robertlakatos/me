@@ -39,5 +39,7 @@ QP4NL6 | Orosz Réka Ildikó      |   5
 GXWNFE | Vinkleer Fanni         |   5
 QFFOK2 | Varga Bence Gyula      |   5
 SKGWDI | Hallók Eszter          |   5
-ZJ0GQC | Birkás Gergő vagyok    |   5
+ZJ0GQC | Birkás Gergő           |   5
 J5CJAR | Juhász Kristóf         |   5
+OZAR5H | Bálint Bence           |   5
+J0XTSV | Karasi Krisztián       |   5

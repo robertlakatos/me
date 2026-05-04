@@ -44,11 +44,15 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ### Kérdés típusok:
 
-    1. Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása. (2 pont)
-    2. Keresők egy hiányos keresőt kell kiegészíteni: Trial error, hegymászó, mélységi, szélleségi, backtrack stb... (2 pont)
-    3. Neuralis halozatok: Egy egyszerű adathalmazra kell felépíteni a NN modellt Keras-ban. (2 pont)
-    4. Reinforcement learning: Q fgv vagy tábla formálisan meg van adva és azt kell implementálni (learn és act függvények implementálása). (2 pont)
-    5. Elméleti kérdés a gyakorlati anyag témáiból: Állapottér-reprezentáció, nem informált algoritmusok, informált algorutmusok, Kényszerkielégtés, Lépésajánlás, Naiv Bayes, Neurális hálók, Megerősítéses tanulás. (2 pont)
+- Szimbolikus MI: 
+    - Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása.
+    - Állapottér definició: Fel kell írni egy tetszőleges porbléma állapotterének jellemzőit valamint kezdő és célállapotát.
+    - Gráf/fa alapú keresési algoritmus: Trial error, hegymászó, mélységi, szélleségi, min-max
+- Automatizált következtetési algorimtus: Backtraking
+- Gépi és Mélytanulás: 
+    - Felügyelt tanulás: Egy egyszerű adathalmazra kell felépíteni egy Bayes, Regresziós vagy NN modellt.
+    - Nem-felügyelt tanulás: Egy egyszerű adathalmazra kell felépíteni egy klaszterező modellt.
+    - Megerősítéses tanulás: Q fgv vagy tábla formálisan meg van adva és azt kell implementálni (learn és act függvények implementálása)
 
 ## Labor
 
