@@ -84,7 +84,7 @@ Application | Package your model into an application. Present the your pipeline 
 ### Submission
 
 - **Submission deadline: 2026.05.24**
-- [**Submission form**]()
+- [**Submission form**](https://forms.office.com/e/u4Q3wsmvxb?origin=lprLink)
 
 ## Lecture
 
@@ -105,7 +105,7 @@ Application | Package your model into an application. Present the your pipeline 
 - IX.   [Evaluation - Example: Arcprize](https://arcprize.org)
 - X.    [Human-Centered NLPF](https://robertlakatos.github.io/me/materials/NLP-A/lectures/human-centered-nlp.pdf)
 - XI.   [Agents](https://robertlakatos.github.io/me/materials/NLP-A/lectures/agents.pdf)
-- X.   [Hardware-aware Algorithms for Sequence Modeling](https://robertlakatos.github.io/me/materials/NLP-A/lectures/hardware-aware.pdf)
+- X.    [Hardware-aware Algorithms for Sequence Modeling](https://robertlakatos.github.io/me/materials/NLP-A/lectures/hardware-aware.pdf)
 
 ## Labor
 
@@ -130,6 +130,8 @@ Application | Package your model into an application. Present the your pipeline 
 
 - IX.   [Local AI](https://colab.research.google.com/drive/1Rlfd8uw0y-2epFxhSYTfvxo9Rz6LODfy#scrollTo=0dc4b4ae)
 - X.    [Thinking and Streaming - Agent](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
+- XI.   [Structured Output](https://colab.research.google.com/drive/1P56xUWbLxMQbCKa-sCvuo4DmLqXtSsK0)
+- XI.   [WebSearch](https://colab.research.google.com/drive/1AQd_NhnLvfRBSIiwC6iPXr8YflUNmLNG)
 
 ## Submitted
 
