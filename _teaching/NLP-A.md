@@ -132,11 +132,12 @@ Application | Package your model into an application. Present the your pipeline 
 - X.    [Thinking and Streaming - Agent](https://colab.research.google.com/drive/1QmtXsa_zdxP3bl4DyQq7ZabrJckNHw_n)
 - XI.   [Structured Output](https://colab.research.google.com/drive/1P56xUWbLxMQbCKa-sCvuo4DmLqXtSsK0)
 - XI.   [WebSearch](https://colab.research.google.com/drive/1AQd_NhnLvfRBSIiwC6iPXr8YflUNmLNG)
-- XII. [Retrieval Augmented Generation](https://colab.research.google.com/drive/1kXGgFkjzj7tT9ZNLZ1lnSo8UolYyc8SI) - (online)
+- XII.  [Retrieval Augmented Generation](https://colab.research.google.com/drive/1kXGgFkjzj7tT9ZNLZ1lnSo8UolYyc8SI) - (online)
 
 ## Submitted
 
-- [2025 Spring](../materials/NLP-A/submitted/2025-1)
+- [2026 Spring](../materials/NLP-A/submitted/2026/2026-1)
+- [2025 Spring](../materials/NLP-A/submitted/2025/2025-1)
 
 ## Usefull Links
 
