@@ -88,7 +88,8 @@ This course delves into advanced concepts of Natural Language Processing (NLP) a
 
 ## Submitted
 
-- [2025 Spring](../materials/NLP-A/submitted/2025-1)
+- [2026 Spring](../materials/NLP-A/submitted/2026/2026-1)
+- [2025 Spring](../materials/NLP-A/submitted/2025/2025-1)
 
 ## Usefull Links
 
