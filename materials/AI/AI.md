@@ -14,9 +14,23 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 
 ## [Email address of the Teacher](mailto:lakatos.robert@inf.unideb.hu)
 
+## Konzultációk
+
+- Monday / Hétfő - 14:00 - 15:30 - IK 107 (in the classroom / teremben)
+- Monday / Hétfő - 15:30 - 16:00 - IK I128 (in the office / irodában)
+- Monday / Hétfő - 16:00 - 17:30 - IK 204 (in the classroom / teremben)
+- Monday / Hétfő - 17:30 - 18:00 - IK I128 (in the office / irodában)
+- Monday / Hétfő - 18:00 - 19:30 - IK 204 (in the classroom / teremben)
+
+- Tuesday / Kedd - 14:00 - 15:30 - IK 132 (in the classroom / teremben)
+- Tuesday / Kedd - 15:30 - 16:00 - IK I128 (in the office / irodában)
+- Tuesday / Kedd - 16:00 - 17:30 - IK TEOKJ II. em. 109 (in the classroom / teremben)
+- Tuesday / Kedd - 17:30 - 18:00 - IK I128 (in the office / irodában)
+- Tuesday / Kedd - 18:00 - 19:30 - IK TEOKJ II. em. 106 (in the classroom / teremben)
+
 ## [Attendance sheet](https://forms.cloud.microsoft/e/Ek0iSB0fjC?origin=lprLink)
 
-## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/EYKe7oC0eTVOkJXg2xjAZWoBENcHlhuEiFHCRYR9SxxmkA?e=ApkACz)
+## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqASFjuU1MguAOZNI0A8oSHlY?e=B3IZ3O)
 
 ## Követelmények
 
@@ -28,31 +42,27 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - Legfeljebb 3 hiányzás megengedett.
 - Az utolsó gyakorlat során zárthelyi dolgozat formájában. A ZH-n szerzett pontok 0.4-es súllyal kerülnek beszámításra a végső érdemjegybe.
 
-### Jegyek
-
-- 0-5 pont = 1
-- 6 pont = 2
-- 7 pont = 3
-- 8 pont = 4
-- 9-10 pont = 5
-
 ### Kérdés típusok:
 
-    1. Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása. (2 pont)
-    2. Keresők egy hiányos keresőt kell kiegészíteni: Trial error, hegymászó, mélységi, szélleségi, backtrack stb... (2 pont)
-    3. Neuralis halozatok: Egy egyszerű adathalmazra kell felépíteni a NN modellt Keras-ban. (2 pont)
-    4. Reinforcement learning: Q fgv vagy tábla formálisan meg van adva és azt kell implementálni (learn és act függvények implementálása). (2 pont)
-    5. Elméleti kérdés a gyakorlati anyag témáiból: Állapottér-reprezentáció, nem informált algoritmusok, informált algorutmusok, Kényszerkielégtés, Lépésajánlás, Naiv Bayes, Neurális hálók, Megerősítéses tanulás. (2 pont)
+- Szimbolikus MI: 
+    - Kész allapottér reprezentáció alapján implementáció kiegészítése: Operator hatásdefinició implementálása.
+    - Állapottér definició: Fel kell írni egy tetszőleges porbléma állapotterének jellemzőit valamint kezdő és célállapotát.
+    - Gráf/fa alapú keresési algoritmus: Trial error, hegymászó, mélységi, szélleségi, min-max
+- Automatizált következtetési algorimtus: Backtraking
+- Gépi és Mélytanulás: 
+    - Felügyelt tanulás: Egy egyszerű adathalmazra kell felépíteni egy Bayes, Regresziós vagy NN modellt.
+    - Nem-felügyelt tanulás: Egy egyszerű adathalmazra kell felépíteni egy klaszterező modellt.
+    - Megerősítéses tanulás: Q fgv vagy tábla formálisan meg van adva és azt kell implementálni (learn és act függvények implementálása)
 
 ## Labor
 
 ### Szimbolikus MI
 
 - I.    [Állapottér reprezentáció, Problem és Node osztály implelemtálása](https://colab.research.google.com/drive/13H4bUl6n_T8p-ymUY9NKTvNm4Lg3VdGu)
-- II.   [Informált és Nem Informált algoritmusok](https://colab.research.google.com/drive/1T2OABWgFnMvmdERa7Nwfft1xfqre2RFn#scrollTo=Q6QRf6tkxAHT)
-- II.   [Hands-on](https://colab.research.google.com/drive/1QfpPr50Xx_9TJTvAoxYIT6pdhwIMmpN_#scrollTo=LWJ9O6JU3RL1)
-- III.  [Nem Informált gráf keresők](https://colab.research.google.com/drive/1ZeCC5ZoQ1WtCUsrgNCUAlHyKUzk-rN20#scrollTo=ML8asS4w-vAV)
-- IV.   [Informált gráf keresők](https://colab.research.google.com/drive/1G_5M9TehfC8h6qFlGQP_VfKJKLXGq_-p#scrollTo=buUT_3uIazTy)
+- II.   [Informált és Nem Informált algoritmusok](https://colab.research.google.com/drive/1T2OABWgFnMvmdERa7Nwfft1xfqre2RFn)
+- II.   [Hands-on](https://colab.research.google.com/drive/1QfpPr50Xx_9TJTvAoxYIT6pdhwIMmpN_)
+- III.  [Nem Informált gráf keresők](https://colab.research.google.com/drive/1ZeCC5ZoQ1WtCUsrgNCUAlHyKUzk-rN20)
+- IV.   [Informált gráf keresők](https://colab.research.google.com/drive/1G_5M9TehfC8h6qFlGQP_VfKJKLXGq_-p)
 
 ### Automatikus következtetés
 
@@ -64,11 +74,4 @@ Artificial Intelligence (AI) has a rich history deeply rooted in scientific expl
 - VII.  [Felügyelt tanulás (regresszió)](https://colab.research.google.com/drive/1HiQrgiTK9275k340lqpe-gVXwmhuluHi#scrollTo=5H-qjdMA_hy8)
 - VIII. [Nem felügyelt tanulás](https://colab.research.google.com/drive/14QVSKe8tz2NmqucQLPIsVMYOcKWsD25a)
 - IX.   [Megerősítéses tanulás](https://colab.research.google.com/drive/1Xt0r8YRcZ2MULM6bdtjn3zhE69Kjw5gH)
-- X.    [Mély tanulás](https://colab.research.google.com/drive/1zgGXwBk1z8irqvD5OcjavqkZ6OCmoxJh#scrollTo=XyBVaCTkDR4S)
-
-### Játékok
-
-- XI.   [Kétszemlyes játékok](https://colab.research.google.com/drive/1_ZhxrIRCeukK_dLF8QVEPDxSb0GHb8lW)  
-- XII.  [Mély megerősítéses tanulás](https://colab.research.google.com/drive/16EAvrNNGkubnt9RFO-mhncgqzGL7OfqJ)
-- XIII. [Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]
-- IX.   [Pót Jegymegajánló (Zárthelyi/Elővizsga) dolgozat]
+- X.    [Mély tanulás](https://colab.research.google.com/drive/1zgGXwBk1z8irqvD5OcjavqkZ6OCmoxJh)
