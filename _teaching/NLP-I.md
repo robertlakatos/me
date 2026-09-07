@@ -30,7 +30,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which you have to submit in video and code format. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video is a single file, smaller than 50MB, and The maximum length of the video is 5-10 minutes.
 - 3rd grade: Attempting a proctored exam at least once. (3 times free)
 - 4th grade and university certificate: Successfully passing a proctored exam.
-- 5th grade: Obtaining an NVIDIA certificate.
+- 5th grade: Obtaining an NVIDIA certificate (Adding New Knowledge to LLMs).
 
 **Important: If someone obtains the NVIDIA certificate but does not obtain a university certificate, it is still only a 3rd grade. You cannot skip a level!**
 
