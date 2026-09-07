@@ -1,14 +1,14 @@
 ---
-title: "Introduction to Natural Language Text Processing"
+title: "Generative Networks"
 collection: teaching
 type: "B.Sc course"
-permalink: teaching/NLP-I
+permalink: /teaching/GENN
 venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2026-09-04
 location: "Debrecen, Hungary"
 ---
 
-Within the framework of the subject, students will learn about the basics of natural language text processing (NLP). In addition, they also gain practical experience while solving various tasks. Main topics: logistic regression, naive Bayes model, PCA, n-gram models, Word2Vec, multiperception, CNN, recurrent or transformer-based neural networks. Furthermore, during the subject's completion, students can gain insight into current neural architectures. During the semester, students will also have the opportunity to test and train these architectures on real data using cloud-based services [(Google Collab)](https://colab.google/). Moreover, the student gains advanced knowledge of transformer-based large language models through the NVIDIA lectures, for which they can obtain NVIDIA and university certifications.
+The course aims for students to gain deep knowledge of modern theoretical methods and technological implementations linked to generative methodologies. With the help of the necessary software and hardware device systems, students learn about the theoretical and practical backgrounds of the components of generative methodologies, basic generative networks in the PyTorch environment, DCGAN that also uses advanced convolution layers, GAN control, and the creation of conditional GANs. With the help of the course, students learn about advanced GAN programming in a practice-oriented way, such as data augmentation, protection of personal data, or the use of GAN applications in questionnaires. The course pays special attention to complex solutions, including measuring the comparability of generative models, realism and diversification, the detection of bias, or implementing different style transfer techniques (Pix2Pix, CycleGAN, StyleGAN). Students work on pre-agreed project tasks within the areas of generative methodology applications.
 
 ======
 
@@ -24,8 +24,6 @@ Within the framework of the subject, students will learn about the basics of nat
 ## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqASFjuU1MguAOZNI0A8oSHlY?e=B3IZ3O)
 
 ## Requirements
-
-### Evaluation
 
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which you have to submit in video and code format. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video is a single file, smaller than 50MB, and The maximum length of the video is 5-10 minutes.
 - 3rd grade: Attempting a proctored exam at least once. (3 times free)
@@ -53,29 +51,14 @@ Within the framework of the subject, students will learn about the basics of nat
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
 ## Labor
- 
-- I. [Text cleaning](https://colab.research.google.com/drive/10-elAxQ67cDiqjnGio_rXMhIkGKkPEGH)
 
-## Submitted
-
-- [2025 Autumn Videos](../materials/NLP-I/submitted/2025-2-videos)
-- [2024 Autumn Videos](../materials/NLP-I/submitted/2024-2-videos)
-- [2023 Autumn Videos](../materials/NLP-I/submitted/2023-2-videos)
-
-## Usefull Links
-
-- [Huggingface](https://huggingface.co/)
-- [Keras](https://keras.io/)
-- [Tensorflow](https://www.tensorflow.org/)
-- [Pytorch](https://pytorch.org/)
-- [Pyton](https://www.python.org/)
-- [Google Colab](https://colab.google/)
+- I.  [Neural Network](https://colab.research.google.com/drive/1SrdiqJt9UvF81rpKpF_xaNF9_GxbPpn5)
+- II. [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)
 
 ## Recommended Literatures and Courses
 
-1. [Jurafsky, Daniel, and James H. Martin. "Speech and language processing (draft)." Chapter A: Hidden Markov Models (Draft of September 11, 2018). Retrieved March 19 (2018): 2019.](https://ms.b-ok.xyz/book/3560643/4a6ab2)
-2. [Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
-3. [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
-4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
-5. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
-6. [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+[Jakub Langr and Vladimir Bok: GANs in Action, Manning, 2019.](https://www.amazon.com/GANs-Action-learning-Generative-Adversarial/dp/1617295566)
+[David Foster: Generative Deep Learning, Oreilly, 2019.](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
+[Kailash Ahirwar: Generative Adversarial Networks Projects, Packt, 2019.](https://www.amazon.com/Generative-Adversarial-Networks-Projects-next-generation/dp/1789136679)
+[I. Goodfellow, Y. Bengio, A. Courville: Deep Learning, MIT Press, 2016.](https://www.deeplearningbook.org/)
+[Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach, 4th US ed., Pearson, 2020.](https://aima.cs.berkeley.edu/)

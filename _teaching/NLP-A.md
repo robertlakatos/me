@@ -7,5 +7,3 @@ venue: "University of Debrecen, Department of Data Science and Visualization"
 date: 2026-09-04
 location: "Debrecen, Hungary"
 ---
-
-## Closed
