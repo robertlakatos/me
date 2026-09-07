@@ -54,7 +54,7 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Labor
  
-- I. [Text cleaning](https://colab.research.google.com/drive/10-elAxQ67cDiqjnGio_rXMhIkGKkPEGH)
+- I. [Text cleaning](https://colab.research.google.com/drive/1QhghhzwDliCOMkRygSLfv5fLKT4Mjro1)
 
 ## Submitted
 
