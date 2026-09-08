@@ -30,7 +30,7 @@ location: "Debrecen, Hungary"
 - Cosine similarity
 - Embedded vectors
 
-## What is a pattern recognition system?
+## What is a AI?
 
 ## Practice (Google Gemini, ChatGPT, Claude). We see tha main components
 
