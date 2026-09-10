@@ -53,7 +53,6 @@ The course aims for students to gain deep knowledge of modern theoretical method
 ## Labor
 
 - I.  [Neural Network](https://colab.research.google.com/drive/1SrdiqJt9UvF81rpKpF_xaNF9_GxbPpn5)
-- II. [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)
 
 ## Recommended Literatures and Courses
 

@@ -19,3 +19,7 @@ The course aims for students to gain deep knowledge of modern theoretical method
 [Kailash Ahirwar: Generative Adversarial Networks Projects, Packt, 2019.](https://www.amazon.com/Generative-Adversarial-Networks-Projects-next-generation/dp/1789136679)
 [I. Goodfellow, Y. Bengio, A. Courville: Deep Learning, MIT Press, 2016.](https://www.deeplearningbook.org/)
 [Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach, 4th US ed., Pearson, 2020.](https://aima.cs.berkeley.edu/)
+
+Labors
+
+- II. [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)

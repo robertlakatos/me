@@ -42,7 +42,9 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
-- I.    [Introduction to AI and large language models (LLMs).](../materials/AIPD/labor/I-theoretical-background)
+- I.  [Introduction to AI and large language models (LLMs).](../materials/AIPD/labor/I-theoretical-background)
+- II. [-Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/14GbPP9oC2JZHEk2zaOBj84G4CGRO8G4T)
+
 - II.   [Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.](../materials/AIPD/labor/I-introduction)
 - III.  [Prompt Engineering - Base](../materials/AIPD/labor/III-pe-base)
 - IV.   [Prompt Engineering - Advanced](../materials/AIPD/labor/IV-pe-advanced)

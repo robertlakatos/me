@@ -55,6 +55,9 @@ Application | Package your model into an application. Present the your pipeline 
 
 ## Labor
  
+- II. [Tokenization](https://colab.research.google.com/drive/1eGKpNV4mVnX35beXJRQuX1G5nbm9Un9q)
+
+
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
 - N.    [Numpy and Matplotlib](../materials/NLP-I/labor/N-numpy-and-matplotlib)
 - N.    [Pandas Intro](../materials/NLP-I/labor/N-pandas)
