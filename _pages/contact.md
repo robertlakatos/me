@@ -24,7 +24,7 @@ author_profile: true
 - Tuesday / Hétfő - 12:00 - 13:30 - IK F05
 - Tuesday / Hétfő - 14:00 - 15:30 - IK 203
 - Tuesday / Hétfő - 16:00 - 17:30 - IK 203
-- Tuesday / Hétfő - 18:00 - 19:30 - IK 103
+- Tuesday / Hétfő - 18:00 - 19:30 - IK 207
 
 ## Exam Period
 
