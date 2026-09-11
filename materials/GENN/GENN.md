@@ -12,6 +12,15 @@ The course aims for students to gain deep knowledge of modern theoretical method
 
 ======
 
+Labors
+
+- II.  [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)
+- III. [U-Net](https://colab.research.google.com/drive/1aYC0B7eTiRn2AYEhRkzQm-bhq0986BFs)
+- IV.  [Diffusion Model](https://colab.research.google.com/drive/1MCEA8eQFczoULia1nld4XO6ZUuWbCzBB)
+- V.   [Optimizations](https://colab.research.google.com/drive/11zVZVmNvCtSuUohVYpcEL1yr_Qp9iw49) 
+- VI.  [Classifier Free Diffusion](https://colab.research.google.com/drive/1gtX3GO2zviz9N66Xa1ubxINULqNzUYld)
+- VII. [CLIP](https://colab.research.google.com/drive/1Kt60rEIJYpDyCUfVAZCUm53Dxq8IHqUd)
+
 ## Recommended Literatures and Courses
 
 [Jakub Langr and Vladimir Bok: GANs in Action, Manning, 2019.](https://www.amazon.com/GANs-Action-learning-Generative-Adversarial/dp/1617295566)
@@ -19,7 +28,3 @@ The course aims for students to gain deep knowledge of modern theoretical method
 [Kailash Ahirwar: Generative Adversarial Networks Projects, Packt, 2019.](https://www.amazon.com/Generative-Adversarial-Networks-Projects-next-generation/dp/1789136679)
 [I. Goodfellow, Y. Bengio, A. Courville: Deep Learning, MIT Press, 2016.](https://www.deeplearningbook.org/)
 [Stuart Russell and Peter Norvig: Artificial Intelligence: A Modern Approach, 4th US ed., Pearson, 2020.](https://aima.cs.berkeley.edu/)
-
-Labors
-
-- II. [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)
