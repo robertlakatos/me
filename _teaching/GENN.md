@@ -52,7 +52,17 @@ The course aims for students to gain deep knowledge of modern theoretical method
 
 ## Labor
 
-- I.  [Neural Network](https://colab.research.google.com/drive/1SrdiqJt9UvF81rpKpF_xaNF9_GxbPpn5)
+- I.    [Neural Network](https://colab.research.google.com/drive/1SrdiqJt9UvF81rpKpF_xaNF9_GxbPpn5)
+- II.   [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)
+- III.  [U-Net](https://colab.research.google.com/drive/1aYC0B7eTiRn2AYEhRkzQm-bhq0986BFs)
+- IV.   [Diffusion Model](https://colab.research.google.com/drive/1MCEA8eQFczoULia1nld4XO6ZUuWbCzBB)
+- V.    [Optimizations](https://colab.research.google.com/drive/11zVZVmNvCtSuUohVYpcEL1yr_Qp9iw49) 
+- VI.   [Classifier Free Diffusion](https://colab.research.google.com/drive/1gtX3GO2zviz9N66Xa1ubxINULqNzUYld)
+- VII.  [Text Cleaning](https://colab.research.google.com/drive/1uP4vL8KjppUAbxShM1k4ZfbRYVBgZJ4q)
+- VIII. [Tokenization](https://colab.research.google.com/drive/1zHYwCWzKef1ob9HX1RBPwIwKqWlKerNe)
+- IX.   [Text Generation with RNN](https://colab.research.google.com/drive/1riDCXcRHys12Ya7Z_J-UtLIEmPkIJ4Do)
+- X.    [Transformers - LLM](https://colab.research.google.com/drive/1xNs_qNgg1wA7-LABP_Zd54V1SNQ0NUKh)
+- XI.   [CLIP](https://colab.research.google.com/drive/1Kt60rEIJYpDyCUfVAZCUm53Dxq8IHqUd)
 
 ## Recommended Literatures and Courses
 
