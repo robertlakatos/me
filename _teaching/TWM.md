@@ -8,7 +8,7 @@ date: 2026-09-12
 location: "Debrecen, Hungary"
 ---
 
-Sillabusz
+This twelve-week course redefines text mining for the generative artificial intelligence era, demonstrating how modern neural architectures revolutionize the discovery of hidden patterns, trends, and actionable knowledge within massive unstructured text corpora. While classical text mining relied heavily on term frequencies and rigid keyword matching, this curriculum teaches students to leverage dense embeddings, vector databases, and large language models to uncover deep semantic relationships and context. Through hands-on Python laboratories, participants will learn to modernize fundamental text mining pipelines—such as document clustering, topic modeling, and sentiment analysis—using advanced transformer models. The syllabus emphasizes that contemporary techniques such as Retrieval-Augmented Generation, neural named entity recognition, and knowledge graph construction are the new industry standards for extracting meaning and transforming raw text into structured business intelligence. By culminating in the development of autonomous AI agent workflows, students will master scaling and automating complex text-mining tasks, ultimately bridging the gap between vast textual data streams and strategic enterprise decision-making.
 
 ======
 
@@ -21,7 +21,11 @@ Sillabusz
 
 ## Requirements
 
-...
+- Signature: Fewer absences than allowed. Active participation in classes. 
+- Grade: Presentation of the completed project assignment, which you have to submit in video and code format. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video is a single file, smaller than 50MB, and no longer than 3-5 minutes.
+- 3rd grade: Simple transformer fine-tuning and evaluation on own dataset.
+- 4th grade: RAG or semantic search-based solution.
+- 5th grade: RAG + Agent based solution.
 
 **Important: If someone obtains the NVIDIA certificate but does not obtain a university certificate, it is still only a 3rd grade. You cannot skip a level!**
 
@@ -45,11 +49,18 @@ Sillabusz
 
 ## Labor
 
-- I.   [Text Cleaning](https://colab.research.google.com/drive/1l4OUML3dcyj3M2Lz1OdLfampTCoxOTCs)
-- II.  [Tokenization](https://colab.research.google.com/drive/1lkF2pse9xOvobn0if582gRTkm_gUlxJm)
-- III. [Vectorization](https://colab.research.google.com/drive/1yl1av2OhUbNCNaAGds3MLfxDbkDfi5H9)
-- IV.  [Embedding](https://colab.research.google.com/drive/1rQzaDyE3-LuXrw2rhHPhsmfZA1qtkSck)
-- V.   [Dimension reduction and topic modelling](https://colab.research.google.com/drive/10xLAswgAcx-K3xS0zNJhd1AsHZ0MMU_X)
+- I.    [Text Cleaning](https://colab.research.google.com/drive/1l4OUML3dcyj3M2Lz1OdLfampTCoxOTCs)
+- II.   [Tokenization](https://colab.research.google.com/drive/1lkF2pse9xOvobn0if582gRTkm_gUlxJm)
+- III.  [Vectorization](https://colab.research.google.com/drive/1yl1av2OhUbNCNaAGds3MLfxDbkDfi5H9)
+- IV.   [Embedding](https://colab.research.google.com/drive/1rQzaDyE3-LuXrw2rhHPhsmfZA1qtkSck)
+- V.    [Dimension reduction and topic modelling](https://colab.research.google.com/drive/10xLAswgAcx-K3xS0zNJhd1AsHZ0MMU_X)
+- VI.   [Trasnformers and Fine Tuning](https://colab.research.google.com/drive/1mEkS8u7XES53J8OP3UjMflWuFGK8oIvc)
+- VII.  [Local AI and Prompting / Helyi AI és Prompting](https://colab.research.google.com/drive/1tbSskze_der6_jNIfRBA0c4K6RmWeHtl)
+- VIII. [Vector Database and Semantic Search](https://colab.research.google.com/drive/1Oq_QnzLhJmJ51zzlHsqGSIk__hr6swz8)
+- IX.   [Retrieval Augmented Generation](https://colab.research.google.com/drive/1EapbAracvgNS3MaOtXgX2sCDUjhL40-R)
+- X.    [Name Entities Recognition with Local AI](https://colab.research.google.com/drive/1oKMT8udY8X_3XGmwBmliHsQMZZujfPZY)
+- XI.   [Recommmender-system](https://colab.research.google.com/drive/1YR0bryCfNVPdshvFUhs0czGgXuj7pZ0E)
+- XII.  [Agent-Big-Picture](https://colab.research.google.com/drive/1KHRAH7t3Nt_odym2HMMjgGM1KGyes-Uo)
 
 
 ## Recommended Literatures and Courses
