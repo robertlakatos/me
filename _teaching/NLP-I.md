@@ -55,7 +55,7 @@ Within the framework of the subject, students will learn about the basics of nat
 ## Labor
  
 - I.  [Text cleaning](https://colab.research.google.com/drive/1QhghhzwDliCOMkRygSLfv5fLKT4Mjro1)
-- II.  [Tokenization](https://colab.research.google.com/drive/1eGKpNV4mVnX35beXJRQuX1G5nbm9Un9q)
+- II. [Tokenization](https://colab.research.google.com/drive/1eGKpNV4mVnX35beXJRQuX1G5nbm9Un9q)
 
 ## Submitted
 
