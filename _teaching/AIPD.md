@@ -44,7 +44,8 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
-- I. [Introduction to AI and large language models (LLMs)](../materials/AIPD/labor/I-theoretical-background)
+- I.   [Introduction to AI and large language models (LLMs)](../materials/AIPD/labor/I-theoretical-background)
+- II.  [-Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/14GbPP9oC2JZHEk2zaOBj84G4CGRO8G4T)
 
 
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)

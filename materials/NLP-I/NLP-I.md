@@ -55,10 +55,17 @@ Application | Package your model into an application. Present the your pipeline 
 
 ## Labor
  
-- III. [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
-- IV.  [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V#scrollTo=6b3sXJUeRUQ4)
-- V.   [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
-- VI.  [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)
+- III.  [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
+- IV.   [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V#scrollTo=6b3sXJUeRUQ4)
+- V.    [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
+- VI.   [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)
+- VII.  [Linear Regression - Text Classification](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
+- VIII. [Dependency Parsing and Token Classification](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ)
+- IX.   [Text Generation](https://colab.research.google.com/drive/1CTmH_k-aMu0OsNxEcVXuF9k-nyP1dVax)
+- X.    [Attention is all you need - Transformers](https://colab.research.google.com/drive/1ZGPPd3zO59rOBsF4BgKXDOV9Cn5gQMvF)
+- XI.   [GPT](https://colab.research.google.com/drive/1u_eqpEsCjlKGVEUsEjbf2lZzQVxAuOGr)
+- XII.  [Pretrained Large Lanugage Modells](https://colab.research.google.com/drive/1F4koB7VoMdAgCtIhP-r1SiGuj5cn1XKJ) 
+- XIII. [Recomendation System](https://colab.research.google.com/drive/1Er5TRNYQ68GJQUa7h7wd_kNwDj3-4gsZ)
 
 
 - N.    [Python Basics](../materials/NLP-I/labor/N-python)
