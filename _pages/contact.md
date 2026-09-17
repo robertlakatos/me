@@ -20,7 +20,6 @@ author_profile: true
 - Monday / Hétfő - 14:00 - 15:30 - IK TEOKJ II. em 111
 - Monday / Hétfő - 16:00 - 17:30 - IK 310
 - Monday / Hétfő - 18:00 - 19:30 - IK 204
-
 - Tuesday / Hétfő - 12:00 - 13:30 - IK F05
 - Tuesday / Hétfő - 14:00 - 15:30 - IK 203
 - Tuesday / Hétfő - 16:00 - 17:30 - IK 203
@@ -28,8 +27,7 @@ author_profile: true
 
 ## Exam Period
 
-- 11. January, 2027 (Monday): - 13:00 - 14:00, IK-128 / Online 	
-- 12. January, 2027 (Tuesday): - 13:00 - 14:00, IK-128 / Online 	
-- 13. January, 2027 (Wednesday): - 13:00 - 14:00, IK-128 / Online
-
-Participation must be arranged in advance via email.
+- 11, January, 2027 (Monday): - 13:00 - 14:00, IK-128 / Online 	
+- 12, January, 2027 (Tuesday): - 13:00 - 14:00, IK-128 / Online 	
+- 13, January, 2027 (Wednesday): - 13:00 - 14:00, IK-128 / Online
+- Participation must be arranged in advance via email.

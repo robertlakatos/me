@@ -42,8 +42,22 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 
 ## Labor
 
-- I.  [Introduction to AI and large language models (LLMs).](../materials/AIPD/labor/I-theoretical-background)
-- II. [-Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/14GbPP9oC2JZHEk2zaOBj84G4CGRO8G4T)
+- I.    [Introduction to AI and large language models (LLMs).](../materials/AIPD/labor/I-theoretical-background)
+- II.   [Exploratory Data Analysis (EDA)](https://colab.research.google.com/drive/14GbPP9oC2JZHEk2zaOBj84G4CGRO8G4T)
+- III.  [Linear Regression](https://colab.research.google.com/drive/1sIXiLMUMcxdY4gyF4Ex2p3RKx1qy43eR)
+- IV.   [Prompt Engineering - HU](../materials/AIPD/labor/IV-pe-hu)
+- IV.   [Prompt Engineering - EN](../materials/AIPD/labor/IV-pe-en)
+- V.    [Neural Networks](https://colab.research.google.com/drive/1DKxfZDBEWUbzF92Rwah_X8UtlQqRqta6)
+- VI.   [Visualization](https://colab.research.google.com/drive/1tHD2cGYFGH7C7kntbGMMVANU08tS8Zii)
+- VII.  [Decision Trees](https://colab.research.google.com/drive/1SH8A4R6D6fAXsQB5pGUr8s7XvkUDvHUr)
+- VIII. [Clustering](https://colab.research.google.com/drive/1MNG3_3owXo57C-mLs68t-R0bZumaLkVr)
+- IX.   [NotebookLM]()
+https://www.datacamp.com/tutorial/notebooklm
+https://sites.google.com/view/notebook-lm/tutorial?pli=1&authuser=0
+- X.    [Erőforrás-optimalizálás]()
+- XI.   [Szimbolikus rendszerek]()
+- XII.  [Q&A - Consultation]()
+- XIII. [Final Project presentation]
 
 - II.   [Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.](../materials/AIPD/labor/I-introduction)
 - III.  [Prompt Engineering - Base](../materials/AIPD/labor/III-pe-base)
