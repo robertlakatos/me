@@ -14,6 +14,7 @@ The course aims for students to gain deep knowledge of modern theoretical method
 
 Labors
 
+- I.    [Neural Network](https://colab.research.google.com/drive/1SrdiqJt9UvF81rpKpF_xaNF9_GxbPpn5)
 - II.   [Convolutional Neural Network](https://colab.research.google.com/drive/1B_es4Se1Y33Jxl2aKuTqzw0y8pgZBjwZ)
 - III.  [U-Net](https://colab.research.google.com/drive/1aYC0B7eTiRn2AYEhRkzQm-bhq0986BFs)
 - IV.   [Diffusion Model](https://colab.research.google.com/drive/1MCEA8eQFczoULia1nld4XO6ZUuWbCzBB)

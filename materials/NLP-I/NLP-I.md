@@ -55,7 +55,7 @@ Application | Package your model into an application. Present the your pipeline 
 
 ## Labor
  
-- III.  [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
+
 - IV.   [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V#scrollTo=6b3sXJUeRUQ4)
 - V.    [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
 - VI.   [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)

@@ -51,13 +51,15 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - VI.   [Visualization](https://colab.research.google.com/drive/1tHD2cGYFGH7C7kntbGMMVANU08tS8Zii)
 - VII.  [Decision Trees](https://colab.research.google.com/drive/1SH8A4R6D6fAXsQB5pGUr8s7XvkUDvHUr)
 - VIII. [Clustering](https://colab.research.google.com/drive/1MNG3_3owXo57C-mLs68t-R0bZumaLkVr)
-- IX.   [NotebookLM]()
-https://www.datacamp.com/tutorial/notebooklm
-https://sites.google.com/view/notebook-lm/tutorial?pli=1&authuser=0
-- X.    [Erőforrás-optimalizálás]()
-- XI.   [Szimbolikus rendszerek]()
+- IX.   [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1BJtCCBKFDkMCJaSJMY4gGAmd0mdofZAt)
+- X.    [Resource Optimization and Linear Programming in Business Decision Making](https://colab.research.google.com/drive/1oTLTD2t-mBC9rOlcLnCvd32qWB71w78m)
+- XI.   [Magyarázható AI - Szimbolikus modellek]()
 - XII.  [Q&A - Consultation]()
 - XIII. [Final Project presentation]
+
+- Extra:[NotebookLM]()
+https://www.datacamp.com/tutorial/notebooklm
+https://sites.google.com/view/notebook-lm/tutorial?pli=1&authuser=0
 
 - II.   [Get familiar with the Google Colab and Gemini platforms, including their core functions and interfaces.](../materials/AIPD/labor/I-introduction)
 - III.  [Prompt Engineering - Base](../materials/AIPD/labor/III-pe-base)
