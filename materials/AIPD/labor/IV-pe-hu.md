@@ -8,8 +8,6 @@ date: 2026-09-16
 location: "Debrecen, Hungary"
 ---
 
-# Prompt Engineering
-
 # Gyakorlati Prompt Engineering a Geminivel
 
 Ez a laborgyakorlat a nagy nyelvi modellekkel (LLM) való hatékony kommunikációt, vagyis a prompt engineering (prompt-tervezés) technikáit mutatja be. A cél, hogy a mesterséges intelligenciát ne csupán egy keresőmotorként, hanem egy programozható kognitív asszisztensként tudd használni.

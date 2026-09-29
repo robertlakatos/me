@@ -8,8 +8,6 @@ date: 2026-09-16
 location: "Debrecen, Hungary"
 ---
 
-# Prompt Engineering
-
 # Practical Prompt Engineering with Gemini
 
 This lab exercise introduces techniques for effective communication with Large Language Models (LLMs)—specifically, prompt engineering. The goal is to enable you to use artificial intelligence not merely as a search engine, but as a programmable cognitive assistant.
