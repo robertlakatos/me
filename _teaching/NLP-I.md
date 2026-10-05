@@ -58,6 +58,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - II.  [Tokenization](https://colab.research.google.com/drive/1eGKpNV4mVnX35beXJRQuX1G5nbm9Un9q)
 - III. [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
 - IV.  [Linear Regression - Text Classification](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
+- V.   [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V)
 
 ## Submitted
 

@@ -57,7 +57,6 @@ Application | Package your model into an application. Present the your pipeline 
  
 
 
-- V.    [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V#scrollTo=6b3sXJUeRUQ4)
 - VI.   [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
 - VII.  [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)
 - VIII. [Dependency Parsing and Token Classification](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ)
