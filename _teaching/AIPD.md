@@ -49,6 +49,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - III. [Linear Regression](https://colab.research.google.com/drive/1sIXiLMUMcxdY4gyF4Ex2p3RKx1qy43eR)
 - IV.  [Prompt Engineering - HU](../materials/AIPD/labor/IV-pe-hu)
 - IV.  [Prompt Engineering - EN](../materials/AIPD/labor/IV-pe-en)
+- V.    [Neural Networks](https://colab.research.google.com/drive/1DKxfZDBEWUbzF92Rwah_X8UtlQqRqta6)
 
 
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
