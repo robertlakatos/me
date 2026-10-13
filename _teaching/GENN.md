@@ -28,7 +28,13 @@ The course aims for students to gain deep knowledge of modern theoretical method
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which you have to submit in video and code format. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video is a single file, smaller than 50MB, and The maximum length of the video is 3-5 minutes.
 - 3rd grade: Attempting a proctored exam (proctored exam environment, Q&A from NVIDIA material, and NLP basics) at least once. (3 times free)
 - 4th grade and university certificate: Successfully passing a proctored exam.
-- 5th grade: Obtaining an NVIDIA certificate (Adding New Knowledge to LLMs).
+- 5th grade: Obtaining an NVIDIA certificate (Adding New Knowledge to LLMs). 
+
+## Registration form to NVIDIA certificate (Adding New Knowledge to LLMs)
+
+- [Adding New Knowledge to LLMs - 11/14/2026 9:00 AM – 11/14/2026 5:00 PM](https://forms.gle/8xpgHWRJ4gZdUEtRA)
+- [Adding New Knowledge to LLMs - 11/15/2026 9:00 AM – 11/14/2026 5:00 PM](https://forms.gle/DPovqTCB19G7Z9MPA)
+- [Adding New Knowledge to LLMs - 11/28/2026 8:00 AM – 11/28/2026 4:00 PM](https://forms.gle/mqmfiVb21cxDUoH59)
 
 **Important: If someone obtains the NVIDIA certificate but does not obtain a university certificate, it is still only a 3rd grade. You cannot skip a level!**
 

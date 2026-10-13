@@ -32,6 +32,12 @@ Within the framework of the subject, students will learn about the basics of nat
 - 4th grade and university certificate: Successfully passing a proctored exam.
 - 5th grade: Obtaining an NVIDIA certificate (Adding New Knowledge to LLMs).
 
+## Registration form to NVIDIA certificate (Adding New Knowledge to LLMs)
+
+- [Adding New Knowledge to LLMs - 11/14/2026 9:00 AM – 11/14/2026 5:00 PM](https://forms.gle/8xpgHWRJ4gZdUEtRA)
+- [Adding New Knowledge to LLMs - 11/15/2026 9:00 AM – 11/14/2026 5:00 PM](https://forms.gle/DPovqTCB19G7Z9MPA)
+- [Adding New Knowledge to LLMs - 11/28/2026 8:00 AM – 11/28/2026 4:00 PM](https://forms.gle/mqmfiVb21cxDUoH59)
+
 **Important: If someone obtains the NVIDIA certificate but does not obtain a university certificate, it is still only a 3rd grade. You cannot skip a level!**
 
 ### Project Rules
