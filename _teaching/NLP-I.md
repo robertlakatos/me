@@ -65,6 +65,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - III. [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
 - IV.  [Linear Regression - Text Classification](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
 - V.   [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V)
+- VI.  [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
 
 ## Submitted
 
