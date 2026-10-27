@@ -27,10 +27,23 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ### Evaluation
 
-- Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which you have to submit in video and code format. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video is a single file, smaller than 50MB, and The maximum length of the video is 3-5 minutes.
-- 3rd grade: Attempting a proctored exam (proctored exam environment, Q&A from NVIDIA material, and NLP basics) at least once. (3 times free)
-- 4th grade and university certificate: Successfully passing a proctored exam.
-- 5th grade: Obtaining an NVIDIA certificate (Adding New Knowledge to LLMs).
+- Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which must be submitted in video and code formats. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video must be a single file, smaller than 50MB, with a maximum length of 3-5 minutes.
+- Proctored Exam Rules & Details:
+  - Prerequisites: To be eligible to take the proctored exam, students must first complete the NVIDIA course and obtain the NVIDIA certificate (Adding New Knowledge to LLMs). Students must bring this certificate with them to the exam.
+  - Time and Location: The exam takes place in the laboratory room during the last class.
+  - Environment: Conducted in the university's e-learning system under protected, proctored conditions.
+  - Attendance: Only students who sign the attendance sheet on the day of the exam are permitted to take it.
+  - Mandatory Requirement: Appearing for and attempting the proctored exam at least once is mandatory. Failure to do so will result in an incomplete course.
+  - Attempts: The proctored exams associated with the NVIDIA course can be attempted 3 times for free.
+  - Preparation: A preparatory quiz is provided for the proctored exam; studying it thoroughly ensures a successful exam.
+- Grading System:
+  - 3rd grade: Obtaining the signature AND successfully obtaining the NVIDIA certificate.
+  - 4th grade: Fulfilling the baseline requirements (signature + NVIDIA certificate), but failing the proctored exam.
+  - 5th grade: Fulfilling the baseline requirements and successfully passing the proctored exam.
+
+### Course Path
+
+
 
 ## Registration form to NVIDIA certificate (Adding New Knowledge to LLMs)
 
@@ -49,7 +62,7 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ### Submission
 
-- **Submission deadline: 2026.12.14. 24:00 (Sunday)**
+- **Submission deadline: 2026.12.04. 24:00 (Friday)**
 - [**Submission form (CLOSED)**](https://forms.cloud.microsoft/e/u4Q3wsmvxb?origin=lprLink)
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.

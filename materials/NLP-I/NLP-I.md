@@ -44,7 +44,7 @@ Application | Package your model into an application. Present the your pipeline 
 
 ### Submission
 
-- **Submission deadline: 2025.12.14. 24:00 (Sunday)**
+- **Submission deadline: 2026.12.04. 24:00 (Friday)**
 - [**Submission form (CLOSED)**]()
      - Mandatory fields: Neptun code, Video link, Source link.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.

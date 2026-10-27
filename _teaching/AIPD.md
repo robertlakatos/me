@@ -50,6 +50,7 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - IV.  [Prompt Engineering - HU](../materials/AIPD/labor/IV-pe-hu)
 - IV.  [Prompt Engineering - EN](../materials/AIPD/labor/IV-pe-en)
 - V.   [Decision Trees](https://colab.research.google.com/drive/1SH8A4R6D6fAXsQB5pGUr8s7XvkUDvHUr)
+- VI.  [Neural Networks](https://colab.research.google.com/drive/1-fJ9LOlZiqmI2aqYxx0m9hfQNnOWeDtf)
 
 
 ## [Submitted](https://unidebhu-my.sharepoint.com/:x:/r/personal/lakatos_robert_inf_unideb_hu/Documents/Submission%20Form.xlsx?d=w4bea7c59f46b496dbaeed9bb2f3a50e2&csf=1&web=1&e=aMnmoK)
