@@ -41,6 +41,8 @@ Within the framework of the subject, students will learn about the basics of nat
   - 4th grade: Fulfilling the baseline requirements (signature + NVIDIA certificate), but failing the proctored exam.
   - 5th grade: Fulfilling the baseline requirements and successfully passing the proctored exam.
 
+<img src="images/learn_path.jpeg" alt="Learning Path">
+
 ### Course Path
 
 
