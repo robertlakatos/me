@@ -63,6 +63,7 @@ The course aims for students to gain deep knowledge of modern theoretical method
 - III.  [U-Net](https://colab.research.google.com/drive/1aYC0B7eTiRn2AYEhRkzQm-bhq0986BFs)
 - IV.   [Diffusion Model](https://colab.research.google.com/drive/1MCEA8eQFczoULia1nld4XO6ZUuWbCzBB)
 - V.    [Optimizations](https://colab.research.google.com/drive/11zVZVmNvCtSuUohVYpcEL1yr_Qp9iw49)
+- VI.   [Classifier Free Diffusion](https://colab.research.google.com/drive/1gtX3GO2zviz9N66Xa1ubxINULqNzUYld)
 
 ## Recommended Literatures and Courses
 
