@@ -19,7 +19,7 @@ This twelve-week course redefines text mining for the generative artificial inte
 - Monday / Hétfő - 11:00 - 12:00 - IK 128 (in my office)
 - Tuesday / Kedd - 11:00 - 12:00 - IK 128 (in my office)
 
-## Requirements
+### Evaluation
 
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which must be submitted in video and code formats. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video must be a single file, smaller than 50MB, with a maximum length of 3-5 minutes.
 - Proctored Exam Rules & Details:
@@ -34,6 +34,10 @@ This twelve-week course redefines text mining for the generative artificial inte
   - 3rd grade: Obtaining the signature AND successfully obtaining the NVIDIA certificate.
   - 4th grade: Fulfilling the baseline requirements (signature + NVIDIA certificate), but failing the proctored exam.
   - 5th grade: Fulfilling the baseline requirements and successfully passing the proctored exam.
+
+### Course Path
+
+<img src="images/learn_path.jpeg" alt="Learning Path">
 
 ### Project Rules
 

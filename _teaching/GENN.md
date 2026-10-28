@@ -23,7 +23,7 @@ The course aims for students to gain deep knowledge of modern theoretical method
 
 ## [Attendance sheet status](https://unidebhu-my.sharepoint.com/:x:/g/personal/lakatos_robert_inf_unideb_hu/IQCCnu6AtHk1TpCV4NsYwGVqASFjuU1MguAOZNI0A8oSHlY?e=B3IZ3O)
 
-## Requirements
+### Evaluation
 
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which must be submitted in video and code formats. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video must be a single file, smaller than 50MB, with a maximum length of 3-5 minutes.
 - Proctored Exam Rules & Details:
@@ -37,7 +37,11 @@ The course aims for students to gain deep knowledge of modern theoretical method
 - Grading System:
   - 3rd grade: Obtaining the signature AND successfully obtaining the NVIDIA certificate.
   - 4th grade: Fulfilling the baseline requirements (signature + NVIDIA certificate), but failing the proctored exam.
-  - 5th grade: Fulfilling the baseline requirements and successfully passing the proctored exam. 
+  - 5th grade: Fulfilling the baseline requirements and successfully passing the proctored exam.
+
+### Course Path
+
+<img src="images/learn_path.jpeg" alt="Learning Path">
 
 ## Registration form to NVIDIA certificate (Adding New Knowledge to LLMs)
 
