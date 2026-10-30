@@ -63,12 +63,12 @@ The course aims for students to gain deep knowledge of modern theoretical method
 - **Submission deadline: 2026.12.04. 24:00 (Friday)**
 - [**Submission form**](https://forms.cloud.microsoft/e/u4Q3wsmvxb?origin=lprLink)
      - Mandatory fields: Neptun code, Video link, Source link.
-     - Preferred file-hosting service is the Google Drive and Google Colab
-     - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
+     - The Preferred file-hosting service is the Google Drive and Google Colab
+     - If there is more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the source code (One Jupyter notebook file with your code, and it must be run in Google Colab perfectly)).
      - The Video link contains the video (smaller than 50MB, and format type is MP4).
      - If two are the same, the same must be entered in both places.
-     - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
+     - If there are no exceptional obstacles, please allow (chosse **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
 ## Labor
 
