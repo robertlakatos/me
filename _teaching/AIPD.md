@@ -36,8 +36,9 @@ The course also covers the ethical issues of AI, such as transparency, avoiding 
 - It is not sure that the team members receive a uniform grades, but get the grades in proportion to the task they have completed in the project.
 
 - **Submission deadline: 2026.12.06. 24:00 (Sunday)**
-- [**Submission form (CLOSED)**]()
+- [**Submission form**](https://forms.cloud.microsoft/e/u4Q3wsmvxb?origin=lprLink)
      - Mandatory fields: Neptun code, Video link, Source link.
+     - Preferred file-hosting service is the Google Drive.
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
      - The Source link contains the ppt and source code.
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.

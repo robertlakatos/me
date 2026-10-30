@@ -49,11 +49,12 @@ This twelve-week course redefines text mining for the generative artificial inte
 ### Submission
 
 - **Submission deadline: 2026.12.14. 24:00 (Sunday)**
-- [**Submission form (CLOSED)**](https://forms.cloud.microsoft/e/u4Q3wsmvxb?origin=lprLink)
+- [**Submission form**](https://forms.cloud.microsoft/e/u4Q3wsmvxb?origin=lprLink)
      - Mandatory fields: Neptun code, Video link, Source link.
+     - Preferred file-hosting service is the Google Drive and Google Colab
      - If there are more than one of you, the Neptun code can be entered as a list separated by commas.
-     - The Source link contains the source code.
-     - The Video link contains the video code.
+     - The Source link contains the source code (One Jupyter notebook file with your code, and it must be run in Google Colab perfectly)).
+     - The Video link contains the video (smaller than 50MB, and format type is MP4).
      - If two are the same, the same must be entered in both places.
      - If there are no exceptional obstacles, please allow (chose **'yes'** on the form) your submitted work to be shared among the students of the following semesters within the framework of the subject.
 
