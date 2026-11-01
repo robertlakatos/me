@@ -23,21 +23,10 @@ This twelve-week course redefines text mining for the generative artificial inte
 
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which must be submitted in video and code formats. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video must be a single file, smaller than 50MB, with a maximum length of 3-5 minutes.
 - Proctored Exam Rules & Details:
-  - Prerequisites: To be eligible to take the proctored exam, students must first complete the NVIDIA course and obtain the NVIDIA certificate (Adding New Knowledge to LLMs). Students must bring this certificate with them to the exam.
-  - Time and Location: The exam takes place in the laboratory room during the last class.
-  - Environment: Conducted in the university's e-learning system under protected, proctored conditions.
-  - Attendance: Only students who sign the attendance sheet on the day of the exam are permitted to take it.
-  - Mandatory Requirement: Appearing for and attempting the proctored exam at least once is mandatory. Failure to do so will result in an incomplete course.
-  - Attempts: The proctored exams associated with the NVIDIA course can be attempted 3 times for free.
-  - Preparation: A preparatory quiz is provided for the proctored exam; studying it thoroughly ensures a successful exam.
 - Grading System:
-  - 3rd grade: Obtaining the signature AND successfully obtaining the NVIDIA certificate.
-  - 4th grade: Fulfilling the baseline requirements (signature + NVIDIA certificate), but failing the proctored exam.
-  - 5th grade: Fulfilling the baseline requirements and successfully passing the proctored exam.
-
-### Course Path
-
-<img src="images/learn_path.jpeg" alt="Learning Path">
+  - 3rd grade: Using a simple transformer model and fine-tuning on your own dataset.
+  - 4th grade: RAG or semantic search-based solution.
+  - 5th grade: RAG + Agent based solution.
 
 ### Project Rules
 

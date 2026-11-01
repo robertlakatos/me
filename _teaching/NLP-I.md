@@ -30,6 +30,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - Signature: Fewer absences than allowed. Active participation in classes. Presentation of the completed project assignment, which must be submitted in video and code formats. The code consists of a single Jupyter notebook file that runs in the Google Colab environment. The video must be a single file, smaller than 50MB, with a maximum length of 3-5 minutes.
 - Proctored Exam Rules & Details:
   - Prerequisites: To be eligible to take the proctored exam, students must first complete the NVIDIA course and obtain the NVIDIA certificate (Adding New Knowledge to LLMs). Students must bring this certificate with them to the exam.
+  - Portals: You have to register at [learn.nvidia.com](https://learn.nvidia.com/) and log in to [edu.inf.unideb.hu](https://edu.inf.unideb.hu/login/index.php) with your University.
   - Time and Location: The exam takes place in the laboratory room during the last class.
   - Environment: Conducted in the university's e-learning system under protected, proctored conditions.
   - Attendance: Only students who sign the attendance sheet on the day of the exam are permitted to take it.
@@ -80,6 +81,7 @@ Within the framework of the subject, students will learn about the basics of nat
 - IV.  [Linear Regression - Text Classification](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
 - V.   [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V)
 - VI.  [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
+- VII. [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)
 
 ## Submitted
 
