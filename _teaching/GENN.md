@@ -44,10 +44,16 @@ The course aims for students to gain deep knowledge of modern theoretical method
 
 <img src="images/learn_path.jpeg" alt="Learning Path">
 
+## Webex links:
+
+- [Adding New Knowledge to LLMs - 11/14/2026 9:00 AM – 11/14/2026 5:00 PM](https://unideb.webex.com/unideb/j.php?MTID=m56c286f3e1cb4fbe4bc7c5d94ab2c964)
+- [Adding New Knowledge to LLMs - 11/15/2026 9:00 AM – 11/15/2026 5:00 PM](https://unideb.webex.com/unideb/j.php?MTID=mbbb71a6179da1dcfb51f4164f757e581)
+- [Adding New Knowledge to LLMs - 11/28/2026 8:00 AM – 11/28/2026 4:00 PM](https://unideb.webex.com/unideb/j.php?MTID=mca25af0019e94c9367f4e8610debebb4)
+
 ## Registration form to NVIDIA certificate (Adding New Knowledge to LLMs)
 
 - [Adding New Knowledge to LLMs - 11/14/2026 9:00 AM – 11/14/2026 5:00 PM](https://forms.gle/8xpgHWRJ4gZdUEtRA)
-- [Adding New Knowledge to LLMs - 11/15/2026 9:00 AM – 11/14/2026 5:00 PM](https://forms.gle/DPovqTCB19G7Z9MPA)
+- [Adding New Knowledge to LLMs - 11/15/2026 9:00 AM – 11/15/2026 5:00 PM](https://forms.gle/DPovqTCB19G7Z9MPA)
 - [Adding New Knowledge to LLMs - 11/28/2026 8:00 AM – 11/28/2026 4:00 PM](https://forms.gle/mqmfiVb21cxDUoH59)
 
 **Important: If someone obtains the NVIDIA certificate but does not obtain a university certificate, it is still only a 3rd grade. You cannot skip a level!**
