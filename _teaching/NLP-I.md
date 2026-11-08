@@ -81,13 +81,14 @@ Within the framework of the subject, students will learn about the basics of nat
 
 ## Labor
  
-- I.   [Text cleaning](https://colab.research.google.com/drive/1QhghhzwDliCOMkRygSLfv5fLKT4Mjro1)
-- II.  [Tokenization](https://colab.research.google.com/drive/1eGKpNV4mVnX35beXJRQuX1G5nbm9Un9q)
-- III. [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
-- IV.  [Linear Regression - Text Classification](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
-- V.   [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V)
-- VI.  [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
-- VII. [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)
+- I.    [Text cleaning](https://colab.research.google.com/drive/1QhghhzwDliCOMkRygSLfv5fLKT4Mjro1)
+- II.   [Tokenization](https://colab.research.google.com/drive/1eGKpNV4mVnX35beXJRQuX1G5nbm9Un9q)
+- III.  [Vectorization](https://colab.research.google.com/drive/1IH8gGmSdls7d_ZbN9R9oAbYs055CSEc3)
+- IV.   [Linear Regression - Text Classification](https://colab.research.google.com/drive/1qPoDbd8pvZgHSsbzmEwXl3nVF31E-pUX)
+- V.    [Neural Network](https://colab.research.google.com/drive/1YRtib8-zwdIb8h77HwrYfVj8Bg-Bnq7V)
+- VI.   [Embedding](https://colab.research.google.com/drive/1yTrqk--nS9f9cgiZzcy2t7sCsk87bFWf)
+- VII.  [Dimension reduction and topic modelling](https://colab.research.google.com/drive/1MZg5WyrVIS810R41xTz8o8oqussHJQVr)
+- VIII. [Dependency Parsing and Token Classification (online)](https://colab.research.google.com/drive/186xzRDoKSwcUnEbxDZxFVk35f1Xch2MZ)
 
 ## Submitted
 

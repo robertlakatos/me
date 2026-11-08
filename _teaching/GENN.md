@@ -86,6 +86,7 @@ The course aims for students to gain deep knowledge of modern theoretical method
 - V.    [Optimizations](https://colab.research.google.com/drive/11zVZVmNvCtSuUohVYpcEL1yr_Qp9iw49)
 - VI.   [Classifier Free Diffusion](https://colab.research.google.com/drive/1gtX3GO2zviz9N66Xa1ubxINULqNzUYld)
 - VII.  [Text Cleaning](https://colab.research.google.com/drive/1uP4vL8KjppUAbxShM1k4ZfbRYVBgZJ4q)
+- VIII. [Tokenization (online)](https://colab.research.google.com/drive/1zHYwCWzKef1ob9HX1RBPwIwKqWlKerNe)
 
 ## Recommended Literatures and Courses
 
